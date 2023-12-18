@@ -1,0 +1,87 @@
+Öğrenci Login Page Özellikler
+
+1 - Sayfanın asıl görevi bu olduğu için 
+ekranın ortasında öğrenci giriş bilgileri 
+için bir form bloğu bulunur.
+ 
+	1.a - Form bloğunun en üstünde okulun logosu bulunur.
+
+        1.b - Logonun altında öğrenci girişi olduğunu 
+       belirten bir yazı bulunur.
+
+	1.c - Yazının altında form verilerini alacak 
+       alt alta kutular bulunur. Öğrenci giriş yapabilmek 
+       için bu kutuları doldurmak zorundadır.
+			
+			1.c.1 - 1.kutuda öğrenci numarası alınır.
+
+      			1.c.2 - 2.kutuda öğrencinin şifresi alınır. 
+				
+				1.c.2.1- Şifre girilirken karakterler 
+                              güvenlik amacıyla gizlenir.
+
+      			1.c.3 - Şifre kutusunun altında ReCaptcha 
+		       doğrulama kutusu bulunur. 
+
+				1.c.3.1 - Bu doğrulama başarılı 
+			       olarak tamamlanmadığı sürece 1.d
+ 	                       maddesinde belirtilecek olan “Giriş” 
+                               ve “Şifremi Unuttum” butonları salt
+                       	       okunur olarak pasif bir şekilde 
+                               ekranda gözükmeye devam edecektir. 
+
+				1.c.3.2 - Doğrulamanın geçilmesiyle 
+			       birlikte bu butonlar aktif olacaktır.
+
+	1.d - Form bloğu içinde “giriş” butonu ve  
+       “şifremi unuttum” yazılı şifre yenileme butonu bulunur. 
+
+		1.d.1 - Butonların aktif olması için, 1.c.3 
+               maddesinde belirtildiği üzere, ReCaptcha 
+               doğrulamasının başarılı bir şekilde yapılmış 
+               olması gerekmektedir.
+
+     		1.d.2 - ReCaptcha doğrulaması başarılı olduysa
+               ve öğrenci numarası ve şifre doğru girildiyse 
+               “Giriş” butonu öğrenciyi “Öğrenci Bilgi Sistemi 
+               Öğrenci Anasayfa”sına gönderir. 
+
+			1.d.2.1 - Form yanlış doldurma durumlarında 
+                       tüm form verileri temizlenmiş şekilde sayfa tekrar 
+                       yüklenecektir.
+
+                       		1.d.2.1.a - Eğer öğrenci numarası
+		       	       karakter sınırına uygun değilse 
+                       	       (Kocaeli Üniversitesi için 9 basamak)
+			       karakter sınırı uyarısı ekrana gelecektir.
+
+	1.f - Giriş ekranında sosyal medya hesaplarına 
+       yönlendirme yapacak ikonlar bulunur. 
+		
+		1.f.1 - Her sosyal medya hesabı, 
+               ilgili sosyal medya ikonuna tıklanarak 
+               ulaşılabilir hale getirilmiştir.
+
+
+2 - Giriş sayfasında okula ait uzaktan eğitim sistemine 
+yönlendirme yapan bir yazı ve altında da yönlendirmeyi 
+sağlayan bir buton bulunur.
+
+     2.a - Yazı, altındaki butonu tanımlayan 
+    ve butonun “Uzaktan Eğitim Sistemi”ne 
+    yönlendirdiğini belirten bir metin şeklindedir.
+
+     2.b - Yazının altında “Uzem Anasayfa” butonu 
+    bulunur. Bu buton kullanıcıyı okulun e-destek 
+    sistemine yönlendiren linki çalıştırır.
+
+
+
+3 - Sayfada lisans sahibi bilgileri yer alır. 
+(Kocaeli Üniversitesi için “2001-2023 
+Kocaeli Üniversitesi Öğrenci İşleri Daire Başkanlığı)
+
+
+
+
+      
