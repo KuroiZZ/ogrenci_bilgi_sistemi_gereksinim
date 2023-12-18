@@ -1,0 +1,32 @@
+Şifremi Unuttum Ekranı
+
+1 - Giriş ekranı üzerinde ReCaptcha doğrulamasını yap
+	
+	1.a - Doğrulama süresi dolana kadar şifremi unuttum
+       ekranı aktif olarak çalışacaktır.
+	1.b - Doğrulama süresi şifremi unuttum ekranında
+       işlem yaparken dolarsa ekrandaki butonlar çalışmayacaktır.
+
+		1.b.1 - Son adımda bile olunsa, ReCaptcha süresi dolduysa
+	       ekran üzerindeki butonlar çalışmayacaktır.
+
+
+2 - İlk açılan sayfada bir form bloğunda kimlik bilgileri al
+
+	2.a - T.C. kimlik numarası al.
+	2.b - Öğrenci numarası al.
+	2.c - T.C. kimlik seri no al.
+
+3 - Devam tuşuyla bilgileri doğrula
+
+	3.a - Kimlik no ve Öğrenci no eşleşmiyorsa uyarı ver
+	3.b - Kimlik no ve seri no eşleşmiyorsa uyarı ver
+	3.c - Her şey doğruysa 3. adıma git
+
+4 - Yeni şifreyi göndermek için telefon numarası al
+	
+	4.a - Herhangi bir telefon numarası olabilir.
+
+5 - Girilen telefon numarasına şifreyi gönder
+
+	5.a - Yeni şifre oluşturma, var olan şifreyi gönder.

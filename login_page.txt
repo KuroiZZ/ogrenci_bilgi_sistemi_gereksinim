@@ -33,6 +33,11 @@ için bir form bloğu bulunur.
 				1.c.3.2 - Doğrulamanın geçilmesiyle 
 			       birlikte bu butonlar aktif olacaktır.
 
+				1.c.3.3 - Eğer bilgiler girilip giriş
+			       yapılmadan ReCaptcha süresi dolarsa, giriş
+                               ve şifremi unuttum butonları tekrar pasif
+                               hale gelecektir.
+
 	1.d - Form bloğu içinde “giriş” butonu ve  
        “şifremi unuttum” yazılı şifre yenileme butonu bulunur. 
 
