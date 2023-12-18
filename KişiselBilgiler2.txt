@@ -1,0 +1,23 @@
+Kişisel Bilgiler >Şifre Değiştirme 
+1- Öğrencinin şifresini değiştirebileceği bir sayfa açılır.
+
+1.1 Şifre değiştirme, eski şifrenin ve yeni şifrenin girileceği kutudur. 
+1.1.1 Eski Şifre kısmı, öğrencinin eski şifresini girmesi gereken yerdir. 
+1.1.1.1 Eski şifre yanlış girilirse, "eski şifrenizi kontrol ederek tekrar deneyiniz!" uyarısı ekranda gösterilir. 
+1.1.2 Yeni Şifre kısmı, öğrencinin yeni şifresini girmesi gereken yerdir. 
+1.1.2.1- Yeni şifre 1.2'deki maddelere uyulmazsa, uyulmayan maddeler gösterilir. 
+1.1.3 Yeni Şifre tekrar kısmı, öğrencinin 1.1.2'de girdiği şifreyi yeniden girmesi gerekir. 
+1.1.3.1 Yeni şifre tekrar kısmı, 1.1.2'de yazılan şifreden farklı olursa "Yeni şifre ve Yeni şifre tekrar bilgileriniz birbirinden farklı olamaz!" uyarı penceresi açılır. 
+1.1.3.1.1 Uyarı pencerinde tamam'a basıldıktan sonra bu sayfaya girilen bilgiler silinir. 
+1.1.4 Değiştir butonuna tıklayarak işlem tamamlanır. 
+
+1.2 Yeni şifre oluştururken, 1.1.2'de girilecek şifrenin kurallarının belirtildiği kutudur. 8 madde içerir.
+1.2.1 Şifrenin en az 9 karakterden oluşması gerektiğini belirtir.
+1.2.2 Şifrenin en fazla 15 karakterden oluşması gerektiğini belirtir.
+1.2.3 Şifrenin en az 1 adet rakam bulundurması gerektiği belirtir.
+1.2.4 Şifrenin en az 1 adet büyük harf bulundurması gerektiğini belirtir. 
+1.2.5 Şifrenin en az 1 adet küçük harf bulundurması gerektiğini belirtir.
+1.2.6 Şifrenin en az 1 adet özel karakter bulundurması gerektiğini belirtir ve kullanılabilecek özel karakteri gösterir. 
+1.2.6.1 Özel karakterleri "@", "!", "$", "^", "*", ".", "," olarak tanımlar.
+1.2.7 Şifrenin "@" karakteri ile başlamaması gerektiğini belirtir. 
+1.2.8 Şifre örneği gösterir. 
