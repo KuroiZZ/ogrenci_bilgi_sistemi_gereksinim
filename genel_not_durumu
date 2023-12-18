@@ -1,0 +1,16 @@
+Genel Not Durumu
+
+1- Genel Not Durumu başlıklı bir tablo bulunur.
+
+1.1- Tablonun 7 sütunu vardır.
+1.1.1-  Ders Kodu sütununda dersin kısaltma adı bulunur.
+1.1.2-  Ders Adı sütununda dersin tam adı bulunur.
+1.1.3-  Dili sütununda ders işlenirken kullanılan dil bulunur.
+1.1.4-  AKTS sütununda dersin Avrupa Kredi Transfer Sistemi
+        uyumlu not ağırlığı bulunur.
+1.1.5-  Başarı Notu sütununda öğrencinin o dersteki yarıyıl
+        sonu not ortalamasına göre belirlenen harf notu bulunur.
+1.1.6-  Başarı Katsayısı sütununda öğrencinin o dersteki yarıyıl
+        sonu not ortalamasına göre 0 ila 4 arasında belirlenen
+        notu bulunur.
+1.1.7-  Durum sütununda öğrencinin dersi geçme durumu bulunur.
