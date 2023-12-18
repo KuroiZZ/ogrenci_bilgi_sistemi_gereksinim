@@ -15,8 +15,9 @@
 >1.1.11 Dosya seç tuşuna basarak öğrenci kendine ait fotoğrafı dosyasını seçmelidir. 
 >>1.1.11.1 Öğrenci fotoğraf yükle tuşuna basarak seçtiği dosyayı sisteme yüklemelidir.
 >1.1.12 Öğrenci bu bilgilerin güncel olduğunu ve üniversite tarafından yapılan bildirimlerin kurumsal öğrenci e-postasına yapılmasını beyan ettiğini gösteren kutuya işaret atmalıdır. 
->1.1.13 Öğrenci kaydet butonuna tıklayarak işini sonlandırmalıdır. 
-
+>1.1.13 Öğrenci kaydet butonuna tıklayarak işini sonlandırır.
+>>1.1.13.1 Kırmızı yıldızlı alanlar doldurulmazsa "Zorunlu alanların doldurulması gerekmektedir!" uyarı penceresi çıkar.
+>>1.1.13.2 Kırmızı yıldızlı alanlar doldurulursa "Bilgileriniz Başarıyla Kaydedilmiştir." uyarı pencerisi çıkar ve kullanıcıyı ana sayfaya atar. 
 
 1.2-Kişisel Bilgiler Bölümü, öğrencinin kişisel bilgileri hakkındaki şu bilgileri gösterir:
 >1.2.1 Öğrenci No kısmı, Öğrencinin okuduğu üniversite tarafından verilen öğrenci numarasını gösterir.
