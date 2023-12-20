@@ -14,3 +14,22 @@ Genel Not Durumu
         sonu not ortalamasına göre 0 ila 4 arasında belirlenen
         notu bulunur.
 1.1.7-  Durum sütununda öğrencinin dersi geçme durumu bulunur.
+
+1.2- Tamamlanmış dönemlerin bilgileri eskiden yeniye doğru sıralanır.
+1.2.1-  Bir satırda en fazla 1(bir) dersin bilgileri bulunur.
+1.2.2-  Bir ders satırında yalnızca sütünlarda belirtilen
+        bilgiler bulunur.
+1.2.3-  Hazırlık haricindeki her dönemin ilk satırı o dönemin
+        yılı ve mevsimi bilgisinden ibarettir.
+1.2.4-  Dönemlerin dersleri alfabetik olarak sıralanır.
+1.2.5-  Hazırlık haricindeki her dönemin son satırında
+        o dönemin ağırlıklı not ortalaması bulunur.
+1.2.5.1-        Ağırlıklı not ortalaması her dersin başarı katsayısı
+                ile AKTS değerinin çarpımlarının ortalamasıdır.
+
+1.3- Tablonun en altında ağırlıklı genel not ortalaması bulunur.
+
+2- Tez/Seminer Konu Bilgileri başlıklı bir bölüm bulunur.
+
+3- Açıklamalar başlıklı bir bölüm bulunur.
+3.1-    Bölümde sayfanın dipnotları sıralanır.
