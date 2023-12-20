@@ -1,0 +1,4 @@
+Habil
+{
+1.b maddesinin altında 'yeni mesaj gönder butonu' gözükür ve bu butonu kullanarak mesaj gönder sekmesine gidileceği belirtilmeli.
+}
