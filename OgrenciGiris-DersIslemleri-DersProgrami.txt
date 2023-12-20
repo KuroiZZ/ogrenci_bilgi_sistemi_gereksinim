@@ -1,0 +1,9 @@
+1 - Öğrenci ekranda bulunan açılır bir menü sayesinde ders programını görmek istediği dönemi seçer.
+2 - Seçilen döneme göre 7 sütun 16 satira sahip bir tablo gösterilir.
+    2.1 - Sütunlar 1'den başlayarak Pazartesi-Salı-Çarşamba-Perşembe-Cuma-Cumartesi-Pazar olarak adlandırılır.
+    2.2 - Satirlar Satirno.Ders ve dersin saati şeklinde yazılır 1.Ders 8'den başlar dersler arası 1'er saattir.
+3 - Tablonun bölmelerinde bilgiler gösterilir.
+   3.1 - Dersin katalog id'si gösterilir
+   3.2 - Dersin adi gösterilir.
+   3.3 - Dersin eğitim görevlisi gösterilir.
+   3.4 - Dersin işleneceği derslik gösterilir.
