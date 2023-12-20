@@ -38,3 +38,6 @@
 		1.b.1 - Tıklandığında gönderilen mesajlar kısmı açılır.
 		1.b.2 - Gelen mesajlar için geçerli seçeneklerden 1.a.2'den 1.a.5.2.1 dahil olmak üzere
 	       olan kısım gönderilen mesajlar ekranı için de geçerlidir. 
+		1.b.3 - Yeni mesaj gönder butonu bulunur.
+
+			1.b.3.1 - Mesaj gönder sayfasına atar.
