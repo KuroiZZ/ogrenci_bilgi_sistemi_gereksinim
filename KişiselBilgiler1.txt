@@ -1,4 +1,4 @@
-Habil Tataroğulları Efendi tarafından kontrol edildi.
+Erkut adam tarafından kontrol ediliyor...
 
  Kişisel Bilgiler > Bilgi Görüntüleme
 1- Öğrenci Bilgileri bölümü Görüntülenir 
@@ -21,14 +21,21 @@ Habil Tataroğulları Efendi tarafından kontrol edildi.
 >>1.1.13.1 Kırmızı yıldızlı alanlar doldurulmazsa "Zorunlu alanların doldurulması gerekmektedir!" uyarı penceresi çıkar.
 >>1.1.13.2 Kırmızı yıldızlı alanlar doldurulursa "Bilgileriniz Başarıyla Kaydedilmiştir." uyarı pencerisi çıkar ve kullanıcıyı ana sayfaya atar. 
 
-1.2-Kişisel Bilgiler Bölümü, öğrencinin kişisel bilgileri hakkındaki şu bilgileri gösterir:
+1.2-Kişisel Bilgiler Bölümü, öğrencinin kişisel bilgilerini gösterir.
 >1.2.1 Öğrenci No kısmı, Öğrencinin okuduğu üniversite tarafından verilen öğrenci numarasını gösterir.
 >1.2.2 T.C. Kimlik/YU No kısmı, Öğrencinin t.c. kimlik numarasını gösterir.
 >1.2.3 Ad Soyad kısmı, Öğrencinin ismini ve soyismini gösterir.
 >1.2.4 Doğum yeri kısmı, Öğrencinin doğum yerini gösterir.
 >1.2.5 Doğum tarihi kısmı, Öğrencinin doğum tarihini gösterir.
+>1.2.6 Fotoğraf kısmında öğrencinin fotoğrafı gösterilir.
+>>1.2.6.1 Seçili fotoğraf yoksa fotoğraf alanında Resim Yok yazılı bir görsel bulunacaktır.
+>>1.2.6.2 Seçili fotoğraf olursa fotoğraf alanında o fotoğraf görünecektir.
+>>1.2.6.3 Fotoğraf seçim butonu bulunacaktır.
+>>>1.2.6.3.1 Basıldığında dosya gezgini açılacak ve fotoğraf seçimi yapılacaktır.
+>>>1.2.6.3.2 Fotoğraf seçildikten sonra fotoğrafı yükleyecek Fotoğraf yükle butonu bulunacaktır.
+>>>>1.2.6.3.2.1 Bu tuşla fotoğraf sisteme yüklenip kaydedilecektir.
 
-1.3-Eğitim Bilgileri Bölümü, öğrencinin eğitim bilgisi hakkındaki şu bilgileri gösterir:
+1.3-Eğitim Bilgileri Bölümü, öğrencinin eğitim bilgilerini gösterir.
 >1.3.1 Fakülte/YO/MYO kısmı, Öğrencinin üniversitede okuduğu/okuyacağı fakülteyi gösterir.
 >1.3.2 Bölüm kısmı, Öğrencinin üniversitede okuduğu/okuyacağı bölümü gösterir.
 >1.3.3 Sınıf kısmı, Öğrencinin kaçıncı sınıfta olduğunu gösterir. Hazırlıksa hazırlık yazar.
@@ -38,15 +45,15 @@ Habil Tataroğulları Efendi tarafından kontrol edildi.
 >1.3.7 ÖSYM Puan Türü kısmı, Öğrencinin ösym puan türünü gösterir.
 >1.3.8 Öğretim Yılı kısmı, Öğrencinin okuduğu öğretim yılını gösterir.
 
-1.4-Lise Okul Bilgileri bölümü, öğrencinin okulu hakkındaki şu bilgiyi gösterir:
+1.4-Lise Okul Bilgileri bölümü, öğrencinin okulu hakkında bilgiler gösterir.
 >1.4.1 Lise okul adı (metin kutusu formunda) kısmı, Öğrencinin okuduğu lisenin ismini içerir.
 
-1.5- Danışman bilgileri bölümü, öğrencinin danışmanı hakkındaki şu bilgileri gösterir:
+1.5- Danışman bilgileri bölümü, öğrencinin danışmanı hakkında bilgiler gösterir.
 >1.5.1  Ad Soyad kısmı, Danışmanın adı ve soyadını içerir.
 >1.5.2  E-Posta kısmı, Danışmanın e-postasını içerir. 
 >1.5.3 Telefon kısmı, Danışmanın telefonunu içerir. 
 
-1.6-Adres Bilgileri bölümü, öğrencinin adresi hakkında şu bilgileri gösterir: 
+1.6-Adres Bilgileri bölümü, öğrencinin adresi hakkında bilgiler gösterir. 
 >1.6.1 MERNIS(Merkezi Nüfus İdaresi Sistemi) adres kısmı, Öğrencinin MERNIS sisteminde kayıtlı adresini gösterir. 
 >>1.6.1.1 Adres bilgilerini MERNIS'ten güncelle butonu, adres bilgisini güncelleyek sayfayı yeniler.
 >1.6.2 İkamet adres kısmı, öğrencinin ikamet ettiği adresini gösterir. 
@@ -56,9 +63,11 @@ Habil Tataroğulları Efendi tarafından kontrol edildi.
 >1.6.6 Aile ikamet il kısmı, öğrencinin ailesinin ikamet ettiği ili gösterir. 
 >1.6.7 Aile ikamet ilçe kısmı, öğrencinin ailesinin ikamet ettiği ilçeyi gösterir.
 
-1.7- İletişim Bilgileri bölümü, öğrencinin iletişim bilgileri hakkında şu bilgileri gösterir:
+1.7- İletişim Bilgileri bölümü, öğrencinin iletişim bilgileri hakkında bilgiler gösterir.
 >1.7.1 Ev telefonu kısmı, öğrencinin ev telefonunu gösterir.
 >1.7.2 E-posta kısmı, öğrencinin e-postasını gösterir. 
 <>1.7.3 Cep telefonu kısmı, öğrencinin cep telefonunu gösterir. 
+
+1.8- 1.2'den 1.2.5'e kadar , 1.3 , 1.5 kısımları ilk giriş tamamlandıktan sonra salt okunur kalacaktır.
 
 
