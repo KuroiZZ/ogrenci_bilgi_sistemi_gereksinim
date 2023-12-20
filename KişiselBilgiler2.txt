@@ -1,3 +1,5 @@
+Habil tarafından kontrol edildi.
+
 Kişisel Bilgiler >Şifre Değiştirme 
 1- Öğrencinin şifresini değiştirebileceği bir sayfa açılır.
 
