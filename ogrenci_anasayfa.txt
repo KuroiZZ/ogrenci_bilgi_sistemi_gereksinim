@@ -1,3 +1,5 @@
+Habil Tarafindan kontrol edildi.
+
 Anasayfa Özellikler
 
 1 - Ekranda çeşitli amaçlarla kullanılacak bloklar bulunacaktır.

@@ -1,0 +1,8 @@
+Habil
+{
+1.a.3.1 - maddesinin altına hem danışman hem de öğretim görevlisinden diye 2 farklı maddede belirtilmeli.
+1.f.1.1 - yazıya değil bloğa şeklinde değişitirlmeli.
+a.f.1.2 - yazıya değil bloğa şeklinde değişitirlmeli.
+a.f.1.3 - yazıya değil bloğa şeklinde değişitirlmeli.
+a.f.1.4 - yazıya değil bloğa şeklinde değişitirlmeli.
+}
