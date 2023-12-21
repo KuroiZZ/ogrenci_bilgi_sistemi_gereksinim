@@ -2,23 +2,29 @@ Yusuf tarafından düzenlenmiştir.
 
 Açılan Dersler
 
-1 - 2 tane tablo gösterilir.
-	1.1 - Birinci tablo Bölümün Açığı Dersler başlıklıdır.
-      	1.1.1 - Tablo 5 sütundan oluşur.
-      		1.1.1.1 - Gün sütununda, dersin haftanın hangi gününde işlendiği gösterilir.
-      		1.1.1.2 - Ders Saat sütununda, dersin işlendiği saat gösterilir.
-  			1.1.1.3 - Ders Adı sütununda, dersin adı gösterilir.
-      		1.1.1.4 - Öğretim Elemanı sütununda, dersi veren öğretim görevlisinin adı gösterilir.
-      		1.1.1.5 - Yarıyıl sütununda, dersin ait olduğu yarıyıl gösterilir.
-     			1.1.1.6 - Her dersin haftada işlendiği saat kadar satır sayisis olur.
-    1.2 - Üniversite seçmeli dersler tablosu göterilir, 6 sütundan ve haftadaki ders sayisis kadar satırdan olusur.
-          1.2.1 - Gün sütununda, dersin işlendiği gün gösterilir.
-          1.2.2 - Ders Saat sütununda, dersin işlendiği saat gösterilir.
-  	  1.2.3 - Ders Adı sütununda, dersin adi gösterilir.
-          1.2.4 - Öğretim Elemanı sütununda, dersin öğretim görevlisinin adi gösterilir.
-          1.2.5 - AKTS sütununda, avrupa transfer kredi sistemi numarısı gösterilir.
-     	  1.2.6 - Akademik Birim sütununda, dersin ait olduğu bölümün ismi gösterilir.
+1 - Bölümün Açtığı Dersler başlıklı bir tablo bulunur.
+	1.1 - Tablo 5 sütundan oluşur.
+		1.1.1 - Gün sütununda, dersin haftanın hangi gününde işlendiği bulunur.
+		1.1.2 - Ders Saat sütununda, dersin işlendiği saat bulunur.
+		1.1.3 - Ders Adı sütununda, dersin adı bulunur.
+		1.1.4 - Öğretim Elemanı sütununda, dersi veren öğretim görevlisinin adı bulunur.
+		1.1.5 - Yarıyıl sütununda, dersin ait olduğu yarıyıl bulunur.
+	1.2 - Bir satırda yalnız bir dersin bilgileri bulunur.
+		1.2.1 - Dersle ilgili yalnızca sütunların belirttiği bilgiler bulunur.
+	1.3 - Bir dersin bir hafta içinde işlendiği her saat ayrı birer satırda bulunur.
 
-        
-2 - Sayfadaki dersler ve sayfada yapabileceğimiz fonksiyonlar ile ilgili bilgilendirme metni içerir.
-3 - Numara 2'deki bilgilendirme metni içinde 'buraya' yazısına tıklayarak çıktı alabiliriz.
+2 - Üniversite Seçmeli Dersler başlıklı bir tablo bulunur.
+	2.1 - Tablo 6 sütundan oluşur.
+		2.1.1 - Gün sütununda, dersin haftanın hangi gününde işlendiği bulunur.
+		2.1.2 - Ders Saat sütununda, dersin işlendiği saat bulunur.
+		2.1.3 - Ders Adı sütununda, dersin adı bulunur.
+		2.1.4 - Öğretim Elemanı sütununda, dersi veren öğretim görevlisinin adı bulunur.
+		2.1.5 - AKTS sütununda dersin Avrupa Kredi Transfer Sistemi uyumlu not ağırlığı bulunur.
+		2.1.6 - Akademik Birim sütununda dersin ait olduğu bölümün adı bulunur.
+	2.2 - Bir satırda yalnız bir dersin bilgileri bulunur.
+		2.2.1 - Dersle ilgili yalnızca sütunların belirttiği bilgiler bulunur.
+	2.3 - Bir dersin bir hafta içinde işlendiği her saat ayrı birer satırda bulunur.
+
+1.4 - Sayfanın başında tabloların ne içerdiğini belirten bir açıklama yazısı bulunur.
+1.5 - Öğrencinin tabloları bilgisayarına kaydedebilmesi için kılavuz yazısı bulunur.
+1.6 - Öğrencinin tabloların baskısını alabilmesi için düğme bulunur.

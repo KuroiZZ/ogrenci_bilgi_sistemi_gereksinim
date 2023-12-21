@@ -1,3 +1,7 @@
+Yusuf tarafından kontrol edildi.
+
+Kontrol sonucunda düzenlenmiş sürümü ayrı bir dosyada bulunmaktadır.
+
 1 - 2 tane tablo gösterilir.
     1.1 - Bölümün açığı dersler tablosu gösterilir, 5 sütundan ve haftadaki ders sayisi kadar satirdan olusur.
           1.1.1 - Gün sütununda, dersin işlendiği gün gösterilir.
