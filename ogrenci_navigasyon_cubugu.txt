@@ -1,3 +1,5 @@
+Habil Tarafından Kontrol Edidi.
+
 Navigasyon Çubuğu Özellikler
 
 1 - Sisteme giriş yapıldıktan sonra her sayfada ekranda yer alacaktır.

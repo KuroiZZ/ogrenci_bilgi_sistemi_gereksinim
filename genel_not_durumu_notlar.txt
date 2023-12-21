@@ -1,0 +1,1 @@
+1.2 - maddesinde yeniden eskiye doğru sıralanır derken aşağıda mı eski yukarı da mı eski olduğu belirtilmeli (eski dönem aşağıda kalıyor).
