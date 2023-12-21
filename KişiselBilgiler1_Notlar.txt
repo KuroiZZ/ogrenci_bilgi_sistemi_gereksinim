@@ -1,4 +1,0 @@
-Habil
-{
-1.1 kısmında bu bilgiler haricinde diger bilgilerin değiştirilemeyeceğini ve otomatik atandığını belirtilmesi gerektiğini düşünüyorum.
-}
