@@ -1,0 +1,4 @@
+Genel not durumu- güneş notlar 
+
+1.2 Tamamlanmış dönemlerin bilgileri "yeniden eskiye" doğru sıralanır. 
+1.1.2.1 Ders adında "(UE)" içeren dersler uzaktan eğitim verilen derslerdir.
