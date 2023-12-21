@@ -1,0 +1,24 @@
+Yusuf tarafından düzenlenmiştir.
+
+Açılan Dersler
+
+1 - 2 tane tablo gösterilir.
+	1.1 - Birinci tablo Bölümün Açığı Dersler başlıklıdır.
+      	1.1.1 - Tablo 5 sütundan oluşur.
+      		1.1.1.1 - Gün sütununda, dersin haftanın hangi gününde işlendiği gösterilir.
+      		1.1.1.2 - Ders Saat sütununda, dersin işlendiği saat gösterilir.
+  			1.1.1.3 - Ders Adı sütununda, dersin adı gösterilir.
+      		1.1.1.4 - Öğretim Elemanı sütununda, dersi veren öğretim görevlisinin adı gösterilir.
+      		1.1.1.5 - Yarıyıl sütununda, dersin ait olduğu yarıyıl gösterilir.
+     			1.1.1.6 - Her dersin haftada işlendiği saat kadar satır sayisis olur.
+    1.2 - Üniversite seçmeli dersler tablosu göterilir, 6 sütundan ve haftadaki ders sayisis kadar satırdan olusur.
+          1.2.1 - Gün sütununda, dersin işlendiği gün gösterilir.
+          1.2.2 - Ders Saat sütununda, dersin işlendiği saat gösterilir.
+  	  1.2.3 - Ders Adı sütununda, dersin adi gösterilir.
+          1.2.4 - Öğretim Elemanı sütununda, dersin öğretim görevlisinin adi gösterilir.
+          1.2.5 - AKTS sütununda, avrupa transfer kredi sistemi numarısı gösterilir.
+     	  1.2.6 - Akademik Birim sütununda, dersin ait olduğu bölümün ismi gösterilir.
+
+        
+2 - Sayfadaki dersler ve sayfada yapabileceğimiz fonksiyonlar ile ilgili bilgilendirme metni içerir.
+3 - Numara 2'deki bilgilendirme metni içinde 'buraya' yazısına tıklayarak çıktı alabiliriz.
