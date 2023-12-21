@@ -1,4 +1,4 @@
-Erkut adam tarafından kontrol ediliyor...
+Erkut adam tarafından kontrol edildi.
 
  Kişisel Bilgiler > Bilgi Görüntüleme
 1- Öğrenci Bilgileri bölümü Görüntülenir 
