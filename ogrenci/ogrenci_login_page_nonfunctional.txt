@@ -39,4 +39,3 @@
   5.2 - Kutular form bloğunun ortasında yer alacaktır.
   5.3 - Öğrenci numarası bloğu 
 
-
