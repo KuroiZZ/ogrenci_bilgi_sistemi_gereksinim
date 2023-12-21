@@ -1,3 +1,5 @@
 1 - Ders Programı isimli kutuda dönem seçilen bir menü ve bir tablo gösterir.
 2.2 - ...1.Ders 8'den başlar dersler arası 10.Ders'e kadar 1'er saattir. 
 
+NOT: sınav programı dosyasında da 1 numaralı değişiklik yapılmalıdır.
+
