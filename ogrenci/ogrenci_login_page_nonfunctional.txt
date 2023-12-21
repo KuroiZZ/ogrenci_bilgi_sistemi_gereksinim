@@ -16,14 +16,27 @@
   2.3 - Form bloğunun en üstünde yer alması.
     2.3.1 - Yatay eksende ortada yer alması.
 
-3 - Yetenek Kapısı butonlarının formatı.
-  3.1 - Arka planlarının mavi olması.
-  3.2 - Arka planın yuvarlatılmış köşelere sahip olması.
-  3.3 - Yazıların beyaz olması.
-  3.4 - İki butonun da boyutlarının aynı olması.
-    3.4.1 - Her bir butonun boyutunun, ekran zoom oranının 1/9'u kadar olması.
-      3.4.1.1 - En/boy oranının, ekran zoom oranına göre değişkenlik göstermesi.
-        3.4.1.1.1- Zoom oranı arttıkça en/boy oranının azalması.
-        3.4.1.1.2 - Zoom oranı azaldıkça en/boy oranının artması.
+3 - Öğrenci Bilgi Sistemi - Öğrenci yazısının formatı
+  3.1 - Büyük harflerle yazılmış olması.
+  3.2 - Logonun hemen altında yer alması.
+
+4 - Yetenek Kapısı butonlarının formatı.
+  4.1 - Arka planlarının mavi olması.
+  4.2 - Arka planın yuvarlatılmış köşelere sahip olması.
+  4.3 - Yazıların beyaz olması.
+  4.4 - İki butonun da boyutlarının aynı olması.
+    4.4.1 - Her bir butonun boyutunun, ekran zoom oranının 1/9'u kadar olması.
+      4.4.1.1 - En/boy oranının, ekran zoom oranına göre değişkenlik göstermesi.
+        4.4.1.1.1- Zoom oranı arttıkça en/boy oranının azalması.
+        4.4.1.1.2 - Zoom oranı azaldıkça en/boy oranının artması.
+  4.5 - Logonun hemen altında yer alması.
+    4.5.1 - Neden kayıt olmalısın kutusu form bloğunun soluna bloğun 1/9'u uzaklıkta olsun.
+    4.5.2 - Nasıl kayıt olunur kutusu form bloğunun sağına bloğun 1/9'u uzaklıkta olsun.
+    4.5.3 - İki buton arasında form bloğunun 1/18'i oranında uzaklık olsun.
+
+5 - Öğrenci numarası ve Şifre kutularının formatı.
+  5.1 - Kutu boyutları aynı olacaktır.
+  5.2 - Kutular form bloğunun ortasında yer alacaktır.
+  5.3 - Öğrenci numarası bloğu 
 
 
