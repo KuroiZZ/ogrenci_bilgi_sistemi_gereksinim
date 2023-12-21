@@ -1,0 +1,64 @@
+Habil Tataroğulları Efendi tarafından kontrol edildi.
+
+ Kişisel Bilgiler > Bilgi Görüntüleme
+1- Öğrenci Bilgileri bölümü Görüntülenir 
+
+1.1-Öğrencinin ilk öbs'ne girişinde zorunlu doldurması gereken bilgi kutucukları gösterilir. Bu kutucuklar doldurulup kaydedilmeden başka sayfayı görüntüleyemez.
+>1.1.1 Lise okul adı kısmı, Öğrenci bitirdiği lisenin ismini girmelidir.
+>1.1.2 İkamet adres kısmı, Öğrenci ikamet ettiği konutun adresini girmelidir.
+>1.1.3 ikamet il kısmı, Öğrenci ikamet ettiği ili girmelidir.
+>1.1.4 ikamet ilçe kısmı, Öğrenci ikamet ettiği ilçeyi girmelidir.
+>1.1.5 Aile ikamet adres kısmı, Öğrenci ailesinin ikamet ettiği adresi girmelidir.
+>1.1.6 aile ikamet il kısmı, Öğrenci ailesinin ikamet ettiği ili girmelidir.
+>1.1.7 aile ikamet ilçe kısmı, Öğrenci ailesinin ikamet ettiği ilçeyi girmelidir.
+>1.1.8 ev telefonu kısmı, Öğrenci kendi ev telefon numarısını girmelidir.
+>1.1.9 cep telefonu kısmı, Öğrenci kendi cep telefonu numarısını girmelidir.
+>1.1.10 e-posta kısmı, Öğrenci kendi e-postasını girmelidir.
+>1.1.11 Dosya seç tuşuna basarak öğrenci kendine ait fotoğrafı dosyasını seçmelidir. 
+>>1.1.11.1 Öğrenci fotoğraf yükle tuşuna basarak seçtiği dosyayı sisteme yüklemelidir.
+>1.1.12 Öğrenci bu bilgilerin güncel olduğunu ve üniversite tarafından yapılan bildirimlerin kurumsal öğrenci e-postasına yapılmasını beyan ettiğini gösteren kutuya işaret atmalıdır. 
+>1.1.13 Öğrenci kaydet butonuna tıklayarak işini sonlandırır.
+>>1.1.13.1 Kırmızı yıldızlı alanlar doldurulmazsa "Zorunlu alanların doldurulması gerekmektedir!" uyarı penceresi çıkar.
+>>1.1.13.2 Kırmızı yıldızlı alanlar doldurulursa "Bilgileriniz Başarıyla Kaydedilmiştir." uyarı pencerisi çıkar ve kullanıcıyı ana sayfaya atar. 
+
+1.2-Kişisel Bilgiler Bölümü, öğrencinin kişisel bilgileri hakkındaki şu bilgileri gösterir:
+>1.2.1 Öğrenci No kısmı, Öğrencinin okuduğu üniversite tarafından verilen öğrenci numarasını gösterir.
+>1.2.2 T.C. Kimlik/YU No kısmı, Öğrencinin t.c. kimlik numarasını gösterir.
+>1.2.3 Ad Soyad kısmı, Öğrencinin ismini ve soyismini gösterir.
+>1.2.4 Doğum yeri kısmı, Öğrencinin doğum yerini gösterir.
+>1.2.5 Doğum tarihi kısmı, Öğrencinin doğum tarihini gösterir.
+
+1.3-Eğitim Bilgileri Bölümü, öğrencinin eğitim bilgisi hakkındaki şu bilgileri gösterir:
+>1.3.1 Fakülte/YO/MYO kısmı, Öğrencinin üniversitede okuduğu/okuyacağı fakülteyi gösterir.
+>1.3.2 Bölüm kısmı, Öğrencinin üniversitede okuduğu/okuyacağı bölümü gösterir.
+>1.3.3 Sınıf kısmı, Öğrencinin kaçıncı sınıfta olduğunu gösterir. Hazırlıksa hazırlık yazar.
+>1.3.4 Öğrencilik Durumu kısmı, Öğrencinin öğrenciliğinin devam edip etmediğini gösterir. 
+>1.3.5 Kayıt tarihi kısmı, Öğrencinin üniversiteye kayıt olduğu tarihi gösterir.
+>1.3.6 Kayıt Türü kısmı, Öğrencinin kayıt türünü gösterir. 
+>1.3.7 ÖSYM Puan Türü kısmı, Öğrencinin ösym puan türünü gösterir.
+>1.3.8 Öğretim Yılı kısmı, Öğrencinin okuduğu öğretim yılını gösterir.
+
+1.4-Lise Okul Bilgileri bölümü, öğrencinin okulu hakkındaki şu bilgiyi gösterir:
+>1.4.1 Lise okul adı (metin kutusu formunda) kısmı, Öğrencinin okuduğu lisenin ismini içerir.
+
+1.5- Danışman bilgileri bölümü, öğrencinin danışmanı hakkındaki şu bilgileri gösterir:
+>1.5.1  Ad Soyad kısmı, Danışmanın adı ve soyadını içerir.
+>1.5.2  E-Posta kısmı, Danışmanın e-postasını içerir. 
+>1.5.3 Telefon kısmı, Danışmanın telefonunu içerir. 
+
+1.6-Adres Bilgileri bölümü, öğrencinin adresi hakkında şu bilgileri gösterir: 
+>1.6.1 MERNIS(Merkezi Nüfus İdaresi Sistemi) adres kısmı, Öğrencinin MERNIS sisteminde kayıtlı adresini gösterir. 
+>>1.6.1.1 Adres bilgilerini MERNIS'ten güncelle butonu, adres bilgisini güncelleyek sayfayı yeniler.
+>1.6.2 İkamet adres kısmı, öğrencinin ikamet ettiği adresini gösterir. 
+>1.6.3 İkamet  il kısmı, öğrencinin ikamet ettiği ili gösterir. 
+>1.6.4 İkamet ilçe kısmı, öğrencinin ikamet ettiği ilçeyi gösterir. 
+>1.6.5 Aile ikamet adres kısmı, öğrencinin ailesinin ikamet ettiği adresi gösterir.
+>1.6.6 Aile ikamet il kısmı, öğrencinin ailesinin ikamet ettiği ili gösterir. 
+>1.6.7 Aile ikamet ilçe kısmı, öğrencinin ailesinin ikamet ettiği ilçeyi gösterir.
+
+1.7- İletişim Bilgileri bölümü, öğrencinin iletişim bilgileri hakkında şu bilgileri gösterir:
+>1.7.1 Ev telefonu kısmı, öğrencinin ev telefonunu gösterir.
+>1.7.2 E-posta kısmı, öğrencinin e-postasını gösterir. 
+<>1.7.3 Cep telefonu kısmı, öğrencinin cep telefonunu gösterir. 
+
+
