@@ -81,11 +81,15 @@ sağlayan bir buton bulunur.
     sistemine yönlendiren linki çalıştırır.
 
 
+3 - Sayfada Yetenek Kapısı butonları yer alır.
 
-3 - Sayfada lisans sahibi bilgileri yer alır. 
-(Kocaeli Üniversitesi için “2001-2023 
-Kocaeli Üniversitesi Öğrenci İşleri Daire Başkanlığı)
+	3.a - Yetenek Kapısına neden katıt olmalısın butonu yer alır.
 
+		3.a.1 - Tıklandığında bilgilendirme pdf'si indirmesi başlatılır
+
+	3.b - Yetenek kapısına nasıl kayıt olursun butonu yer alır.
+
+		3.b.1 - Tıklandığında yönlendirme pdf'si indirilir.
 
 
 
