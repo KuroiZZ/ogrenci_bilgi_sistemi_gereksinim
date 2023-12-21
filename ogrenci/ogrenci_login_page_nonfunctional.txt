@@ -1,1 +1,27 @@
+1 - Form bloğunun formatı
+  1.1 - Ekranın yatay ve dikeyde ortasında yer alması.
+  1.2 - Sayfa arka plan rengiyle, form bloğu arka plan renginin aynı olması.
+  1.3 - Sayfa arka planından ayrılması için, form bloğu etrafında çerçeve olması.
+    1.3.1 - Çerçevenin ince olması
+    1.3.2 - Çerçeve renginin siyah olması
+    1.3.3 - Çerçevenin yuvarlatılmış köşeli olması.
+  1.4 - Boyutunun ekran zoom oranının 1/3'ü kadar olması
+    1.4.1 - En/boy oranının, ekran zoom oranına göre değişkenlik göstermesi.
+      1.4.2 - Zoom oranı arttıkça en/boy oranının azalması.
+      1.4.3 - Zoom oranı azaldıkça en/boy oranının artması.
 
+2 - Okul logosunun formatı
+  2.1 - Boyutunun, ekran zoom oranının 1/18'i kadar olması
+  2.2 - Logonun png formatında olması.
+  2.3 - Form bloğunun en üstünde yer alması.
+    2.3.1 - Yatay eksende ortada yer alması.
+
+3 - Yetenek Kapısı butonlarının formatı.
+  3.1 - Arka planlarının mavi olması.
+  3.2 - Arka planın yuvarlatılmış köşelere sahip olması.
+  3.3 - Yazıların beyaz olması.
+  3.4 - İki butonun da boyutlarının aynı olması.
+    3.4.1 - Her bir butonun boyutunun, ekran zoom oranının 1/9'u kadar olması.
+      3.4.1.1 - En/boy oranının, ekran zoom oranına göre değişkenlik göstermesi.
+        3.4.1.1.1- Zoom oranı arttıkça en/boy oranının azalması.
+        3.4.1.1.2 - Zoom oranı azaldıkça en/boy oranının artması.
