@@ -1,3 +1,5 @@
+Güneş tarafından kontrol edildi. 
+
 1 - Öğrenci ekranda bulunan açılır bir menü sayesinde sınav programını görmek istediği dönemi seçer.
 2 - Seçilen dönem online eğitim dönemiyse, sinav tipleri ile ilgili bir bilgilendirme metni gösterilir.
 3 - Seçilen döneme göre 7 veya 8 sütun ve seçilen dönemdeki ders sayisi kadar satira sahip bir tablo gösterilir.
