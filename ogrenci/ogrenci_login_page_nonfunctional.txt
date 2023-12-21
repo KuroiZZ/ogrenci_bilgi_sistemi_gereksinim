@@ -25,3 +25,5 @@
       3.4.1.1 - En/boy oranının, ekran zoom oranına göre değişkenlik göstermesi.
         3.4.1.1.1- Zoom oranı arttıkça en/boy oranının azalması.
         3.4.1.1.2 - Zoom oranı azaldıkça en/boy oranının artması.
+
+
