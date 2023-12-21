@@ -11,11 +11,16 @@ Anasayfa Özellikler
 			1.a.3.1 - Okunmayan mesaj varsa sayısı yazacaktır.
 			
 				1.a.3.1.1 - Okunmayan mesaj danışmandan gelmişse,
-			       danışmandan gelen mesaj sayısı da belirtilecektir.
+			       danışmandan gelen mesaj sayısı belirtilecektir.
+
+				1.a.3.1.2 - Okunmayan mesaj danışman dışında bir öğretim görevlsinden gelmişse
+			       öğretim görevlisinden gelen mesaj sayısı olarak ayrıca mesaj sayısı yazacaktır.
 
 	1.b - Anketler bloğu bulunacaktır.
 
 		1.b.1 - Okul tarafından öğrenciye sunulmuş anketler bulunacaktır.
+
+			1.b.1.1 - Her farklı anketin bloğu tıklanabilir olacaktır.
 
 	1.c - Duyurular bloğu bulunacaktır.
 	
@@ -43,16 +48,16 @@ Anasayfa Özellikler
 
 		1.f.1 - Üniversite yönetmelikler sayfasına giden yönlendirme yazısı bulunacaktır.,
 
-			1.f.1.1 - Link bu yazıya tıklandığında açılacak şekilde gizli olacaktır.
+			1.f.1.1 - Link bu bloğa tıklandığında açılacak şekilde gizli olacaktır.
 
 		1.f.2 - Üniversite akademik takvim sayfasına giden yönlendirme yazısı bulunacaktır.
 			
-			1.f.2.1 - Link bu yazıya tıklandığında açılacak şekilde gizli olacaktır.
+			1.f.2.1 - Link bu bloğa tıklandığında açılacak şekilde gizli olacaktır.
 
 		1.f.3 - Bölüm amaç, vizyon, misyon sayfasına giden yönlendirme yazısı bulunacaktır.,
 
-			1.f.3.1 - Link bu yazıya tıklandığında açılacak şekilde gizli olacaktır.
+			1.f.3.1 - Link bu bloğa tıklandığında açılacak şekilde gizli olacaktır.
 
 		1.f.4 - Bölüm kabul ve mezuniyet koşulları, derece sayfasına giden yönlendirme yazısı bulunacaktır.
 			
-			1.f.4.1 - Link bu yazıya tıklandığında açılacak şekilde gizli olacaktır.
+			1.f.4.1 - Link bu bloğa tıklandığında açılacak şekilde gizli olacaktır.
