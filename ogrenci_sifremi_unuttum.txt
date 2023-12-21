@@ -21,7 +21,7 @@
 
 	3.a - Kimlik no ve Öğrenci no eşleşmiyorsa uyarı ver
 	3.b - Kimlik no ve seri no eşleşmiyorsa uyarı ver
-	3.c - Her şey doğruysa 3. adıma git
+	3.c - Her şey doğruysa 4. adıma git
 
 4 - Yeni şifreyi göndermek için telefon numarası al
 	
