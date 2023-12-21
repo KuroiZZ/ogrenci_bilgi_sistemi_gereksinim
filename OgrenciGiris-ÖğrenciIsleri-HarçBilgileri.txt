@@ -1,0 +1,10 @@
+1- 1 tane tablo gösterilir. 6 tane sütuna ve öğrencinin eğitim gördüğü dönem sayısı kadar satira sahiptir.
+   1.1 - DÖNEM sütununda, eğitim dönemi gösterilir.
+   1.2 - DÖNEM BORCU sütununda, eğitim gördüğü dönem için borç gösterilir.
+   1.3 - ESKİ BORÇ sütununda, şu an bulunduğu dönemden önceki dönemlerden kalma borcun toplamı gösterilir.
+   1.4 - ÖDEDİĞİ TUTAR sütununda, öğrencinin eğitim gördüğü dönemdeki ödediği tutar gösterilir.
+   1.5 - ÖDEDİĞİ TARİH sütununda, harç borcunu ödediği tarih gösterilir.
+   1.6 - Durum sütununda, (Ne Gösteriliyor Bilmiyorum).
+   1.7 - Her bir satır tek bir dönem bilgisi içerir ve 1 dönem için maksimum 1 tane satır kullanılabilir.
+2 - Yatay ve Dikey geçiş ile ilgili bir bilgilendirme metni içerir.
+3 - Harç ile igili açıklamaların içerdiği bir bilgilendirme metni içerir.
