@@ -9,4 +9,4 @@
     
   3.2 - Akademik ve idari giriş sayfalarında transparan olması.
 
-4 - Zoom yapıldıkça boyutunun aynı oranda artması.
+4 - Tüm sayfalardaki tüm blokların, yazıların, butonların, medyaların boyutlarının responsive olması.
