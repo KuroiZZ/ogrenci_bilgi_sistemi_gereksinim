@@ -11,6 +11,6 @@
          1.5.3 - Basliktan hemen sonraki satirlar Beyaz-Gri şeklinde sırayla arkaplan renkleri ile gösterilir.
    1.6 - "ÜNİVERSİTE SEÇMELİ DERSLER" şeklinde koyu siyahla yazılmış başlık gösterilir.
    1.7 - başlığın altında tablo gösterilir.
-         1.7.1 - Başlıktaki yazılar koyu siyah ile gösterilir.
+         1.7.1 - Başlık satırındaki yazılar koyu siyah ile gösterilir.
          1.7.2 - Tablonun başlık satırı arkplanı mavi renkle gösterilir.
          1.7.3 - Basliktan hemen sonraki satirlar Beyaz-Gri şeklinde sırayla arkaplan renkleri ile gösterilir.
