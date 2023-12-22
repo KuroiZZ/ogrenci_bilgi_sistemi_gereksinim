@@ -1,0 +1,23 @@
+1 - Öğrenci ekranda bulunan açılır bir menü sayesinde notlarını görmek istediği dönemi seçer.
+2 - Notların durumları ile ilgili bir bilgilendirme metni bulunur.
+3 - Seçilem döneme göre ders tablosu gözükür. 12 Sütunu ve ders sayisi kadar satiri vardir.
+   3.1 - Ders tablosunda, SN sütununda, sıra numarası gösterilir.
+   3.2 - Ders tablosunda, DERS KODU sütununda ders kodu gösterilir.
+   3.3 - Ders tablosunda, DERS ADI sütununda ders adı gösterilir.
+       3.3.1 - DERS ADI sütununda bulunan ders adina tiklandığında ek pencere açılır.
+             3.3.1.1 - Yarıyıl içi etkinlikler gösterilir.
+             3.3.1.2 - Yarıyıl sonu başarı durumu gösterilir.
+             3.3.1.3 - Ders izlencesi gösterilir.
+             3.3.1.4 - Ders Kaynakları gösterilir.
+   3.4 - Ders tablosunda, Devam sütnunda devamlılık durumu gösterilir.
+   3.5 - Ders tablosunda, DERS DİLİ sütununda ders dili gösterilir.
+   3.6 - Ders tablosunda, AKTS sütununda avrupa transfer kredi sistemi numarısı gösterilir.
+   3.7 - Ders tablosunda, YİO sütununda yariyil ici ortalama not gösterilir.
+   3.8 - Ders tablosunda, YYS sütünunda yariyil sonu notu gösterilir.
+   3.9 - Ders tablosunda, BÜT sütünunda büte girme hakkinin durumu gösterilir.
+   3.10 - Ders tablosunda, BN sütünunda başarı harf notu gösterilir.
+   3.11 - Ders tablosunda, BD sütununda başarı durumu gösterilir.
+   3.12 - Ders tablosunda, E-DERS SİSTEMİ sütununda dersin e-destek sistemindeki sayfasına gönderen link gösterilir.
+   3.13 - Ders tablosunda, her bir satir farkli bir ders ifade eder ve 1 ders icin maksimum 1 satir kullanılabilir.
+4 - Açıklamalar bölümü bulunur
+   4.1 - Notlar ile ilgili bilgilendirici metinler bulunur.	
