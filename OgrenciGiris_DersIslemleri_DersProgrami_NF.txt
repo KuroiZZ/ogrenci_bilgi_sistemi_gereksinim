@@ -4,6 +4,6 @@
    1.3 - Başlığın altında sayfanın ortasında seçilen dönemin yazılı olduğu seçme butonu olur.
    1.4 - Seçme butonun altında öğrenci adı ve öğrenci no'su gösterilir.
    1.5 - Öğrenci adı ve numarasının altında tablo gösterilir.
-         1.5.1 - Tablonun ilk satırının arka planı koyu gri ile gösterilir.
+         1.5.1 - Tablonun başlık satırının arka planı koyu gri ile gösterilir.
          1.5.2 - Tablonun ilk sutunun arka planı koyu gri ile gösterilir.
          1.5.3 - Tablonun içeriğinin gösterildği yerde ders ismi koyu siyah ile yazılır.
