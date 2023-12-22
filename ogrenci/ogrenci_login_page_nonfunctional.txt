@@ -5,16 +5,11 @@
     1.3.1 - Çerçevenin ince olması
     1.3.2 - Çerçeve renginin siyah olması
     1.3.3 - Çerçevenin yuvarlatılmış köşeli olması.
-  1.4 - Boyutunun ekran zoom oranının 1/3'ü kadar olması
-    1.4.1 - En/boy oranının, ekran zoom oranına göre değişkenlik göstermesi.
-      1.4.2 - Zoom oranı arttıkça en/boy oranının azalması.
-      1.4.3 - Zoom oranı azaldıkça en/boy oranının artması.
 
 2 - Okul logosunun formatı
-  2.1 - Boyutunun, ekran zoom oranının 1/18'i kadar olması
-  2.2 - Logonun png formatında olması.
-  2.3 - Form bloğunun en üstünde yer alması.
-    2.3.1 - Yatay eksende ortada yer alması.
+  2.1 - Logonun png formatında olması.
+  2.2 - Form bloğunun en üstünde yer alması.
+    2.2.1 - Yatay eksende ortada yer alması.
 
 3 - Öğrenci Bilgi Sistemi - Öğrenci yazısının formatı
   3.1 - Büyük harflerle yazılmış olması.
@@ -25,19 +20,7 @@
   4.2 - Arka planın yuvarlatılmış köşelere sahip olması.
   4.3 - Yazıların beyaz olması.
   4.4 - İki butonun da boyutlarının aynı olması.
-    4.4.1 - Her bir butonun boyutunun, ekran zoom oranının 1/9'u kadar olması.
-      4.4.1.1 - En/boy oranının, ekran zoom oranına göre değişkenlik göstermesi.
-        4.4.1.1.1- Zoom oranı arttıkça en/boy oranının azalması.
-        4.4.1.1.2 - Zoom oranı azaldıkça en/boy oranının artması.
-  4.5 - Logonun hemen altında yer alması.
-    4.5.1 - Tam ekranda zoom %150 altındayken butonların yan yana olması
-      4.5.1.1 Neden kayıt olmalısın kutusu form bloğunun soluna bloğun 1/9'u uzaklıkta olsun.
-      4.5.1.2 - Nasıl kayıt olunur kutusu form bloğunun sağına bloğun 1/9'u uzaklıkta olsun.
-      4.5.1.3 - İki buton arasında yatayda form bloğunun 1/18'i oranında uzaklık olsun.
-    4.5.2 - Tam ekranda zoom %150 ve üzerindeyken butonların alt alta yer alması.
-      4.5.2.1 - Neden kayıt olmalısın kutusu form bloğunun üstüne bloğun 1/9'u uzaklıkta olsun.
-      4.5.2.1 - Nasıl kayıt olunur kutusunun üst kenarı Neden kayıt olmalısın kutusunun alt kenarına çakışık olsun.
-      4.5.2.1 - Kutular yatayda tam ortada yer alsın.
+  4.5 - İki butonun da Logonun hemen altında yer alması.
 
 5 - Öğrenci numarası ve Şifre kutularının formatı.
   5.1 - Kutu boyutları aynı olacaktır.
