@@ -1,0 +1,14 @@
+1- Ekranda AÇILAN DERSELR başlığına sahip bir kutucuk gösterilir.
+   1.1 - Başlığın yazıldığı yerin arkaplan rengi mavi olmalıdır.
+         1.1.1 - Başlık beyaz renk ile yazılır
+   1.2 - "BÖLÜMÜN AÇTIĞI DERSLER" şeklinde koyu siyahla yazılmış başlık gösterilir.
+   1.3 - Başlığın altında maddeler ile bilgiler gösterilir.
+   1.4 - Maddelerin altında kırmızı arkaplana sahip uyarı metni bulunur
+         1.4.1 - Yazı arkaplandan daha koyu bir kırmızı ile yazılır
+   1.5 - Uyarı metninin altında tablo gösteilir.
+         1.5.1 - Tablonun başlık satırı arkplanı mavi renkle gösterilir.
+         1.5.2 - Basliktan hemen sonraki satirlar Beyaz-Gri şeklinde sırayla arkaplan renkleri ile gösterilir.
+   1.6 - "ÜNİVERSİTE SEÇMELİ DERSLER" şeklinde koyu siyahla yazılmış başlık gösterilir.
+   1.7 - başlığın altında tablo gösterilir.
+         1.7.1 - Tablonun başlık satırı arkplanı mavi renkle gösterilir.
+         1.7.2 - Basliktan hemen sonraki satirlar Beyaz-Gri şeklinde sırayla arkaplan renkleri ile gösterilir.
