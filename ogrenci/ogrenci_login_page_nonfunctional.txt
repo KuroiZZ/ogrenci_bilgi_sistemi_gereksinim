@@ -25,7 +25,13 @@
 5 - Öğrenci numarası ve Şifre kutularının formatı.
   5.1 - Kutu boyutları aynı olacaktır.
   5.2 - Kutular form bloğunun ortasında yer alacaktır.
-  5.3 - Öğrenci numarası bloğu 
+  5.3 - Öğrenci numarası kutusu yetenek kapıları butonunun hemen altında olacaktır.
+  5.4 - Şifre kutusu numara kutusunun hemen altında yer alacaktır.
+  5.5 - Kutu rengi beyaz olacaktır.
+  5.6 - Kutular boşken kutuların içinde soluk gri renkte kutuların adı yazacaktır.
+    5.6.1 - Sadece imleç oraya getirilirse yazılar kalacaktır.
+    5.6.2 - Giriş yapılmaya başlandığı an ilgili arkadaki o yazı gidecektir.
+  5.7 - Kutu çerçevesi yuvarlatılmış kenarlı olacaktır.
 
 6 - Hatalı giriş uyarı formatı
   6.1 - Kutu genişliği öğrenci numarası kutusuyla aynı olacaktır.
@@ -34,4 +40,11 @@
   6.3 - Arka planı açık kırmızı olacak.
   6.4 - Kutu çerçevesi yuvarlatılmış köşeli olacak.
   6.5 - Kutunun üst kenarı, öğrenci numarası kutusunun alt kenarına çakışık olacak.
+
+7 - Giriş ve Şifremi unuttum butonları formatı
+  7.1 - ReCaptcha doğrulanmamışsa buton renkleri soluk olacaktır.
+    7.1.1 - Giriş butonu açık mavi renkli olacaktır.
+    7.1.1 - Şifremi unuttum butonu kırmızı renkli olacaktır.
+  7.2 - ReCaptcha doğrulanmışsa butonlar aktifleştikleri belli olacak şekilde renk tonları canlılaşacaktır.
+    7.2.1 - Renkleri değişmeyecek sadece var olan renkleri daha canlı hale gelecektir.
 
