@@ -14,3 +14,9 @@
 5 - Tüm sayfalarda kutu ve blok çerçeveleri ince, göze batmayacak şekilde olacaktır.
   5.1 - Beyaz kutu veya blokların çerçeveleri gri renkte olacaktır.
   5.2 - Renkli kutu veya blokların çerçeveleri, ilgili kutu veya blok renginin daha koyu renginde olacaktır.
+
+6 - Her sayfada link içeren kelime veya kelime grupları mavi renkte olacak.
+  6.1 - Fare ile üstlerine gelindiğinde altı çizili koyu renk halde görünecek.
+  6.1.1 - Tıklanırsa, aynı sayfada başka bir yere tıklayana kadar öyle kalacak.
+    6.1.1.2 - Başka yere tıklanınca eski haline dönecek.
+  6.1.2 - Tıklanmazsa, fare üstünden çekildiğinde eski haline dönecek.
