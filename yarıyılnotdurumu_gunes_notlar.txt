@@ -26,8 +26,39 @@
 3.3.3.2.7 - Dönem Sonu Başarı Notu satırı, etkisi sütunundaki değerlerin toplamını gösterir. 
 3.3.3.2.8 - Harf Notu satırı, dönem sonu başarı notunu harf notu olarak gösterir. 
 
-3.3.3.3 - Değerlendirme Sistemi, notun nasıl hesaplandığını gösterir. 
-3.3.3.3.1 - Öğrenci DSN (Dönem Sonu Notu), 3.3.3.2.7'deki notu gösterir.
-3.3.3.3.2 - Sınıf DSN Ortalaması, sınıftaki tüm öğrencilerin 3.3.3.2.7'deki not ortalamalarını gösterir.
-3.3.3.3.3 - Sınıf DSN Standart Sapması, 
+3.3.4 - Değerlendirme Sistemi, dönem bittiyse görünür. 
+3.3.4.1 - Notun nasıl hesaplandığını gösterir. 
+3.3.4.2 - Çan sistemi geçerliyse eğer bir tablo ve birkaç açıklama metni görünür.
+3.3.4.2.1 - Öğrenci DSN (Dönem Sonu Notu), 3.3.3.2.7'deki notu gösterir.
+3.3.4.2.2 - Sınıf DSN Ortalaması, sınıftaki tüm öğrencilerin 3.3.3.2.7'deki not ortalamalarını gösterir.
+3.3.4.2.3 - Sınıf DSN Standart Sapması, sınıfın dönem sonu notlarının dönem sonu notlarının standart sapmasını gösterir.
+3.3.4.2.4 - T-Standart Notunuz kısmı, notun nasıl hesaplandığını ve sonucunu gösterir.
+3.3.4.2.5 - Açıklamalar kısmı, bu bölümün dipnotlarını gösterir.
+3.3.4.2.6 - T-standart Notunun Harfli Notu Dönüşümü kısmı, 11 sütun ve 8 satırdan oluşan hangi notun hangi harfe denk geldiğini gösteren bir tablodur. 
+3.3.4.2.7 - Öğrencinin notunun tabloda bulunduğu satır ve sütun işaretlidir. 
+3.3.4.2.8. - Sınıf Düzeyi sütunu, sınıfın not ortalamasına göre notun durumunu gösterir.
+3.3.4.2.9 - Sınıf DSN Aralığı sütunu, dönem sonu not aralıklarını gösterir. 
+3.3.4.2.10 - FF(0) sütunu, FF harf notuna denk gelen t-standart not aralıklarını gösterir.
+3.3.4.2.11 - FD(0.5) sütunu, FD harf notuna denk gelen t-standart not aralıklarını gösterir.
+3.3.4.2.12 - DD(1) sütunu, DD harf notuna denk gelen t-standart not aralıklarını gösterir.
+3.3.4.2.13 - DC(1.5) sütunu, DC harf notuna denk gelen t-standart not aralıklarını gösterir.
+3.3.4.2.14 - CC(2) sütunu, CC harf notuna denk gelen t-standart not aralıklarını gösterir.
+3.3.4.2.15 - CB(2.5) sütunu, CB harf notuna denk gelen t-standart not aralıklarını gösterir.
+3.3.4.2.16 - BB(3) sütunu, BB harf notuna denk gelen t-standart not aralıklarını gösterir.
+3.3.4.2.17 - BA(3.5) sütunu, BA harf notuna denk gelen t-standart not aralıklarını gösterir.
+3.3.4.2.18 - AA(4) sütunu, AA harf notuna denk gelen t-standart not aralıklarını gösterir.
 
+3.3.4.3 - Çan sistemi geçerli değilse Mutlak Değerlendirme Sistemi Not Aralıkları ve Dönüşümü başlığında 4 sütundan ve 15 satırdan oluşan bir tablo görünür.
+3.3.4.3.1 - Puan sütunu ilk 9 satırda puan aralıklarını gösterir. Satırların gerisi boştur. 
+3.3.4.3.2 - Harf Notu sütunu, ilk 9 satırda puana denk gelen harf notunu gösterir. Geri kalan 6 satırda Not kısaltmalarını içerir. 
+3.3.4.3.3 - Katsayı sütunu, harf notlarının kat sayılarını gösterir. 
+3.3.4.3.4 - Başarı Durumu, o notun dersten geçme durumunu gösterir. 
+
+3.3.5 - Ders izlencesi, bir dönemdeki hafta sayısı kadar satır içerip dersin dönem boyunca neler içereceğini gösterir.
+3.3.5.1 - Her satır bir hafta içerir.
+3.3.5.2 - Her satır o hafta ne öğretileceğini gösterir. 
+
+3.3.6 - Ders kaynakları, derste kullanılan kaynaklar kadar satır içerip derste kullanılan kaynakları gösterir.
+3.3.6.1 - Her satır, satır numarası içerir. 
+3.3.6.2 - Her satır, bir kaynak içerir. 
+  
