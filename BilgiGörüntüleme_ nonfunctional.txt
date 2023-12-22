@@ -1,0 +1,27 @@
+1-Sayfanın başlığı, sayfanın geri kalanının aksine arkaplanı koyudur, yazı açık renklidir.
+1.1 - Arkaplan mavi renkli görünür. 
+1.2 - Yazı beyaz renkli görünür. 
+2- Bilgiler kategorilere ayrılır.
+2.1 - Kategoriler önemliden önemsize sıralı görünür.
+3 - Kategori başlıkları diğer yazılardan farklı renkli görünür.
+3.1 - Renk mavidir.
+3.2 - Her kategori başlığının altında bölümü ayıran açık gri ince bir çizgi bulunur. 
+4 - Bilgilerin başlıkları kalın ve siyah yazılır.
+5 - Öğrenci fotoğrafının yanındaki dosya seç ve fotoğraf yükle butonunun arka plan 1.1'deki renkle aynıdır.
+5.1 - Dosyanın seçilip seçilmediğini belirten metin kalındır. 
+5.2 - Dosya seç'in etrafında ince bir çerçeve vardır. 
+5 - Değiştirilebilen bilgilerin çerçeveleri vardır.
+5.1 - Çerçevelerin default rengi siyahtır.
+5.2 - Çerçevenin sağ alt köşesinden çerçevenin boyu değiştirilebilir.
+5.3 - Çerçevelerin üzerine fare ile gelindiğinde çerçevelerin rengi maviye döner.
+5.4 - Seçili çerçevenin rengi koyu siyah olur.
+6 - Adres Bilgilerini MERNIS'ten Güncelle butonu MERNIS Adresin olduğu bölgede, bilginin sağındadır.
+6.1 - Butonun arkaplanı mavi renklidir.
+6.2 - Yazı beyazdır.
+7 - Telefon yazılan kutuların yazı formu vardır.
+7.1 - Telefon (5xx) xxx-xxxx şeklinde yazılır.
+8 - Zorunlu doldurulması gereken alanların başlıklarının yanında kırmızı yıldız bulunur. 
+9 - Kaydet butonu en alt ortada yer alır. 
+9.1 - Arkaplan rengi 1.1'in rengiyle aynıdır. 
+9.2 - Yazının rengi 1.2'nin rengiyle aynıdır. 
+ 
