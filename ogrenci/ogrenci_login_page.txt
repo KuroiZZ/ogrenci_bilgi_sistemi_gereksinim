@@ -52,13 +52,18 @@ için bir form bloğu bulunur.
                Öğrenci Anasayfa”sına gönderir. 
 
 			1.d.2.1 - Form yanlış doldurma durumlarında 
-                       tüm form verileri temizlenmiş şekilde sayfa tekrar 
-                       yüklenecektir.
+                       sayfa tekrar yüklenecektir.
 
-                       		1.d.2.1.a - Eğer öğrenci numarası
-		       	       karakter sınırına uygun değilse 
-                       	       (Kocaeli Üniversitesi için 9 basamak)
-			       karakter sınırı uyarısı ekrana gelecektir.
+                       		1.d.2.1.a - Eğer öğrenci numarası karakter sınırına uygun değilse 
+                       	       	       (Kocaeli Üniversitesi için 9 basamak) karakter sınırı uyarısı ekrana gelecektir.
+
+					1.d.2.1.a.1 - Sadece numara kısmı silinmiş olacaktır.
+
+				1.d.2.1.b - Eğer bu numaraya ait öğrenci yoksa tüm form verileri silinecektir.
+
+				1.d.2.1.c - Şifre yanlışsa tüm form verileri silinecektir.
+
+				
 
 	1.f - Giriş ekranında sosyal medya hesaplarına 
        yönlendirme yapacak ikonlar bulunur. 
