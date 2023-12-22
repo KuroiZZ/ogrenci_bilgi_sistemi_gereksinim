@@ -6,9 +6,11 @@
    1.4 - Maddelerin altında kırmızı arkaplana sahip uyarı metni bulunur
          1.4.1 - Yazı arkaplandan daha koyu bir kırmızı ile yazılır
    1.5 - Uyarı metninin altında tablo gösteilir.
-         1.5.1 - Tablonun başlık satırı arkplanı mavi renkle gösterilir.
-         1.5.2 - Basliktan hemen sonraki satirlar Beyaz-Gri şeklinde sırayla arkaplan renkleri ile gösterilir.
+         1.5.1 - Başlıktaki yazılar koyu siyah ile gösterilir.
+         1.5.2 - Tablonun başlık satırı arkplanı mavi renkle gösterilir.
+         1.5.3 - Basliktan hemen sonraki satirlar Beyaz-Gri şeklinde sırayla arkaplan renkleri ile gösterilir.
    1.6 - "ÜNİVERSİTE SEÇMELİ DERSLER" şeklinde koyu siyahla yazılmış başlık gösterilir.
    1.7 - başlığın altında tablo gösterilir.
-         1.7.1 - Tablonun başlık satırı arkplanı mavi renkle gösterilir.
-         1.7.2 - Basliktan hemen sonraki satirlar Beyaz-Gri şeklinde sırayla arkaplan renkleri ile gösterilir.
+         1.7.1 - Başlıktaki yazılar koyu siyah ile gösterilir.
+         1.7.2 - Tablonun başlık satırı arkplanı mavi renkle gösterilir.
+         1.7.3 - Basliktan hemen sonraki satirlar Beyaz-Gri şeklinde sırayla arkaplan renkleri ile gösterilir.
