@@ -4,5 +4,6 @@
    1.3 - Başlığın altında sayfanın ortasında seçilen dönemin yazılı olduğu seçme butonu olur.
    1.4 - Seçme butonun altında öğrenim yılı ve dönemi gösterilir.
    1.5 - Öğrenim yılı ve döneminin altında tablo gösterilir.
-         1.5.1 - Tablonun başlık satırı arkplanı mavi renkle gösterilir.
-         1.5.2 - Basliktan hemen sonraki satirlar Beyaz-Gri şeklinde sırayla arkaplan renkleri ile gösterilir.
+         1.5.1 - Başlıktaki yazılar koyu siyah ile gösterilir.
+         1.5.2 - Tablonun başlık satırı arkplanı mavi renkle gösterilir.
+         1.5.3 - Basliktan hemen sonraki satirlar Beyaz-Gri şeklinde sırayla arkaplan renkleri ile gösterilir.
