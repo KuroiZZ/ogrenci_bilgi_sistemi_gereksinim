@@ -8,3 +8,5 @@
     3.1.1 - Yazı etrafında, kenarları yuvarlatılmış bir kutucuk şeklini oluşturması.
     
   3.2 - Akademik ve idari giriş sayfalarında transparan olması.
+
+4 - Zoom yapıldıkça boyutunun aynı oranda artması.
