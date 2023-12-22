@@ -10,3 +10,7 @@
   3.2 - Akademik ve idari giriş sayfalarında transparan olması.
 
 4 - Tüm sayfalardaki tüm blokların, yazıların, butonların, medyaların boyutlarının responsive olması.
+
+5 - Tüm sayfalarda kutu ve blok çerçeveleri ince, göze batmayacak şekilde olacaktır.
+  5.1 - Beyaz kutu veya blokların çerçeveleri gri renkte olacaktır.
+  5.2 - Renkli kutu veya blokların çerçeveleri, ilgili kutu veya blok renginin daha koyu renginde olacaktır.
