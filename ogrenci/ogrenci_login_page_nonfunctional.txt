@@ -21,7 +21,7 @@
   3.2 - Logonun hemen altında yer alması.
 
 4 - Yetenek Kapısı butonlarının formatı.
-  4.1 - Arka planlarının mavi olması.
+  4.1 - Arka planlarının açık mavi olması.
   4.2 - Arka planın yuvarlatılmış köşelere sahip olması.
   4.3 - Yazıların beyaz olması.
   4.4 - İki butonun da boyutlarının aynı olması.
@@ -30,12 +30,25 @@
         4.4.1.1.1- Zoom oranı arttıkça en/boy oranının azalması.
         4.4.1.1.2 - Zoom oranı azaldıkça en/boy oranının artması.
   4.5 - Logonun hemen altında yer alması.
-    4.5.1 - Neden kayıt olmalısın kutusu form bloğunun soluna bloğun 1/9'u uzaklıkta olsun.
-    4.5.2 - Nasıl kayıt olunur kutusu form bloğunun sağına bloğun 1/9'u uzaklıkta olsun.
-    4.5.3 - İki buton arasında form bloğunun 1/18'i oranında uzaklık olsun.
+    4.5.1 - Tam ekranda zoom %150 altındayken butonların yan yana olması
+      4.5.1.1 Neden kayıt olmalısın kutusu form bloğunun soluna bloğun 1/9'u uzaklıkta olsun.
+      4.5.1.2 - Nasıl kayıt olunur kutusu form bloğunun sağına bloğun 1/9'u uzaklıkta olsun.
+      4.5.1.3 - İki buton arasında yatayda form bloğunun 1/18'i oranında uzaklık olsun.
+    4.5.2 - Tam ekranda zoom %150 ve üzerindeyken butonların alt alta yer alması.
+      4.5.2.1 - Neden kayıt olmalısın kutusu form bloğunun üstüne bloğun 1/9'u uzaklıkta olsun.
+      4.5.2.1 - Nasıl kayıt olunur kutusunun üst kenarı Neden kayıt olmalısın kutusunun alt kenarına çakışık olsun.
+      4.5.2.1 - Kutular yatayda tam ortada yer alsın.
 
 5 - Öğrenci numarası ve Şifre kutularının formatı.
   5.1 - Kutu boyutları aynı olacaktır.
   5.2 - Kutular form bloğunun ortasında yer alacaktır.
   5.3 - Öğrenci numarası bloğu 
+
+6 - Hatalı giriş uyarı formatı
+  6.1 - Kutu genişliği öğrenci numarası kutusuyla aynı olacaktır.
+  6.2 - Kutu yüksekliği öğrenci numarası kutusu yüksekliğinin 2 katı olacaktır
+  6.3 - Uyarı yazısı koyu kırmızı olacak.
+  6.3 - Arka planı açık kırmızı olacak.
+  6.4 - Kutu çerçevesi yuvarlatılmış köşeli olacak.
+  6.5 - Kutunun üst kenarı, öğrenci numarası kutusunun alt kenarına çakışık olacak.
 
