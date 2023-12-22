@@ -52,7 +52,7 @@
                                        2.5.2.1.4.1 - Kutucuğun içindeki yazılar arkaplandan daha açık bir mavi ile gösterilir.
                            2.5.2.1.5 - Açıklamalardan sonra "T-standart Notunun Harfli Notu Dönüşümü" başlığında bir tablo gösterilir.
                                        2.5.2.1.5.1 - Başlığın altı çizili şekilde gösterilir.
-                                       2.5.2.1.5.2 - Tablonun ilk satırı koyu mavi renk arkaplanda gösterilir.
+                                       2.5.2.1.5.2 - Tablonun başlık satırı koyu mavi renk arkaplanda gösterilir.
                                        2.5.2.1.5.3 - Tabloda Sınıf dns ortalamasını bulunduğu satır açık mavi ile gösterilir.
                                        2.5.2.1.5.4 - Tabloda öğrencinin T-Standart Notunun bulunduğu sütün açık mavi ile gösterilir.
    
