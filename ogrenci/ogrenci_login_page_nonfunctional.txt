@@ -47,4 +47,13 @@
     7.1.1 - Şifremi unuttum butonu kırmızı renkli olacaktır.
   7.2 - ReCaptcha doğrulanmışsa butonlar aktifleştikleri belli olacak şekilde renk tonları canlılaşacaktır.
     7.2.1 - Renkleri değişmeyecek sadece var olan renkleri daha canlı hale gelecektir.
+  7.3 - ReCaptcha butonun hemen altında yer alacaklardır.
+
+8 - ReCaptcha butonu formatı
+  8.1 - ReCaptcha'nın varsayılan tasarımı kullanılacaktır.
+  8.2 - Şifre kutusunun hemen altında, giriş ve şifremi unuttum butonlarının üstünde yer alacaktır.
+
+9 - Sosyal medya ikonları formatı.
+  9.1 - Mavi renkli olacaklardır.
+  9.2 - Form bloğunun en altında yer alacaklardır.
 
