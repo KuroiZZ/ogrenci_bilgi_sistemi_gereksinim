@@ -97,5 +97,4 @@ sağlayan bir buton bulunur.
 		3.b.1 - Tıklandığında yönlendirme pdf'si indirilir.
 
 
-
       
