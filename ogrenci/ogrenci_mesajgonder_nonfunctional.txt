@@ -53,10 +53,19 @@
   
     1.7.3 - Kutuya tıklandığında çerçevesi mavi olup parlayacaktır.
     1.7.4 - Satır uzunluğu responsive olacaktır.
-    
 
+  1.8 - Form  bloğunun en altında, "içerik" metin kutusunun altında soldan sağa sırayla "GÖNDER" ve "FORMU TEMİZLE" butonları bulunacaktır.
+    1.8.1 - Yazılar beyaz ve büyük harfli olacaktır
+      1.8.1.1 - "GÖNDER" butonu mavi olacaktır.
+      1.8.1.2 - "FORMU TEMİZLE" butonu turuncu olacaktır.
+    1.8.2 - Fare ile butonların üzerine gelindiğinde buton renkleri daha canlı olacaktır.
 
 2 - Sayfa arka planı beyaz olacaktır.
+
+3 - "Mesaj Göndereceğiniz Kişiyi seçiniz..." uyarısı "Danışman" ve "Öğretim Üyesi" yazılarının hemen altında yer alacaktır.
+  3.1 - Kırmızı arka planlı ve koyu kırmızı yazılı, çerçeveli olacaktır.
+  3.1 - "Danışman" checkbox'ının altından form bloğu sonuna kadar uzanacaktır.
+  3.2 - Kutu içinde, yazı üstünde ve altında birer satır boşluk olacak şekilde, yazı dikeyde ortalanmış şekilde yer alacaktır.
 
 
 
