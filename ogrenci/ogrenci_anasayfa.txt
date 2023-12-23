@@ -26,12 +26,7 @@ Anasayfa Özellikler
 	
 		1.c.1 - Okul tarafından öğrencinin görmesi gereken duyurular bulunacaktır.
 
-			1.c.1.1 - Duyuru tipine göre renklendirme yapılacak.
-
-				1.c.1.1.1 - Link içeren yönlendirme duyuruları sarı renk olacak.
-				1.c.1.1.2 - Bilgilendirme amaçlı duyurular kırmızı renk olacak.
-
-			1.c.1.2 - Yazı dışında medya da eklenebilecek.
+			1.c.1.1 - Yazı dışında medya da eklenebilecek.
 		
 		
 
