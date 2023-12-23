@@ -37,7 +37,7 @@
     1.5.3 - Kalın olduğu belirtilen başlıklar dışında diğer tüm yazılar standart yazı formatında olacaktır.
 
   1.6 - "Kime" kısmının altında "Mesaj Konusu" kısmı yer alacaktır.
-    1.6.1 - "Mesaj Konusu" yazısının yanında metin kutusu yer alacaktır.
+    1.6.1 - "Mesaj Konusu" yazısının yanında tek satırlık metin kutusu yer alacaktır.
       1.6.1.1 - Kutunun üzerine gelindiğinde "Lütfen bu alanı doldurun" html title yazısı görünecektir.
       1.6.1.2 - Kutuya tıklandığında çerçevesi mavi renk olup parlayacaktır.
 
@@ -45,7 +45,15 @@
       1.6.2.1 - Sonrasında imleç son harften uzaklaşmaya ve arada bir boşluk görünmeye başlayacaktır.
 
 
-
+  1.7 - Konunun altında "İçerik" kısmı yer alacaktır.
+    1.7.1 - "İçerik" yazısının yanında metin kutusu yer alacaktır.
+    1.7.2 - Kutuya yazı yazılmadığı sürece, kutu içinde arka planda, "En fazla 2000 karakter uzunluğunda mesaj içeriği girişi yapabilirsiniz." yazısı yer alacaktır.
+      1.7.3 - 2001 karakter bile olsa mesaj gönderilmek istendiğinde form bloğunun üstünde "Hata.. İşlem sayfasına erişilemedi Lütfen tekrar deneyiniz..." uyarı kutusu çıkacaktır.
+        1.7.3.1 - Kutu rengi soluk kırmızı, çerçeve ve yazı koyu kırmızı olacaktır.
+  
+    1.7.3 - Kutuya tıklandığında çerçevesi mavi olup parlayacaktır.
+    1.7.4 - Satır uzunluğu responsive olacaktır.
+    
 
 
 2 - Sayfa arka planı beyaz olacaktır.
