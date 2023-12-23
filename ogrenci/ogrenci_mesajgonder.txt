@@ -36,5 +36,7 @@
 
 		1.e.1 - Tüm form temizlenir.
 
+2 - Sayfa manuel olarak yenilenirse öbs anasayfası açılır.
+
 
 
