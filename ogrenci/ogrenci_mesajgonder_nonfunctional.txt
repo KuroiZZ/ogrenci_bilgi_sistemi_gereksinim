@@ -41,8 +41,8 @@
       1.6.1.1 - Kutunun üzerine gelindiğinde "Lütfen bu alanı doldurun" html title yazısı görünecektir.
       1.6.1.2 - Kutuya tıklandığında çerçevesi mavi renk olup parlayacaktır.
 
-    1.6.2 - Mesaj konusu 32998 karaktere kadar kararlı çalışacaktır.
-      1.6.2.1 - Sonrasında imleç son harften uzaklaşmaya ve arada bir boşluk görünmeye başlayacaktır.
+    1.6.2 - Mesaj konusu 150 karakterle sınırlıdır.
+      1.6.2.1 - 150 karakterden fazla yazıldığında göndermeye çalışılırsa 1.7.3 maddesindeki hata bu durum için de geçerlidir.
 
 
   1.7 - Konunun altında "İçerik" kısmı yer alacaktır.
@@ -65,6 +65,12 @@
 3 - "Mesaj Göndereceğiniz Kişiyi seçiniz..." uyarısı "Danışman" ve "Öğretim Üyesi" yazılarının hemen altında yer alacaktır.
   3.1 - Kırmızı arka planlı ve koyu kırmızı yazılı, çerçeveli olacaktır.
   3.1 - "Danışman" checkbox'ının altından form bloğu sonuna kadar uzanacaktır.
+  3.2 - Kutu içinde, yazı üstünde ve altında birer satır boşluk olacak şekilde, yazı dikeyde ortalanmış şekilde yer alacaktır.
+
+4 - Mesaj gönderildiğinde form bloğunun en üstünde "İşlem gerçekleştirildi" uyarısı ve kutusu yer alacaktır.
+  4.1 - Kutu açık yeşil olacaktır.
+  4.2 - Yazı ve çerçeve koyu yeşil olacaktır.
+  4.3 - Kutu yatayda form bloğu sonuna kadar uzanacaktır.
   3.2 - Kutu içinde, yazı üstünde ve altında birer satır boşluk olacak şekilde, yazı dikeyde ortalanmış şekilde yer alacaktır.
 
 
