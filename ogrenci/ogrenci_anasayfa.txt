@@ -60,3 +60,4 @@ Anasayfa Özellikler
 		1.f.4 - Bölüm kabul ve mezuniyet koşulları, derece sayfasına giden yönlendirme yazısı bulunacaktır.
 			
 			1.f.4.1 - Link bu bloğa tıklandığında açılacak şekilde gizli olacaktır.
+
