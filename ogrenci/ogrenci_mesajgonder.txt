@@ -39,4 +39,3 @@
 2 - Sayfa manuel olarak yenilenirse öbs anasayfası açılır.
 
 
-
