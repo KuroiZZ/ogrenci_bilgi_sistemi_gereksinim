@@ -15,6 +15,7 @@
   5.1 - Beyaz kutu veya blokların çerçeveleri gri renkte olacaktır.
   5.2 - Renkli kutu veya blokların çerçeveleri, ilgili kutu veya blok renginin daha koyu renginde olacaktır.
   5.3 - Köşeleri yuvarlatılmış olacaktır.
+  5.4 - Renkli olduğu belirtilmediği sürece sayfa, kutu, blok renkleri beyaz kabul edilecektir.
 
 6 - Her sayfada link içeren kelime veya kelime grupları mavi renkte olacak.
   6.1 - Fare ile üstlerine gelindiğinde altı çizili koyu renk halde görünecek.
