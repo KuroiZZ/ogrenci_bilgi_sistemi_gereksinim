@@ -1,2 +1,54 @@
+1 - Mesaj gönderme bloğu ekranın ortasında yer alır.
+  1.1 - Çerçeve rengi mavidir.
+  1.2 - Bloğun en üstünde "MESAJ GÖNDERME" yazısı bulunur.
+    1.2.1 - Yazı beyaz renktedir.
+    1.2.2 - Yazının bir satır altında, bir satır üstünde pay kalacak şekilde yazı etrafı blok genişliği boyunca maviye boyanır.
+
+  1.3 - Yukarıdan aşağı sırayla "Kime" , "Mesaj Konusu" ve "İçerik" kısımları yer alacaktır.
+    1.3.1 -  Bu başlıklar koyu yazılacaktır.
+  1.4 - Mavi boyalı "MESAJ GÖNDERME" kısmı altında "Mesaj Gönderme Formu" yazısı bulunur.
+    1.4.1 - Yazının altında, blok genişliği boyunca, yazıyı formdan ayıran ince bir çizgi bulunur.
+
+  1.5 - Çizginin altında ilk olarak "Kime" kısmı bulunur.
+    1.5.1 - Solda "Kime" yazısı; onun sağında soldan sağa sırayla "Danışman" yazısı ve checkbox'ı ve "Öğretim Üyesi" yazısı ve checkbox'ı yer alır.
+      1.5.1.1 - Checkboxlara ve yazılar tıklanabilir şekildedir.
+      1.5.1.2 - Checkbox'lardan birinin üstüne gelindiğinde, eğer henüz seçim yapılmamışsa, "Lütfen bu seçeneklerden birini belirleyin" yazısı görünür.
+        1.5.1.2.1 - Yazı, varsayılan html title formatındadır.
+
+      1.5.1.3 - Danışmana tıklanırsa sadece ona ait checkbox işaretlenecektir.
+      1.5.1.4 - Öğretim üyesine tıklanırsa ona ait checkbox işaretlenip öğretim üyesi menüsü açılacaktır.
+        1.5.1.4.1 - Menü, "kime" ve "mesaj konusu" arasında açılacaktır
+          1.5.1.4.1.1 - "Mesaj konusu" ve diğer menüler aşağı kayacak şekilde form bloğu aşağı doğru genişleyecektir.
+
+        1.5.1.4.2 - Menü, "danışman" yazısının hizasından blok sonuna kadar yataya yayılacaktır.
+        1.5.1.4.3 - Menünün en üstünde, sırayla solda ve sağda, "Ders Adı" ve "Öğretim Üyesi" yazıları yer alacaktır.
+          1.5.1.4.3.1 - Yazılar kalın olacaktır.
+
+        1.5.1.4.4 - Yazıların altında yine "danışman" yazısının hizasından blok sonuna kadar yatay kalın bir çizgi yer alacaktır.
+        1.5.1.4.5 - Çizginin altında, ilgili başlıkların altında, ders adları ve öğretim üyeleri listelenmiş olacaktır.
+          1.5.1.4.5.1 - Her bir ders adının hemen solunda kendisine ait checkbox yer alacaktır.
+            1.5.1.4.5.1.1 - Checkbox üstüne gelindiğinde "Ders Adı, Öğretim Görevlisi ID Numarası, Öğretim Görevlisi Adı Soyası"  formatında bilgilendirme yazısı ekrana gelecektir.
+              1.5.1.4.5.1.1.1 - Yazı, varsayılan html title formatında olacaktır.
+
+        1.5.1.4.6 - Baştaki "Ders Adı", "Öğretim Üyesi" veya herhangi bir ders veya öğretim üyesi yazısı üstüne gelindiğinde "Uyari" yazısı ekranda belirecektir.
+          1.5.1.4.6.1 - Yazı, varsayılan html title formatında olacaktır.
+
+    1.5.2 - Tıklanan checkbox'ın içi mavi renk olacaktır.
+    1.5.3 - Kalın olduğu belirtilen başlıklar dışında diğer tüm yazılar standart yazı formatında olacaktır.
+
+  1.6 - "Kime" kısmının altında "Mesaj Konusu" kısmı yer alacaktır.
+    1.6.1 - "Mesaj Konusu" yazısının yanında metin kutusu yer alacaktır.
+      1.6.1.1 - Kutunun üzerine gelindiğinde "Lütfen bu alanı doldurun" html title yazısı görünecektir.
+      1.6.1.2 - Kutuya tıklandığında çerçevesi mavi renk olup parlayacaktır.
+
+    1.6.2 - Mesaj konusu 32998 karaktere kadar kararlı çalışacaktır.
+      1.6.2.1 - Sonrasında imleç son harften uzaklaşmaya ve arada bir boşluk görünmeye başlayacaktır.
+
+
+
+
+
+2 - Sayfa arka planı beyaz olacaktır.
+
 
 
