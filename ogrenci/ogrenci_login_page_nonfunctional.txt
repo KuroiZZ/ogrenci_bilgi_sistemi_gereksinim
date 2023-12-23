@@ -17,6 +17,8 @@
 
 4 - Yetenek Kapısı butonlarının formatı.
   4.1 - Arka planlarının açık mavi olması.
+    4.1.1 - Fare kutuların üstüne gelince butonların rengi canlanacaktır.
+    4.1.2 - Fare başka yerdeyken butonlar soluk renkli olacaktır.
   4.2 - Arka planın yuvarlatılmış köşelere sahip olması.
   4.3 - Yazıların beyaz olması.
   4.4 - İki butonun da boyutlarının aynı olması.
@@ -32,6 +34,8 @@
     5.6.1 - Sadece imleç oraya getirilirse yazılar kalacaktır.
     5.6.2 - Giriş yapılmaya başlandığı an ilgili arkadaki o yazı gidecektir.
   5.7 - Kutu çerçevesi yuvarlatılmış kenarlı olacaktır.
+  5.8 - Üstüne tıklanan kutunun çervesi mavi olacaktır.
+    5.8.1 - Mavi çerçeveye aynı renkte parlama efekti gelecektir.
 
 6 - Hatalı giriş uyarı formatı
   6.1 - Kutu genişliği öğrenci numarası kutusuyla aynı olacaktır.
@@ -48,6 +52,7 @@
   7.2 - ReCaptcha doğrulanmışsa butonlar aktifleştikleri belli olacak şekilde renk tonları canlılaşacaktır.
     7.2.1 - Renkleri değişmeyecek sadece var olan renkleri daha canlı hale gelecektir.
   7.3 - ReCaptcha butonun hemen altında yer alacaklardır.
+  7.4 - ReCaptcha onaylı değilse fare üstlerine geldiğinde imleç bloke simgesi halini alacaktır
 
 8 - ReCaptcha butonu formatı
   8.1 - ReCaptcha'nın varsayılan tasarımı kullanılacaktır.
@@ -56,4 +61,12 @@
 9 - Sosyal medya ikonları formatı.
   9.1 - Mavi renkli olacaklardır.
   9.2 - Form bloğunun en altında yer alacaklardır.
+  9.3 - Png formatında, sadece ilgil sosyal medyanın simgesi yer alacaktır
+ (twitter için kuş, Facebook için f harfi gibi)
+
+10 - Uzem anasayfa butonu
+  10.1 - Sayfanın ortasında en altta yer alacaktır
+  10.1 - Buton mavi renk olacaktır.
+  10.2 - Çerçevesi koyu mavi olacaktır.
+  10.3 - Üstündeki yazı beyaz renk olacaktır.
 
