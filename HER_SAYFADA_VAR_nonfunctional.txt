@@ -22,3 +22,6 @@
   6.1.1 - Tıklanırsa, aynı sayfada başka bir yere tıklayana kadar öyle kalacak.
     6.1.1.2 - Başka yere tıklanınca eski haline dönecek.
   6.1.2 - Tıklanmazsa, fare üstünden çekildiğinde eski haline dönecek.
+
+7 - Tüm sayfalarda sağ tık engeli olacaktır.
+  7.1 - Login sayfasındaki ReCaptcha bloğu hariç.
