@@ -1,0 +1,41 @@
+Habil tarafından kontrol edildi.
+
+Öğrenci mesaj gönder özellikler
+
+1 - Mesaj gönderme formu bulunur.
+
+	1.a - Kime gönderileceği seçilir.
+
+		1.a.1 - Danışman ya da öğretim üyesi seçimi yapılır.
+		
+			1.a.1.1 - Danışman seçilirse, sistem, atanmış danışmana mesaj atma
+		       modunda çalışır.
+			1.a.1.2 - Öğretim üyesi seçilirse, öğrencinin aktif dönem dersleri ve
+		       bu derslere giren öğretim üyeleri listelenir ve seçim yapması istenir.
+
+				1.a.1.1.2.1 - Öğretim üyeleri arasından yalnız biri seçilebilir.
+
+	1.b - Mesaj konusu kutucuğuna mesaj konusu yazılır.
+	1.c - İçerik kutusuna gönderilmek istenen mesaj yazılır.
+
+		1.c.1 - En fazla 2000 karakter kullanılmalıdır.
+
+	1.d - Gönder butonu bulunur.
+		
+		1.d.1 - Tüm form doldurulduysa başarılı bir şekilde mesaj gönderilir.
+
+			1.d.1.1 - Sayfa yenilenir ve işlem başarılı mesajı verilir.
+
+		1.d.4 - Kime gönderileceği seçilmemişse seçim ekranı listelenir, uyarı verilmez.
+
+			1.d.4.1 - Mesaj konusu ve içerik boş olsa bile uyarı vermez sadece kişi seçimi ister.
+
+		1.d.5 - Mesaj konusu boşsa uyarı verilir.
+		1.d.6 - İçerik kutusu boşsa uyarı verilir.
+		
+
+	1.e - Formu temizle butonu bulunur.
+
+		1.e.1 - Tüm form temizlenir.
+
+	
