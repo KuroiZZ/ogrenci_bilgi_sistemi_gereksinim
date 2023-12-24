@@ -1,0 +1,55 @@
+öğrenci Mesajlar Özellikler
+
+1- Üst menü bulunur.
+
+	1.a - Gelen mesajlar butonu bulunur.
+		
+		1.a.1 - Varsayılan olarak gelen mesajlar kısmı açılır.
+		1.a.2 - Her sayfada 20 mesaj bulunur.
+
+			1.a.2.1 - Sayfalar arasında gezinmek için butonlar bulunur.
+
+				1.a.2.1.1 - Önceki sayfa butonu bulunur.
+				1.a.2.1.2 - sonraki sayfa butonu bulunur.
+				1.a.2.1.3 - ilk sayfa butonu bulunur.
+				1.a.2.1.4 - son sayfa butonu bulunur.
+				1.a.2.1.5 - sayfa numaraları bunların butonları bulunur.
+
+					1.a.2.1.5.1 - Tıklanan butondaki sayfaya gidilir
+					1.a.2.1.5.2 - Açılı sayfa numarasına tıklanırsa sayfa yenilenir.
+		
+		1.a.3 - Toplu seçim butonu bulunur.
+			
+			1.a.3.1 - Yanında sil butonu bulunur.
+
+		1.a.4 - Her mesajda seçim butonu bulunur.
+
+			1.a.4.1 - Yanlarında sil butonu bulunur.
+
+		1.a.5 - Her mesaj dar versiyonda görüntülenir.
+			
+			1.a.5.1 - Dar haldeyken mesaj konusu, dersin adı, öğretim görevlisi ismi ve mesaj tarihi görüntülenir.
+			1.a.5.2 - Mesaja tıklandığında geniş modda görüntülenir.
+		
+				1.a.5.2.1 - Geniş modda dar moddaki her şeye ek olarak mesaj içeriği de görüntülenir.
+		
+		1.a.6 - Arama kutusu bulunur
+		1.a.7 - Filtreleme seçenekleri bulunur.
+			1.a.7.1 - "Tümü", "Gönderen", "Konu" ve "İçerik" filtre seçenekleri yer alacaktır.
+
+		1.a.8 - Her mesajda açılma durumu ikonu bulunur.
+		1.a.9 - Her mesajda yanıtla butonu bulunur
+			1.a.9.1 - Yanıt mesajı kutusu ve gönder butonu bulunur.
+
+
+	1.b - Gönderilen mesajlar butonu bulunur.
+
+		1.b.1 - Tıklandığında gönderilen mesajlar kısmı açılır.
+		1.b.2 - Seçeneklerden 1.a.2'den 1.a.8 dahil olmak üzere olan kısım gönderilen mesajlar ekranı için de geçerlidir. 
+		1.b.3 - Yeni mesaj gönder butonu bulunur.
+
+			1.b.3.1 - Mesaj gönder sayfasına atar.
+
+2 - Sayfa manuel olarak yenilenirse öbs anasayfası açılır.
+
+
