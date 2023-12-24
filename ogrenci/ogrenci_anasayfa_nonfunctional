@@ -1,3 +1,26 @@
+1 - En üstte navigasyon çubuğu bulunacak.
+
+2 - Mesajlar bloğu formatı
+  2.1 - Blok çerçevesi mavi olacak.
+  2.2 - Bloğun en üstünde "MESAJLAR" yazacak
+    2.2.1 - Arka planı mavi olacak
+    2.2.2 - Arka plan, yazı üstünde ve altında birer satır ve blok genişliği boyunca olacak
+  2.3 - Yazının altında Mesaj Gönder butonu yer alacak
+    2.3.1 - Buton rengi yeşil olacak
+    2.3.2 - İçinde kalem ikonu ve "Mesaj Gönder" yazısı bulunacak
+      2.3.2.1 - İkon ve yazı beyaz olacak.
+  2.4 - Mesaj gönder butonu altında "Mesajlar" butonu yer alacak
+    2.4.1 - Buton rengi mavi olacak
+    2.5.2 - "Mesajlar" yazısı beyaz olacak.
+  2.5 - Butonların altında okunmuş/okunmamış mesaj bilgisi ekranı yer alacak
+    2.5.1 - Okunmamış mesaj yoksa bu kısım yeşil olacak
+      2.5.1.1 - Koyu yeşil olarak "Okunmayan mesaj yok" yazacak.
+    2.5.2 - Okunmamış mesaj varsa bu kısım kırmızı olacak
+      2.5.2.1 - Okunmayan mesaj sayısı ve kimden (öğretim üyeesi/danışman vs.) olduğu bilgisi koyu kırmızı şekilde yazılmış olacak
+
+
+
+
 Duyuru tipine göre renklendirme yapılacak.
 
 Yönlendirme duyuruları sarı renk olacak.
