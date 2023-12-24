@@ -1,0 +1,13 @@
+1 - Ekrana yeni bir pencere açılır.
+2 - Üst tarafta bilgilendirme kutucuğu gösterilir.
+    2.1 - Kutucuğun arkaplan rengi açık mavi olmalıdır.
+    2.2 - Kutucuğun içeriğinin rengi koyu mavi olmalıdır.
+3 - "YÖKSİS ÖĞRENİM BİLGİLERİ" başlığına sahip bir tablo gösterilir.
+    3.1 - Başlık satırındaki içerikler koyu siyah ile yazılır
+    3.2 - Satırlar arasında çizgi vardır.
+4 - Detay bölümü açılabilir bir ok tuşu olmalıdır.
+    4.1 - Açıldığında detaylı bilgileri içeren bir kutucuk gösterilir.
+          4.1.1 - Bilgiler alt alta sıralanır.
+          4.1.2 - Alt satır kalmazsa kutucuk bölünerek diğer bölümüne de alt alta yazılır.
+          4.1.3 - Kutucuğun üzerine gelindiğinde koyulaşır.
+5 - Güncelle sütünundaki buton üzerine gelindiğinde koyulaşır.
