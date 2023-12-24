@@ -1,0 +1,72 @@
+1 - Form bloğunun formatı
+  1.1 - Ekranın yatay ve dikeyde ortasında yer alması.
+  1.2 - Sayfa arka plan rengiyle, form bloğu arka plan renginin aynı olması.
+  1.3 - Sayfa arka planından ayrılması için, form bloğu etrafında çerçeve olması.
+    1.3.1 - Çerçevenin ince olması
+    1.3.2 - Çerçeve renginin siyah olması
+    1.3.3 - Çerçevenin yuvarlatılmış köşeli olması.
+
+2 - Okul logosunun formatı
+  2.1 - Logonun png formatında olması.
+  2.2 - Form bloğunun en üstünde yer alması.
+    2.2.1 - Yatay eksende ortada yer alması.
+
+3 - Öğrenci Bilgi Sistemi - Öğrenci yazısının formatı
+  3.1 - Büyük harflerle yazılmış olması.
+  3.2 - Logonun hemen altında yer alması.
+
+4 - Yetenek Kapısı butonlarının formatı.
+  4.1 - Arka planlarının açık mavi olması.
+    4.1.1 - Fare kutuların üstüne gelince butonların rengi canlanacaktır.
+    4.1.2 - Fare başka yerdeyken butonlar soluk renkli olacaktır.
+  4.2 - Arka planın yuvarlatılmış köşelere sahip olması.
+  4.3 - Yazıların beyaz olması.
+  4.4 - İki butonun da boyutlarının aynı olması.
+  4.5 - İki butonun da Logonun hemen altında yer alması.
+
+5 - Öğrenci numarası ve Şifre kutularının formatı.
+  5.1 - Kutu boyutları aynı olacaktır.
+  5.2 - Kutular form bloğunun ortasında yer alacaktır.
+  5.3 - Öğrenci numarası kutusu yetenek kapıları butonunun hemen altında olacaktır.
+  5.4 - Şifre kutusu numara kutusunun hemen altında yer alacaktır.
+  5.5 - Kutu rengi beyaz olacaktır.
+  5.6 - Kutular boşken kutuların içinde soluk gri renkte kutuların adı yazacaktır.
+    5.6.1 - Sadece imleç oraya getirilirse yazılar kalacaktır.
+    5.6.2 - Giriş yapılmaya başlandığı an ilgili arkadaki o yazı gidecektir.
+  5.7 - Kutu çerçevesi yuvarlatılmış kenarlı olacaktır.
+  5.8 - Üstüne tıklanan kutunun çervesi mavi olacaktır.
+    5.8.1 - Mavi çerçeveye aynı renkte parlama efekti gelecektir.
+
+6 - Hatalı giriş uyarı formatı
+  6.1 - Kutu genişliği öğrenci numarası kutusuyla aynı olacaktır.
+  6.2 - Kutu yüksekliği öğrenci numarası kutusu yüksekliğinin 2 katı olacaktır
+  6.3 - Uyarı yazısı koyu kırmızı olacak.
+  6.3 - Arka planı açık kırmızı olacak.
+  6.4 - Kutu çerçevesi yuvarlatılmış köşeli olacak.
+  6.5 - Kutunun üst kenarı, öğrenci numarası kutusunun alt kenarına çakışık olacak.
+
+7 - Giriş ve Şifremi unuttum butonları formatı
+  7.1 - ReCaptcha doğrulanmamışsa buton renkleri soluk olacaktır.
+    7.1.1 - Giriş butonu açık mavi renkli olacaktır.
+    7.1.1 - Şifremi unuttum butonu kırmızı renkli olacaktır.
+  7.2 - ReCaptcha doğrulanmışsa butonlar aktifleştikleri belli olacak şekilde renk tonları canlılaşacaktır.
+    7.2.1 - Renkleri değişmeyecek sadece var olan renkleri daha canlı hale gelecektir.
+  7.3 - ReCaptcha butonun hemen altında yer alacaklardır.
+  7.4 - ReCaptcha onaylı değilse fare üstlerine geldiğinde imleç bloke simgesi halini alacaktır
+
+8 - ReCaptcha butonu formatı
+  8.1 - ReCaptcha'nın varsayılan tasarımı kullanılacaktır.
+  8.2 - Şifre kutusunun hemen altında, giriş ve şifremi unuttum butonlarının üstünde yer alacaktır.
+
+9 - Sosyal medya ikonları formatı.
+  9.1 - Mavi renkli olacaklardır.
+  9.2 - Form bloğunun en altında yer alacaklardır.
+  9.3 - Png formatında, sadece ilgil sosyal medyanın simgesi yer alacaktır
+ (twitter için kuş, Facebook için f harfi gibi)
+
+10 - Uzem anasayfa butonu
+  10.1 - Sayfanın ortasında en altta yer alacaktır
+  10.1 - Buton mavi renk olacaktır.
+  10.2 - Çerçevesi koyu mavi olacaktır.
+  10.3 - Üstündeki yazı beyaz renk olacaktır.
+
