@@ -1,0 +1,46 @@
+1 - Ekranda mesajlar bloğu yer alacak
+  1.1 - Blok çerçevesi mavi olacak.
+  1.2 - Bloğun en üstünde "MESAJLAR" yazacak
+    1.2.1 - Arka planı mavi olacak
+    1.2.2 - Arka plan, yazı üstünde ve altında birer satır ve blok genişliği boyunca olacak
+
+2 - "Gelen Mesajlar" ve "Gönderilen Mesajlar" başlıkları mavi renkli yazılı olacak
+    2.1 - Fare ile tıklanmamış olanın üstüne gelindiğinde arka planı gri olacak
+    2.2 - Tıklanmış olanın yazı rengi siyah olacak
+    2.3 - Tıklanmış olanın etrafında 3 kenarlı çerçeve oluşacak
+      2.3.1 - Tıklanan kısımdaki yazının solunda,üstünde ve sağında kenar olacak
+        2.3.1.1 - Gelen mesajlar tıklanmışsa sağdaki kenarın alt noktasından, gönderilen mesajlar altından, blok sağ kenarına yatay çizgi uzanacak
+          2.3.1.1.1 - Sol kenar, blok sol kenarına paralel olacak ve sola doğru yatay çizgi olmayacak
+        2.3.1.2 - Gönderilen mesajlar tıklanmışsa soldaki kenarın ve sağdaki kenarın alt noktalarından, gelen mesajların altından, sırasıyla blok sol ve sağ kenarına yatay çizgi uzanacak
+
+    2.4 - İlk açılışta Gelen Mesajlar açık olacak
+    2.5 - Gelen Mesajlar açıksa sayfa 2'deki başlığın altında büyük boyutta "Gelen Mesajlar" başlığı yer alacak
+    2.6 - Gönderilen Mesajlar açıksa sayfa 2'deki başlığın altında büyük boyutta "Gönderilen Mesajlar" başlığı yer alacak
+      2.6.1 - En sağda Yeni Mesaj Gönder butonu yer alacak
+        2.6.1.1 - Buton rengi açık yeşil olacak
+        2.6.1.2 - İçinde beyaz renkte kalem simgesi ve "Yeni Mesaj Gönder" yazısı yer alacak
+        2.6.1.3 - Fareyle buton üstüne gelinince rengi koyulaşacak
+
+3 - Büyük başlık altında sayfalar arası gezinme butonları yer alacak
+  3.1 - Butonlar beyaz, içindeki sayı ve simgeler mavi olacak
+  3.2 - Üstüne gelinen butonun rengi gri olacak
+  3.3 - Açık olan sayfa numarası arka planı koyu gri olacak
+
+4 - Gezinme butonları altında yan yana sırayla toplu seçim butonu, arama kutusu ve arama filtresi butonu yer alacak
+  4.1 - Arama kutusu beyaz olacaktır
+    4.1.1 - Bir şey yazılmadığı sürece arka planda "Search for..." yazısı bulunacaktır.
+  4.2 - Arama filtresi açılır menü butonu şeklinde olacaktır.
+    4.2.1 - Buton beyaz, yazılar siyah ve kalın olacaktır.
+    4.2.2 - Üstüne gelindiğinde arka plan gri olacaktır.
+      4.2.2.1 - Tıklama anında dış çerçeve içinde siyah bir çerçeve daha görünecektir
+      4.2.2.2 - Menü açıldığında buton arka planı gri kalacaktır
+    4.2.3 - Tıklandığında altında filtre seçenekleri açılacaktır.
+      4.2.3.1 - Üstüne gelinenin arka planı gri olacaktır
+      4.2.3.2 - Sayfa ilk açıldığında varsayılan olarak "Tümü" seçili olacaktır
+    4.2.4 - Buton üstünde yazının yanında açılır menü işareti olarak aşağı yönlü üçgen yer alacaktır.
+     
+5 - Mesajlar beyaz bloklar halinde alt alta yer alacaktır
+  5.1 - 
+      
+    
+  
