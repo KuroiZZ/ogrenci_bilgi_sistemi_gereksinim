@@ -51,3 +51,5 @@
 			1.b.3.1 - Mesaj gönder sayfasına atar.
 
 2 - Sayfa manuel olarak yenilenirse öbs anasayfası açılır.
+
+
