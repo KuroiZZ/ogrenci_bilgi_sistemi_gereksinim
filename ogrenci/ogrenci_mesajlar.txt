@@ -39,6 +39,7 @@
 
 		1.a.8 - Her mesajda açılma durumu ikonu bulunur.
 		1.a.9 - Her mesajda yanıtla butonu bulunur
+			1.a.9.1 - Yanıt mesajı kutusu ve gönder butonu bulunur.
 
 
 	1.b - Gönderilen mesajlar butonu bulunur.
