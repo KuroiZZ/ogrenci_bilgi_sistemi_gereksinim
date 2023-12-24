@@ -1,0 +1,68 @@
+1 - En üstte navigasyon çubuğu bulunacak.
+
+2 - Mesajlar bloğu formatı
+  2.1 - Blok çerçevesi mavi olacak.
+  2.2 - Bloğun en üstünde "MESAJLAR" yazacak
+    2.2.1 - Arka planı mavi olacak
+    2.2.2 - Arka plan, yazı üstünde ve altında birer satır ve blok genişliği boyunca olacak
+  2.3 - Yazının altında Mesaj Gönder butonu yer alacak
+    2.3.1 - Buton rengi yeşil olacak
+    2.3.2 - İçinde kalem ikonu ve "Mesaj Gönder" yazısı bulunacak
+      2.3.2.1 - İkon ve yazı beyaz olacak.
+  2.4 - Mesaj gönder butonu altında "Mesajlar" butonu yer alacak
+    2.4.1 - Buton rengi mavi olacak
+    2.5.2 - "Mesajlar" yazısı beyaz olacak.
+  2.5 - Butonların altında okunmuş/okunmamış mesaj bilgisi ekranı yer alacak
+    2.5.1 - Okunmamış mesaj yoksa bu kısım yeşil olacak
+      2.5.1.1 - Koyu yeşil olarak "Okunmayan mesaj yok" yazacak.
+    2.5.2 - Okunmamış mesaj varsa bu kısım kırmızı olacak
+      2.5.2.1 - Okunmayan mesaj sayısı ve kimden (öğretim üyeesi/danışman vs.) olduğu bilgisi koyu kırmızı şekilde yazılmış olacak
+    2.5.3 - Yazı üstünde ve altında birer satır boşluk olacak şekilde boyunca bir kutucuk oluşacak.
+
+3 - Anketler bloğu formatı
+  3.1 - Blok çerçevesi mavi olacak.
+  3.2 - Bloğun en üstünde "ANKETLER" yazacak
+    3.2.1 - Arka planı mavi olacak
+    3.2.2 - Arka plan, yazı üstünde ve altında birer satır ve blok genişliği boyunca olacak
+  3.3 - Anketler beyaz bloklar halinde alt alta yer alacak
+  3.4 - Anket isimleri mavi yazılmış olacak
+    3.4.1 - Fare ile üstlerine gelindiğinde, yazı, koyu mavi ve altı çizili olacak
+
+
+4 - Bilgilendirme bloğu formatı
+  4.1 - Blok çerçevesi mavi olacak.
+  4.2 - Bloğun en üstünde "BİLGİLENDİRME" yazacak
+    4.2.1 - Arka planı mavi olacak
+    4.2.2 - Arka plan, yazı üstünde ve altında birer satır ve blok genişliği boyunca olacak
+
+5 - Duyurular bloğu formatı
+  5.1 - Blok çerçevesi mavi olacak.
+  5.2 - Bloğun en üstünde "DUYURULAR" yazacak
+    5.2.1 - Arka planı mavi olacak
+    5.2.2 - Arka plan, yazı üstünde ve altında birer satır ve blok genişliği boyunca olacak
+  5.3 - Duyuru tipine göre renklendirme yapılacak.
+    5.3.1 - Yönlendirme duyuruları sarı renk olacak.
+    5.3.2 - Bilgilendirme amaçlı duyurular kırmızı renk olacak.
+  5.4 - İçerisine eklenen yazılarda, linklerde istenildiği gibi düzenleme yapılabilecek
+    5.4.1 - Yazı tipi, font kalınlığı, yazının rengi gibi formatlama işlemleri mümkün olacak.
+
+6 - Diğer bilgiler bloğu formatı
+  6.1 - Blok çerçevesi mavi olacak.
+  6.2 - Bloğun en üstünde "BİLGİLENDİRME" yazacak
+    6.2.1 - Arka planı mavi olacak
+    6.2.2 - Arka plan, yazı üstünde ve altında birer satır ve blok genişliği boyunca olacak
+  6.3 - Anketler beyaz bloklar halinde alt alta yer alacak
+    6.3.1 - Fare ile üstüne gelinen anket arka planı gri olacak.
+  6.4 - Anket isimleri siyah yazılmış olacak
+  6.5 - Anket başlıkları daha büyük puntoda yazılacak
+  6.6 - Her anket bloğu tıklanabilir olacak
+
+7 - Sosyal medya bloğu formatı
+  7.1 - Blok çerçevesi mavi olacak.
+  7.2 - Bloğun en üstünde "BİLGİLENDİRME" yazacak
+    7.2.1 - Arka planı mavi olacak
+    7.2.2 - Arka plan, yazı üstünde ve altında birer satır ve blok genişliği boyunca olacak
+  7.3 - Sosyal medya ikonları mavi renkte yer alacak
+  7.4 - Sadece ilgili sosyal medyanın png ikonu yer alacak (facebook için f harfi, twitter için kuş simgesi gibi)
+
+

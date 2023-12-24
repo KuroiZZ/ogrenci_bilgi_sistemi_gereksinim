@@ -1,0 +1,64 @@
+Anasayfa Özellikler
+
+1 - Ekranda çeşitli amaçlarla kullanılacak bloklar bulunacaktır.
+
+	1.a - Mesajlar bloğu bulunacaktır.
+		
+		1.a.1 - Mesaj gönder butonu bulunacaktır.
+		1.a.2 - Mesajlar butonu bulunacaktır
+		1.a.3 - Okunmayan mesaj bildirimi bulunacaktır.
+		
+			1.a.3.1 - Okunmayan mesaj varsa sayısı yazacaktır.
+			
+				1.a.3.1.1 - Okunmayan mesaj danışmandan gelmişse,
+			       danışmandan gelen mesaj sayısı belirtilecektir.
+
+				1.a.3.1.2 - Okunmayan mesaj danışman dışında bir öğretim görevlsinden gelmişse
+			       öğretim görevlisinden gelen mesaj sayısı olarak ayrıca mesaj sayısı yazacaktır.
+
+	1.b - Anketler bloğu bulunacaktır.
+
+		1.b.1 - Okul tarafından öğrenciye sunulmuş anketler bulunacaktır.
+
+			1.b.1.1 - Her farklı anketin bloğu tıklanabilir olacaktır.
+
+	1.c - Duyurular bloğu bulunacaktır.
+	
+		1.c.1 - Okul tarafından öğrencinin görmesi gereken duyurular bulunacaktır.
+
+			1.c.1.1 - Yazı dışında medya da eklenebilecek.
+		
+		
+
+	1.d - Bilgilendirme bloğu bulunacaktır.
+
+		1.d.1 - Okul tarafından öğrenciyi bilgilendirme, bilinçlendirme amaçlı
+	       yayınlanacak içerikler bu bölümde olacaktır.
+
+	1.e - Sosyal medya bloğu bulunacaktır.
+
+	 	1.e.1 - Okul sosyal medya hesaplarına ait linkler bulunacaktır.
+
+			1.e.1.1 - Linkler, ilgili sosyal medya platform ikonu tıklanmasıyla
+ 		       çalışacak şekilde olacaktır.
+			1.e.1.2 - Herhangi bir yazı bulunmayacaktır.
+
+	1.f - Diğer bilgiler bloğu bulunacaktır.
+
+		1.f.1 - Üniversite yönetmelikler sayfasına giden yönlendirme yazısı bulunacaktır.,
+
+			1.f.1.1 - Link bu bloğa tıklandığında açılacak şekilde gizli olacaktır.
+
+		1.f.2 - Üniversite akademik takvim sayfasına giden yönlendirme yazısı bulunacaktır.
+			
+			1.f.2.1 - Link bu bloğa tıklandığında açılacak şekilde gizli olacaktır.
+
+		1.f.3 - Bölüm amaç, vizyon, misyon sayfasına giden yönlendirme yazısı bulunacaktır.,
+
+			1.f.3.1 - Link bu bloğa tıklandığında açılacak şekilde gizli olacaktır.
+
+		1.f.4 - Bölüm kabul ve mezuniyet koşulları, derece sayfasına giden yönlendirme yazısı bulunacaktır.
+			
+			1.f.4.1 - Link bu bloğa tıklandığında açılacak şekilde gizli olacaktır.
+
+
