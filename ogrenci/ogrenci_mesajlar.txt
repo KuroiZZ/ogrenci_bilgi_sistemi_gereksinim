@@ -35,13 +35,16 @@
 		
 		1.a.6 - Arama kutusu bulunur
 		1.a.7 - Filtreleme seçenekleri bulunur.
-			1.a.7.1 - "Tümü", "Gönderilen", "Konu" ve "İçerik" filtre seçenekleri yer alacaktır.
+			1.a.7.1 - "Tümü", "Gönderen", "Konu" ve "İçerik" filtre seçenekleri yer alacaktır.
+
+		1.a.8 - Her mesajda açılma durumu ikonu bulunur.
+		1.a.9 - Her mesajda yanıtla butonu bulunur
 
 
 	1.b - Gönderilen mesajlar butonu bulunur.
 
 		1.b.1 - Tıklandığında gönderilen mesajlar kısmı açılır.
-		1.b.2 - Seçeneklerden 1.a.2'den 1.a.5.2.1 dahil olmak üzere olan kısım gönderilen mesajlar ekranı için de geçerlidir. 
+		1.b.2 - Seçeneklerden 1.a.2'den 1.a.8 dahil olmak üzere olan kısım gönderilen mesajlar ekranı için de geçerlidir. 
 		1.b.3 - Yeni mesaj gönder butonu bulunur.
 
 			1.b.3.1 - Mesaj gönder sayfasına atar.
