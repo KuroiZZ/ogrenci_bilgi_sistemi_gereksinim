@@ -1,0 +1,18 @@
+1 - Sayfanın sağ üstünde yazdırma tuşu yazdırma görseli ile gösterilir.
+2 - Sayfanın sol üstünde okulun logosu gösterilir.
+3 - Sayfanın orta üstünde sayfanın başlığı gösterilir.
+4 - Başlığın altında öğrencinin kişisel bilgileri 3 satırlı tablo halinde gösterilir.
+5 - Kişisel bilgilerin altında çizgi gösterilir.
+6 - Çizginin altında Öğrencinin akademik bilgileri 5 satırlı tablo halinde gösterilir.
+7 - Bilgilerin altında Her döneme göre tablo gösterilir
+    7.1 - Dönemin yazılı olduğu satırların arka plan rengi gri olmalıdır.
+    7.2 - Dönem isminin rengi koyu siyah olmalıdır
+    7.3 - Tablodaki satırlar arası "...." şeklinde ayırılır
+8 - Dönem tablolarının altında "AKTS Toplam Bilgileri" ve "Not Aralıkları" başlığında 2 tablo aynı satırda gösterilir.
+    8.1 - Başlıkların altında tablonun başlık satırları bulunur.
+          8.1.1 - Başlık satırları arkaplan rengi gri olmalıdır.
+          8.1.1 - Başlık satırı içeriği rengi koyu siyah olmalıdır.
+9 - AKTS Toplam Bilgileri tablosunun altında koyu siyah ile yazılmış bilgilendirme maddeleri bulunur.
+10 - 2 tablonun altında öğrencinin disiplin cezaları gösterilir.
+11 - Disiplin Cezalarının altına çizgi çekilir
+12 - Çizginin altında okulun bilgileri gösterilir.
