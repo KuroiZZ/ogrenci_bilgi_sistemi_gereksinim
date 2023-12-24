@@ -1,0 +1,30 @@
+1 - Ekranda ŞİFRE DEĞİŞTİRME başlığına sahip bir kutucuk gösterilir.
+   1.1 - Başlığın yazıldığı yerin arkaplan rengi mavi olmalıdır.
+         1.1.1 - Başlık beyaz renk ile yazılır
+   1.2 - Eski Şifre adına sahip içi doldurulabilir bir kutucuk gösterilir.
+         1.2.1 - Yazılan bilgiler '.' şeklinde gösterilir
+         1.2.2 - İçine herhangi bir şey yazıldığında yazıları görebilmemiz için kutunun en sağında göz işareti şeklinde buton çıkar.
+                 1.2.2.1 - Butona basıldığında simgenin üstünde '\' gösterilir
+         1.2.3 - Kutucuğun boyutundan daha büyük veri girildikçe kutucuğun gösterdiği yer sağa doğru kayar.
+   1.3 - Yeni Şifre adına sahip içi doldurulabilir bir kutucuk gösterilir.
+         1.3.1 - Yazılan bilgiler '.' şeklinde gösterilir
+         1.3.2 - İçine herhangi bir şey yazıldığında yazıları görebilmemiz için kutunun en sağında göz işareti şeklinde buton çıkar.
+                 1.3.2.1 - Butona basıldığında simgenin üstünde '\' gösterilir
+         1.3.3 - Kutucuğun boyutundan daha büyük veri girildikçe kutucuğun gösterdiği yer sağa doğru kayar.
+   1.4 - Yeni Şifre Tekrar adına sahip içi doldurulabilir bir kutucuk gösterilir.
+         1.4.1 - Yazılan bilgiler '.' şeklinde gösterilir
+         1.4.2 - İçine herhangi bir şey yazıldığında yazıları görebilmemiz için kutunun en sağında göz işareti şeklinde buton çıkar.
+                 1.3.2.1 - Butona basıldığında simgenin üstünde '\' gösterilir
+         1.4.3 - Kutucuğun boyutundan daha büyük veri girildikçe kutucuğun gösterdiği yer sağa doğru kayar.
+   1.5 - "DEĞİŞTİR" yazılı bir buton gösterilir.
+         1.5.1 - Butonun arkaplan rengi mavi olmalıdır.
+         1.5.2 - Butondaki yazı rengi beyaz olmalıdır.
+         1.5.3 - Butonun üzerine gelindiğinde buton arkaplan rengi koyulaşır.
+
+1 - Ekranda YENİ ŞİFRE OLUŞTURURKEN başlığına sahip bir kutucuk gösterilir.
+   1.1 - Başlığın yazıldığı yerin arkaplan rengi mavi olmalıdır.
+         1.1.1 - Başlık beyaz renk ile yazılır
+   1.2 - Maddeler şeklinde kurallar gösterilir.
+   1.3 - Maddeler '.' ile başlar.
+   1.4 - Özel Karekterler mavi renk ile gösterilir.
+   1.5 - Örnek kırmızı renk ile gösterilir.
