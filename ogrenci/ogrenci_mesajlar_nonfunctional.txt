@@ -29,6 +29,7 @@
 4 - Gezinme butonları altında yan yana sırayla toplu seçim butonu, arama kutusu ve arama filtresi butonu yer alacak
   4.1 - Arama kutusu beyaz olacaktır
     4.1.1 - Bir şey yazılmadığı sürece arka planda "Search for..." yazısı bulunacaktır.
+    4.1.2 - Tıklandığında çerçevesi mavi olup parlayacaktır
   4.2 - Arama filtresi açılır menü butonu şeklinde olacaktır.
     4.2.1 - Buton beyaz, yazılar siyah ve kalın olacaktır.
     4.2.2 - Üstüne gelindiğinde arka plan gri olacaktır.
@@ -40,7 +41,45 @@
     4.2.4 - Buton üstünde yazının yanında açılır menü işareti olarak aşağı yönlü üçgen yer alacaktır.
      
 5 - Mesajlar beyaz bloklar halinde alt alta yer alacaktır
-  5.1 - 
+  5.1 - Mesaj başlıkları kalın yazılı olacaktır
+  5.2 - Başlık altında ders adı ve sorumlusu italik şekilde yazılı olacaktır
+  5.3 - Başlık yanında (sağda) öğretim görevlisi adı standart tipte yer alacaktır
+  5.4 - En sağda küçük boyutta mesaj tarihi ve saati yer alacaktır
+    5.4.1 - Tarih Gün/Ay/Yıl ve XX/XX/XXXX formatında olacaktır
+    5.4.2 - Saat 24 saat ve XX:XX formatında olacaktır
+  5.5 - Her blok başındaki (yani solda) ikonların formatı,
+    5.5.1 - Renk düzeni arka plan beyaz, ikon siyah olacak şekildedir
+    5.5.2 - Seçim butonu en üsttedir
+    5.5.3 - Seçim altında kare dikdörtgen kutu içinde çöp sepeti ikonu yer alır
+    5.5.4 - Çöp ikonu altında klasör simgesi yer alır
+      5.5.4.1 - Mesaj henüz okunmamışsa siyah kapalı bir klasör ikonu vardır
+      5.5.4.2 - Mesaj okunmuşsa beyaz açık bir klasör ikonu vardır
+    5.5.5 - Klasör ikonu altında dikdörtgen kutu içinde ok işareti bulunur
+      5.5.5.1 - Ok işareti saat yönünün tersi yönde yer alır
+      5.5.5.2 - Simge siyahtır
+    5.5.6 - Çöp sepeti ve Ok işareti ikonları üzerine gelince görünümleri değişir
+      5.5.6.1 - Arka planları gri olur
+      5.5.6.2 - Simge renkleri turuncu olur
+    5.5.7 - Tıklanabilir olanlar Çöp sepeti ve Ok işareti ikonlarıdır
+      5.5.7.1 - Çöp sepetine tıklanınca mesaj silinir
+        5.5.7.1.1 - Ekranın üstünde işlem başarıyla gerçekleştirildi uyarısı çıkar.
+          5.5.7.1.1.1 - Formatı mesaj gönderme kısmındaki aynı uyarıyla aynıdır.
+      5.5.7.2 - Ok işaretine tıklanınca mesajı yanıtlama kısmı açılır
+        5.5.7.3 - 5.2 maddesindeki yazıların altında metin kutusu çıkar
+          5.5.7.3.1 - Beyaz arka planlıdır.
+          5.5.7.3.2 - Yazı yazılmadığı sürece arka planda "Yanıt mesajınızı yazınız" yazısı bulunur.
+          5.5.7.3.3 - Tıklandığında çerçevesi mavi olup parlayacaktır
+          5.5.7.3.4 - Yazı yazılmadığı sürece üstüne gelindiğinde "Lütfen bu alanı doldurun" html title yazısı belirir
+        5.5.7.4 - Metin kutusu altında gönder butonu bulunur
+          5.5.7.4.1 - Buton mavidir
+            5.5.7.4.1.1 - Üstüne gelindiğinde rengi koyulaşır
+            5.5.7.4.1.2 - Tıklandığında dış çerçevenin içinde siyah bir çerçeve daha belirir
+          5.5.7.4.2 - İçinde beyaz renkte "GÖNDER" yazılıdır
+
+          
+          
+      
+  
       
     
   
