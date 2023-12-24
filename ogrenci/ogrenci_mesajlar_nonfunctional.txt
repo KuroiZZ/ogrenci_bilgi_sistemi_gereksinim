@@ -75,11 +75,26 @@
             5.5.7.4.1.1 - Üstüne gelindiğinde rengi koyulaşır
             5.5.7.4.1.2 - Tıklandığında dış çerçevenin içinde siyah bir çerçeve daha belirir
           5.5.7.4.2 - İçinde beyaz renkte "GÖNDER" yazılıdır
+  5.6 - Mesaj üstüne tıklandığında açılacak ve içerik görünecektir
+    5.6.1 - Seçili/açılan mesaj bloğu gri renk olacaktır.
+    5.6.2 - En üstte en son gelen mesaj yer alacaktır
+      5.6.2.1 - Gelen mesajlar en üstte yeniden eskiye sıralanacaktır
+      5.6.2.2 - Gelen mesajlardan sonra varsa yanıtlamalar yeniden eskiye sıralanacaktır
+      5.6.2.3 - Açılan mesaj bloğunun en altında (varsa) öğrencinin ilk yazdığı mesaj yer alacaktır.
+      5.6.2.3 - Eğer gönderilen mesajlar sekmesi açıksa en üstte en yeni tarihli mesaj yer alacaktır.
+        5.6.2.3.1 - Gelen/giden fark etmeksizin mesajlar yukarıdan aşağı yeniden eskiye sıralanacaktır.
+    5.6.3 - O bloğun son mesajına kadar her mesajın altında sınır belli eden gri yatay çizgi yer alacaktır
+    5.6.4 - Mesaj başlığı ve mesaj içeriği arasında da ince gri çizgi olacaktır
+    5.6.5 - Açılı mesaj bloğu içindeki öğrencinin gönderdiği mesajların yanında "Sağa Ok" simgesi yer alacaktır
+      5.6.5.1 - Ok işareti turuncu olacaktır
+    5.6.6 - Gönderilen Mesajlar sekmesi açıksa, bir mesaj bloğu açıldığında gelen gönderilen mesajlarda mavi "Sağa Ok" yer alacaktır
+      5.6.6.1 - Gelen mesajlarda turuncu "Sola Ok" yer alacaktır.
+    5.6.7 - Her mesajın tarihi ve saati mesaj sonunda satır başı yapılıp yazılacaktır
+      5.6.7.1 - En üstteki mesajın saati ve tarihi sadece mesaj bloğu başlığında yer alacaktır.
 
-          
-          
-      
-  
-      
-    
-  
+6 - En altta mesaj yanlarındaki sembollerin açıklamaları yer alacaktır
+  6.1 - "Semboller; Çöp Kutusu: Silme, Klasör: Okunma durumu, Ok İşareti: Yanıtlama".
+    (Bu sembolleri ss alır docx yazarken ekleriz)
+  6.2 - Gönderilen Mesajlar kısmına girildiğinde, mesaj yanlarında sadece "Silme" ve "Okunma durumu" ikonları yer alacaktır.
+
+ 
