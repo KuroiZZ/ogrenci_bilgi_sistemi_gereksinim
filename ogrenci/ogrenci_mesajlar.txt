@@ -32,6 +32,11 @@
 			1.a.5.2 - Mesaja tıklandığında geniş modda görüntülenir.
 		
 				1.a.5.2.1 - Geniş modda dar moddaki her şeye ek olarak mesaj içeriği de görüntülenir.
+		
+		1.a.6 - Arama kutusu bulunur
+		1.a.7 - Filtreleme seçenekleri bulunur.
+			1.a.7.1 - "Tümü", "Gönderilen", "Konu" ve "İçerik" filtre seçenekleri yer alacaktır.
+
 
 	1.b - Gönderilen mesajlar butonu bulunur.
 
