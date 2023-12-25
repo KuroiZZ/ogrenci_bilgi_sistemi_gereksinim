@@ -1,0 +1,18 @@
+1 - Ekranda Ders Erişim Sorunları başlıklı bir kutucuk gösterilir.
+    1.1 - Maddeler halinde bilgilendirme metni gösterilir.
+    1.2 - 3 farklı seçilebilir seçenek sunulur.
+          1.2.1 - Aralarından sadece 1 tanesi seçilebilir.
+          1.2.2 - Teams Canlı Derselere Katılamıyorum adında bir seçenek gösterilir.
+          1.2.3 - E-Destek' ten Ders İçeriklerine Erişemiyorum adında bir seçenek gösterilir.
+          1.2.4 - Ders Video Kayıtlarına Erişemiyorum adında bir seçenek gösterilir.
+          1.2.5 - Herhangi bir seçenek seçilirse
+                  1.2.5.1 - Ders Erişim Sorunu Bildireceğiniz Dersi Seçiniz! yazılı bir açılır menü gösterilir, açılır menü öğrencinin bulunduğu dönemdeki dersleri gösterir.
+                  1.2.5.2 - Ders seçilirse.
+                            1.2.5.2.1 - Dersin adı gösterilir.
+                            1.2.5.2.1 - Dersin katalog numarası gösterilir.
+                            1.2.5.2.1 - Dersin kodu gösterilir.
+                            1.2.5.2.1 - Dersin öğretim elemanı gösterilir.
+                            1.2.5.2.1 - Açıklama kutusu gösterilir, kutunun içine yazı yazılabilir.
+          1.2.6 - Onayla butonu gösterilir, tıklanırsa açıklama içeriği dersin öğretmenine gönderilir.
+ 
+                            
