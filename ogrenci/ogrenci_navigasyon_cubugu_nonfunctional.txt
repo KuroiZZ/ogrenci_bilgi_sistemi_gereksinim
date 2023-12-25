@@ -1,0 +1,13 @@
+1 - Sol üstte büyük puntoda "Kocaeli Üniversitesi Öğrenci Bilgi Sistemi / Öğrenci" yazacaktır.
+2 - Menüler sola yaslı yer alacaktır.
+3 - Sağda kalın ve büyük olarak Öğrenci Numarası ve altında ince ve büyük olarak İsim Soyisim yazacaktır.
+4 - Renk düzeni gri ve tonları üzerine olacaktır.
+  4.1 - 1 en açık, 4 en koyu seviyedir
+  4.2 - Arka plan 1.seviye olacaktır
+  4.3 - Yazılar 2.seviye olacaktır
+  4.4 - Üstüne gelinen butonun yazısı 4.seviye olur
+  4.5 - Tıklanan buton açılır menüyse arka plan 3.seviye olacak ve yazı 2.seviye olarak kalacaktır
+  4.6 - Açılan menü arka planı beyaz olacaktır
+  4.6 - Açılan menüdeki yazılar 4.seviye olacaktır
+  4.7 - Üstüne gelinen seçeneğin arka planı 2.seviye olacaktır.
+  4.8 - En üstteki büyük başlıklar her zaman 4.seviye olacaktır.
