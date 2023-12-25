@@ -1,1 +1,1 @@
-Öğreni Bilgi Sistemi, kullanıcıların bizzat yaptığı işlevleri yapabilen bir yazılımdır. Bu yazılım 
+Öğrenci Bilgi Sistemi, kullanıcıların sadece üniversitede yapabildikleri işlemleri, kullanıcıların birbirleri arasındaki iletişim yollarını bir arada toplayan bir yazılımdır. Kullanıcının yapacağı bir çok işlemin bu yazılım üzerinden yapılması hem bölümün hem kullanıcının zamanını kurtarır. Sonuç olarak, kullanıcın bilgilerini koruyarak daha çok işlemi daha hızlı yapabilmesi sağlanır. 
