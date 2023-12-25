@@ -1,0 +1,16 @@
+1 - Kampüs Kart Talepleri başlığında bir kutu gösterir.
+1.1 - Maddeler halinde belirtilen bir açıklama metni bulunur.
+1.2 - Öğrenci ile ilgili bilgi bölümü bulunur. 
+1.2.1 - Öğrenci No, öğrencinin numarasını içerir.
+1.2.2 - Adı Soyadı, öğrencinin adını ve soyadını içerir.
+1.3 - Kampüs Kart Talep Et butonuna basıldığında yeni bir pencere açılır.
+1.3.1 -  Öğrenci Kampüs Kart Talep Nedeni Seçiniz isimli açılır menü gösterir. 
+1.3.2 - Öğrenci Kampüs Kartı Talep Ettiğimi Kabul Ediyor ve Onaylıyorum kutucuğu gösterilir. Kutucuk işaretlendikten sonra pencere büyür ve daha önce gösterilmeyen içerik gösterilir.
+1.3.2.1 - Kutucuğa tekrar basıldığında işlemin iptal edilmek istendiğine dair uyarı mesajı gösterilir.
+1.3.2.1.1 - Uyarı mesajındaki tamam tuşuna basılırsa İşlemin iptal edildiğini belirten bir uyarı mesajı gözükür ve 1.3'deki açılan pencere görünür tekrar.
+1.3.2.1.2 - Uyarı mesajındaki iptal tuşuna basılırsa kutucuktaki tik kalkar ancak sayfa aynı kalır.
+1.3.2.2 - Öğrencinin uyması gereken kuralların yazdığı metin kutusu görünür.
+1.3.2.3 - Dosya Seç tuşu, tıklandığında dosya seçtirir. Tuşun yanında dosyanın seçilip seçilmediğini gösterir. 
+1.3.2.4 - Fotoğraf Yükle tuşuna basıldığında seçilen dosyayı sisteme yükler. 
+1.3.3 - KAPAT tuşuna basıldığında bu açılan pencereyi kapatır.
+1.4 - Kampüs Kartın talep durumunu gösterir. 
