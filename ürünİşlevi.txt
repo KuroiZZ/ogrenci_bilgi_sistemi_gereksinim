@@ -1,0 +1,28 @@
+1 - Kullanıcı numarasını ve şifresinin doğruluğunu kontrol eder.
+1.1 - Doğru ise girişe izin verir ve hesabı bir kullanıcıya eşler.
+1.2 - Yanlış ise girişe izin vermez.
+2 - Öğrenciler, öğretim üyeleri, üniversite, devlet arası iletişimi farklı yollarla sağlar. 
+2.1 - anketler.
+2.2 - mesajlar.
+2.3 - Duyurular.
+3 - Kullanıcı bilgilerinin görüntülenmesini ve değiştirilmesini sağlar.
+4 - Şifrenin değiştirilmesini sağlar.
+5 - Harç bilgilerini görüntülemeyi sağlar.
+6 - Harç iade-yi (?)- sağlar.
+7 - YÖKSİS'ten öğretim bilgilerini görüntülemeyi sağlar.
+8 - Bölümün açtığı dersleri görüntülemeyi sağlar.
+9 - Yarıyıl not durumunu görüntülemeyi sağlar.
+10 - Genel not durumunu görüntülemeyi sağlar.
+11 - Başarı durum belgesini görüntülemeyi ve çıktı almayı sağlar.
+12 - Ders programını görüntülemeyi sağlar.
+13 - Sınav Programını görüntülemeyi sağlar.
+14 - Seçmeli ders silmeyi sağlar.
+15 - Tek Ders Sınavı Talebi etmeyi sağlar.
+16 - ÇAP başvurusu yapmayı sağlar. 
+17 - Mazeret sınavı talep etmeyi sağlar.
+18 - Koşullu Durum Güncelleme talebi etmeyi sağlar.
+19 - Ek sınav talebi etmeyi sağlar.
+20 - Formasyon başvurusu yapmayı sağlar.
+21 - Ders erişim sorununu bildirmeyi sağlar. 
+22 - Kampüs kart talep etmeyi sağlar. 
+23 - Hesaptan çıkış yapmayı sağlar. 
