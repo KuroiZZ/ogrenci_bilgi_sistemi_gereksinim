@@ -1,0 +1,7 @@
+1 - Ekranda Çift Anadal Programı Başvuru Sayfası başlıklı bir kutucuk gösterilir.
+    1.1 - Maddeler halinde bilgilendirme metni gösterilir.
+    1.2 - ÇAP TAKVİMİ başlıklı bir tablo gösterilir, 2 sütuna 7 satira sahiptir
+          1.2.1 - 1. sütunda tarih aralığı gösterilir.
+          1.2.2 - 2. sütunda 1. sütundaki tarih aralıklarında gerçekleşecek olaylar gösterilir.
+    1.3 - Çift Anadal Programı Yönetmeliği sayfasına gitmemizi sağlayan "Çift Anadal Programı (ÇAP) Yönetmeliği için tıklayınız..." yazısı halinde tıklanabilir link gösterilir.
+          
