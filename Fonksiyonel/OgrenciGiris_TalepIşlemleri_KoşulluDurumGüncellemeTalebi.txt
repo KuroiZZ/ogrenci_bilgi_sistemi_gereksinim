@@ -2,4 +2,6 @@
     1.1 - Maddeler halinde bilgilendirme metni gösterilir.
     1.2 - 1.3 maddesindeki gereklilikler sağlanmadıysa başvuru yapılamaz ve uyarı metni gösterilir.
     1.3 - Öğrenci lisans düzeyine göre aktslerini tamamlamış, ortalaması 2'den fazla ve DC notu varsa başvuru yapabilir.
-    1.4 - Başvuru, incelenmek üzere sekretere iletilir.
+    (Kafadan Yazdım Alt Tarafı)
+    1.4 - Başvuru, butonuna basılarak başvuru yapılır.
+    1.5 - Başvuru, incelenmek üzere sekretere iletilir.
