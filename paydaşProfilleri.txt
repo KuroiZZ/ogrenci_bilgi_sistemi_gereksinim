@@ -1,0 +1,30 @@
+Okul yönetimi 
+Bölüm Sekreteri
+Bölüm Başkanlığı 
+Öğrenci
+Öğretim Üyesi
+Sistem yazılım ekibi
+Sistem sunucu sahibi
+
+2.3 User Classes and Characteristics
+<Identify the various user classes that you anticipate will use this product. User classes may be
+differentiated based on frequency of use, subset of product functions used, technical expertise,
+security or privilege levels, educational level, or experience. Describe the pertinent characteristics
+of each user class. Certain requirements may pertain only to certain user classes. Distinguish the
+most important user classes for this product from those who are less important to satisfy.>
+
+--
+
+1 - Paydaşlar
+1.1 - 1. Sınıf paydaşlar kullanım sıklığına göre öğrenciler ve öğretim üyeleridir.
+1.1.1 - Öğrenci, bu yazılımı notunu görmek; hesabıyla, dersleriyle veya okuluyla ilgili bir işlem yapmak amacıyla kullanır. 
+1.1.2 - Öğretim üyeleri bu yazılımı öğrencinin notunu girmek, sınıf ortalamasını görmek ve öğrencilere duyuru/mesaj göndermek gibi amaçlar için kullanır. 
+1.2 - 2. sınıf paydaşlar sistem yazılım ekibi ve bölüm başkanlığıdır.
+1.2.1 - Sistemde oluşan herhangi bir hatayı düzeltmek veya sisteme gerekli ekleme/çıkartma (güncelleme) yapmak amacıyla bu yazılımı kullanırlar. Yazılım ekibi tüm sayfalara erişebilir.
+1.2.2 - Bölüm başkanlığı öğretim üyeleri tarafından girilen notları onaylamak ve duyuru yapmak gibi amaçlar için bu yazılımı kullanır. 
+1.3 - 3. sınıf paydaşlar sistem sunucu sahibi, okul yönetimi ve bölüm sekreteridir.
+1.3.1 - Sistem sunucu sahibi bu sisteme sunucu sağlar. Sunucu sahibi okuldan veya dışardan birisi olabilir.
+1.3.2 - Okul yönetimi onaylaması gereken durumlar için ve duyuru yapmak gibi işlemler içim sistemi kullanır.
+1.3.3 - Bölüm sekreteri, bölüm başkanlığının iş yükünü azaltmak için bölüm başkanlığının işlemlerini yapmak için bu yazılımı kullanır.
+1.4 - Kısıtlamalar 
+1.4.1 - Okul yönetimi ve yazılım ekibinin tüm sayfalara erişimi vardır. Diğer paydaşlar kendileri hariç öteki paydaşların sayfalarına erişemez.
