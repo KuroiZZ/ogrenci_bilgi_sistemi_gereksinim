@@ -1,0 +1,19 @@
+1 - Bloğun en üstünde uyarı metni vardır.
+  1.1 - Uyarı metni "Bu sayfa üzerinden, sadece Yeni T.C. Kimlik kartlarını kullanan öğrencilerimiz parola yenilemesi yapabilirler.
+Eğer eski T.C. Kimlik kartınız varsa lütfen yenileyiniz. Kimlik Seri No : Yeni T.C. Kimlik kartları üzerinde yer alan 9(Dokuz) 
+haneli rakam ve harflerden oluşan kimlik kartı seri numaranızdır." olacaktır.
+  1.2 - Uyarı metni koyu mavi renk olup açık mavi kutucuk içinde olacaktır.
+
+2 - Uyarının altnda yukarıdan aşağı sırayla TC Kimlik No, Öğrenci Numarası ve Kimlik Seri No yazıları yer alacaktır.
+  2.1 - Yazılar siyah kalın font olacaktır.
+  2.2 - Yazı sonlarında kırmızı (*) bulunacaktır
+    2.2.1 - Doldurulması zorunlu alanı belli eder
+
+3 - Yazıların sağlarında birer metin kutusu bulunur
+  3.1 - Üstlerine gelince kutu çerçevesi mavi olup parlar
+  3.2 - Üstlerine gelince Lütfn bu alanı doldurun yazısı çıkar
+
+4 - Yazı ve kutular altında gönder butonu vardır
+  4.1 - Buton mavidir, gönder yazısı beyazdır
+
+5 - Blok sağ altında mavi renkli, beyaz yazılı kapat butonu yer alır.
