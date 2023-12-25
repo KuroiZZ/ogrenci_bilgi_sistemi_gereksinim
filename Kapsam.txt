@@ -1,0 +1,1 @@
+Öğreni Bilgi Sistemi, kullanıcıların bizzat yaptığı işlevleri yapabilen bir yazılımdır. Bu yazılım 
