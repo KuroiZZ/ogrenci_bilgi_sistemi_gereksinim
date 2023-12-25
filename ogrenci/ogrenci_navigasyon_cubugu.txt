@@ -45,3 +45,5 @@ Navigasyon Çubuğu Özellikler
 	4.f - Çıkış butonu bulunacaktır.
 		
 		4.f.1 - Basıldığında öğrenci giriş sayfasına yönlendirecektir.
+
+
