@@ -15,5 +15,23 @@ haneli rakam ve harflerden oluşan kimlik kartı seri numaranızdır." olacaktı
 
 4 - Yazı ve kutular altında gönder butonu vardır
   4.1 - Buton mavidir, gönder yazısı beyazdır
+  4.2 - Yanlış girili bilgi varsa o bilgiyle öğrenci bulunmadığını söyleyen tarayıcı bildirim penceresinde uyarı verilir.
 
 5 - Blok sağ altında mavi renkli, beyaz yazılı kapat butonu yer alır.
+
+6 - Mesaj gönderme ekranında en üstte mavi blok içinde koyu mavi "Parolanız girmiş olduğunuz cep telefonu numarasına SMS olarak gönderilecektir. Bu nedenle lütfen numaranızın doğruluğunu kontrol ediniz." yazısı bulunur.
+
+7 - Uyarı altında solda siyah "CEP TELEFONU" yazılıdır.
+  7.1 - Yanında zorunlu alan olduğunu belli eden kırmızı (*) bulunur.
+
+8 - Yazı yanında telefon numarası için metin kutusu bulunur
+  8.1 - Kutunun en başında kare içine alınmış "0" yazısı bulunur
+    8.1.1 - Başa 0 koymadan numara girin, anlamına gelir
+    8.1.2 - Kutuya basıldığında çerçevesi mavi olup parlar
+    8.1.3 - Sadece sayı tuşlması yapılabilecektir
+
+9 - Altta mavi arka planlı, beyaz yazılı "SMS GÖNDER" butonu yer alır
+
+10 - Numara eksikse kırmızı arkaplanlı koyu kırmızı yazılı "Sms Gönderimi Başarısız!" yazısı çıkar
+11 - Her şey doğruysa yeşil arkaplanlı koyu yeşil yazılı "Sms Gönderimi Başarılı!" yazısı çıkar
+
