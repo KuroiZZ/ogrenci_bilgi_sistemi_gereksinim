@@ -1,0 +1,12 @@
+1 - Ekranda Mazeret Sınavı Talepleri başlıklı bir kutucuk gösterilir.
+    1.1 - Maddeler halinde bilgilendirme metni gösterilir.
+    1.2 - 3 sütun 1 satira sahip bir sütun gösterilir.
+          1.2.1 - Sınav Türü adına sahip sütun, sınavın türünü gösterir.
+          1.2.2 - Başvuru Tarihi adına sahip sütun, başvuru tarihi aralığı gösterilir.
+          1.2.3 - Sınav Tarihi adına sahip sütun, sınav tarihi aralığı gösterirlir.
+    1.3 - Ekranda açılır menü şeklinde mazerat sınavı etkinlik türünü seçmemizi sağlayan bir buton gösterilir.
+          1.3.1 - Ara Sınav Seçilirse
+                  1.3.1.1 - Başvuru tarih aralığında değilsek, başvuru tarih aralığında olmadığımız ile ilgili bilgilendirme metni gösterilir.
+                  (Kafadan Yazdım Alt Tarafı)
+                  1.3.1.2 - Başvuru tarihi aralığındaysak, mazeret edeceğimiz dersi seçerek başvururuz.
+                  1.3.1.3 - Başvuru, onaylanmak için sekretere iletilir.
