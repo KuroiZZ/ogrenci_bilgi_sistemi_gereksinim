@@ -1,4 +1,5 @@
 Habil Tarafından Kontrol Edildi.
+Yusuf tarafından düzenlenmiş hâli ogrenci_login_page_2.txt dosyasında.
 
 Öğrenci Login Page Özellikler
 
