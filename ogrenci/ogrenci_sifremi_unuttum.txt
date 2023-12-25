@@ -30,3 +30,4 @@
 5 - Girilen telefon numarasına şifreyi gönder
 
 	5.a - Yeni şifre oluşturma, var olan şifreyi gönder.
+
