@@ -1,0 +1,133 @@
+1 - Tek Ders Sınavı Talebi sayfası formatı (erişim dışı)
+  1.1 - Ekranda tek bir genel blok yer alacak
+    1.1.1 - Blok çerçevesi mavi olacak.
+    1.1.2 - Bloğun en üstünde "TEK DERS SINAVI TALEBİ" yazacak
+      1.1.2.1 - Arka planı mavi olacak
+      1.1.2.2 - Arka plan, yazı üstünde ve altında birer satır ve blok genişliği boyunca olacak
+
+  1.2 - Tek Ders Sınavı Talebi sayfasında, talep dönemi dışındayken, üstte mavi arka plan içinde koyu mavi yazılı bilgilendirme metni bulunur
+  1.3 - İki madde yazılı bloğun altında kırmzı bir blok daha bulunur
+    1.3.1 - İçinde koyu kırmızı şekilde tek ders sınavı başvuru tarihleri hakkında bilgi yer alır.
+
+
+
+2 - ÇAP Başvuru sayfası formatı (başvuru dönemi dışı)
+  2.1 - Ekranda tek bir genel blok yer alacak
+    2.1.1 - Blok çerçevesi mavi olacak.
+    2.1.2 - Bloğun en üstünde "Çift Anadal Programı Başvuru Sayfası" yazacak
+      2.1.2.1 - Arka planı mavi olacak
+      2.1.2.2 - Arka plan, yazı üstünde ve altında birer satır ve blok genişliği boyunca olacak
+
+  2.2 - Başvuru tarihleri dışında burası bir bilgilendirme sayfasıdır
+    2.2.1 - Genel blok içinde gri arka planlı bir blok daha yer alır
+      2.2.1.1 - Blok içinde siyah yazılı bilgilendirme metinleri yer alır
+      2.2.1.2 - Blok içinde tablo formatında "ÇAP TAKVİMİ" yer alır
+      2.2.1.3 - Daha fazla bilgi almak isteyenler ÇAP yönetmeliğine yönlendiren bir link yer alır
+        2.2.1.3.1 - Link metni mavidir, üstüne gelince veya tıklayınca altı çizili koyu mavi olur
+
+
+
+3 - Mazeret Sınavı Talebi sayfası (başvuru dönemi dışı)
+  3.1 - Ekranda tek bir genel blok yer alacak
+    3.1.1 - Blok çerçevesi mavi olacak.
+    3.1.2 - Bloğun en üstünde "Mazeret Sınavı Talepleri" yazacak
+      3.1.2.1 - Arka planı mavi olacak
+      3.1.2.2 - Arka plan, yazı üstünde ve altında birer satır ve blok genişliği boyunca olacak
+
+  3.2 - Blok içinde açık mavi arka planlı koyu mavi yazılı bilgilendirme metni bloğu yer alacak
+  3.3 - Bilgilendirme metni bloğunun altında "Mazeret Sınavı Talebi Yapacağınız Etkinlik Türünü Seçiniz!"
+yazılı açılır menü tuşu yer alacak
+    3.3.1 - Arka planı beyaz, yazılar siyah olacak
+    3.3.2 - Üstüne basıldığında seçim menüsü açılacak
+      3.3.2.1 - Üstüne gelinen seçenek mavi renk olacak olup içindeki yazı beyaz olacak
+      3.3.2.2 - Seçilen seçenekten sonra menü kapanacak ve menü başlığı bu seçenek olacak
+        3.3.2.2.1 - Eğer bir sınav seçilmişse altta bilgilendirme metni çıkacaktır
+          3.3.2.2.1.1 - Metin, mavi arkaplanlı bir blok içinde koyu mavi yazılı olacaktır
+
+
+
+4 - Koşullu durum güncelleme talebi sayfası (başvuru dönemi dışı)
+  4.1 - Ekranda tek bir genel blok yer alacak
+    4.1.1 - Blok çerçevesi mavi olacak.
+    4.1.2 - Bloğun en üstünde "KOŞULLU DURUM GÜNCELLEME TALEBİ" yazacak
+      4.1.2.1 - Arka planı mavi olacak
+      4.1.2.2 - Arka plan, yazı üstünde ve altında birer satır ve blok genişliği boyunca olacak
+
+  4.2 - Blok içinde üstte mavi; altta kırmızı arka planlı birer blok daha yer alacak
+    4.2.1 - Mavi blok içinde koyu mavi yazılı bilgilendirme metni olacak
+    4.2.2 - Kırmızı blok içinde koyu kırmızı yazılı bilgilendirme metni olacak
+
+
+
+5 - Ek sınav talebi sayfası (başvuru dönemi dışı)
+  5.1 - Ekranda tek bir genel blok yer alacak
+    5.1.1 - Blok çerçevesi mavi olacak.
+    5.1.2 - Bloğun en üstünde "EK SINAV TALEPLERİ" yazacak
+      5.1.2.1 - Arka planı mavi olacak
+      5.1.2.2 - Arka plan, yazı üstünde ve altında birer satır ve blok genişliği boyunca olacak
+
+  5.2 - Blok içinde üstte mavi; altta kırmızı arka planlı birer blok daha yer alacak
+    5.2.1 - Mavi blok içinde koyu mavi yazılı bilgilendirme metni olacak
+    5.2.2 - Kırmızı blok içinde koyu kırmızı yazılı bilgilendirme metni olacak
+
+
+
+6 - Formasyon başvurusu sayfası (başvuru dönemi dışı)
+  6.1 - Ekranda tek bir genel blok yer alacak
+    6.1.1 - Blok çerçevesi mavi olacak.
+    6.1.2 - Bloğun en üstünde "Formasyon Başvurusu" yazacak
+      6.1.2.1 - Arka planı mavi olacak
+      6.1.2.2 - Arka plan, yazı üstünde ve altında birer satır ve blok genişliği boyunca olacak
+
+  6.2 - Blok içinde üstte mavi; altta kırmızı arka planlı birer blok daha yer alacak
+    6.2.1 - Mavi blok içinde koyu mavi yazılı bilgilendirme metni olacak
+    6.2.2 - Kırmızı blok içinde koyu kırmızı yazılı bilgilendirme metni olacak
+
+
+
+7 - Ders erişim sorunları sayfası
+  7.1 - Ekranda tek bir genel blok yer alacak
+    7.1.1 - Blok çerçevesi mavi olacak.
+    7.1.2 - Bloğun en üstünde "Ders Erişim Sorunları" yazacak
+      7.1.2.1 - Arka planı mavi olacak
+      7.1.2.2 - Arka plan, yazı üstünde ve altında birer satır ve blok genişliği boyunca olacak
+
+  7.2 - Blok içinde üstte mavi arka planlı bir blok daha yer alacak
+    7.2.1 - Blok içinde koyu mavi yazılı bilgilendirme metni olacak
+
+  7.3 - Blok içinde derse erişim sorunlarının kaynağını seçmek için seçim kutuları ve yanlarında açıklama metinleri olacak
+    7.3.1 - Seçim yapılırsa altta açılır menü belirecek
+      7.3.1.1 - Arka planı beyaz, yazılar siyah olacak
+      7.3.1.2 - Üstüne basıldığında ders seçim menüsü açılacak
+      7.3.1.3 - Üstüne gelinen seçenek mavi renk olacak olup içindeki yazı beyaz olacak
+      7.3.1.4 - Seçilen seçenekten sonra menü kapanacak ve menü başlığı bu seçenek olacak
+      7.3.1.5 - Ders seçilirse alt alta satırlar yer alacaktır
+        7.3.1.5.1 - "DERS ADI" başlığı ve altında ders adı yer alacak
+        7.3.1.5.2 - "KATALOG NUMARASI" başlığı ve altında ders katalog numarası yer alacak
+        7.3.1.5.3 - "DERS KODU" başlığı ve altında ders kodu yer alacak
+        7.3.1.5.4 - "ÖĞRETİM ELEMANI" başlığı ve altında öğretim elemanı yer alacak
+        7.3.1.5.5 - "AÇIKLAMA" başlığı ve altında metin kutusu yer alacak
+          7.3.1.5.5.1 - Metin kutusu beyaz olacak, üstüne tıklanınca çerçevesi siyah olacak
+        7.3.1.5.6 - Başlıklar kalın yazılacak olup yanlarında kırmızı renkte zorunluluk simgesi (*) belirtilecek 
+        7.3.1.5.7 - Onayla butonu mavi olup "ONAYLA" yazısı beyaz olacak
+
+
+
+7 - Kampüs Kart Talebi sayfası
+  8.1 - Ekranda tek bir genel blok yer alacak
+    8.1.1 - Blok çerçevesi mavi olacak.
+    8.1.2 - Bloğun en üstünde "KAMPÜS KART TALEPLERİ" yazacak
+      8.1.2.1 - Arka planı mavi olacak
+      8.1.2.2 - Arka plan, yazı üstünde ve altında birer satır ve blok genişliği boyunca olacak
+
+  8.2 - Blok içinde üstte mavi arka planlı bir blok daha yer alacak
+    8.2.1 - Blok içinde koyu mavi yazılı bilgilendirme metni olacak
+
+  8.3 - Bilgilendirme bloğu altında siyah yazıyla öğrenci no ve ad soyad yer alacak
+  
+  8.4 - Genel bloğun en altında mavi arka planlı beyaz yazılı "KAMPÜS KART TALEP ET" butonu yer alacak
+    8.4.1 - Buton altında talep durumuna dair kırmızı yazılı bilgilendirme metni bulunur
+    8.4.2 - Butona basıldığında çıkan ekrandaki "sebep" açılır menüsü beyaz arkaplan üstü siyah yazılı olacaktır
+    8.4.3 - Butona basıldığında çıkan ekrandaki işlem butonları mavi arkaplanlı beyaz yazılıdır
+    8.4.4 - Butona basıldığında çıkan ekrandaki bilgilendirme blokları mavi arkaplanlı koyu mavi yazılıdır.
+
