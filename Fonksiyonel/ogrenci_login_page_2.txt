@@ -26,12 +26,28 @@
             1.6.4.2 - Kutuya yazılmış olan bilgi silinir.
     1.7 - Şifremi Unuttum düğmesi bulunur.
         1.7.1 - Düğme, 1.5 maddesinde belirtilen Turing testi çözüldükten sonra etkinleşir.
-        1.7.2 - Düğmeye tıklandığında Şifremi Unuttum ekranı açılır.
+        1.7.2 - Düğmeye tıklandığında madde 2'de belirtilen Şifremi Unuttum bölümü açılır.
     1.8 - Üniversitenin sosyal medya hesaplarına yönlendiren düğmeler bulunur.
     1.9 - Yetenek Kapısına neden kaydolunması gerektiği hakkında bağlantı bulunur.
     1.10 - Yetenek Kapısına nasıl kaydolunacağı hakkında bağlantı bulunur.
 
-2 - Uzaktan Eğitim Merkezi'ne yönlendiren bir düğme bulunur.
-    2.1 - Uzaktan Eğitim Merkezi'ne erişmek için düğmeye basılması gerektiğini belirten bir yazı bulunur.
+2 - Şifremi Unuttum bölümü bulunur.
+    2.1 - Bölümdeki işlevler 1.5'te belirtilen Turing testinin geçerliliği süresince çalışır.
+    2.2 - Bu bölümün yalnızca yeni kimlik kartı ile kullanılabileceğine dair açıklama bulunur.
+    2.3 - Öğrencinin kimlik bilgilerini gireceği kutular bulunur.
+        2.3.1 - T.C. kimlik numarası kutusu bulunur.
+        2.3.2 - Öğrenci numarası kutusu bulunur.
+        2.3.3 - Kimlik seri numarası kutusu bulunur.
+    2.4 - Devam düğmesi bulunur.
+        2.4.1 - Düğmeye tıklandığında 2.2'de belirtilen kutulardan herhangi birinin boş olması
+                durumunda kutuların boş bırakılmaması gerektiği hakkında uyarı verilir.
+        2.4.2 - Düğmeye tıklandığında kutuların 2.2'de belirtilen kutuların tümünün dolu olması
+                durumunda girilmiş bilgiler sunucuda doğrulanır.
+            2.4.2.1 - Doğrulamanın başarısız olması durumunda hangi bilgilerin hatalı girildiğini
+                      belirten bir uyarı verilir.
+            2.4.2.2 - Doğrulamanın başarılı olması durumunda
 
-3 - Sistemin telif hakkı sahibine atıf bulunur.     
+3 - Uzaktan Eğitim Merkezi'ne yönlendiren bir düğme bulunur.
+    3.1 - Uzaktan Eğitim Merkezi'ne erişmek için düğmeye basılması gerektiğini belirten bir yazı bulunur.
+
+4 - Sistemin telif hakkı sahibine atıf bulunur.     
