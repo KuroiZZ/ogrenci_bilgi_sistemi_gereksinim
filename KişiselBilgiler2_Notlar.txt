@@ -1,0 +1,10 @@
+Yusuf:
+    1.1.1 - Eski şifrenin açıklaması "öğrencinin mevcut şifresi" şeklinde daha açık olur.
+    1.1.4 - Değiştir butonuna tıklandığında tüm kutular boşsa ne olduğu belirtilmemiş.
+            Yeni şifre bölümü doldurulup eski şifre boş bırakılınca da aynı tepkiyi veriyormuş.
+            Madde önerisi:
+            "1.1.1.2 - Butona tıklandığında eski şifre kısmı boşsa eski şifrenin girilmesi
+             gerektiğini belirten bir uyarı gösterilir."
+
+    1.2.8 - Maddedeki "Şifre örneği gösterir." ifadesi "Kurallara uygun şifre örneği gösterir."
+            olarak değiştirilmeli.

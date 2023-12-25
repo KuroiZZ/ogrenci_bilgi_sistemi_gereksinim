@@ -1,0 +1,57 @@
+Ders İşlemleri > Başarı Durum Belgesi 
+1- Öğrencinin başarı durum belgesini gösterir.
+
+1.1 Üniversitenin logosunu içerir.
+1.2 Üniversitenin ismini ve belgenin ismini içerir. 
+1.3 Belgeyi çıkartmak için çıktı butonunu gösterir.
+1.4 Öğrenci ile ilgili bazı bilgileri gösterir.
+1.4.1 Öğrenci No, öğrencinin üniversite numarasını gösterir.
+1.4.2 Adı, öğrencinin adını gösterir.
+1.4.3 Soyadı, öğrencinin soyadını gösterir.
+1.4.4 T.C. Kimlik No, öğrencinin tc kimlik numarasını gösterir.
+1.4.5 Doğum Tarihi, öğrencinin doğum tarihini gösterir.
+1.4.6 Belge Tarihi, başarı durum belgesinin oluşturulma tarihi gösterir.
+1.5 Öğrencinin okul ile ilgili bazı bilgileri gösterir.
+1.5.1 Eğitim Birimi, öğrencinin fakültesini gösterir.
+1.5.2 Programı/ABD/ASD, öğrencinin okuduğu bölümü gösterir.
+1.5.3 Akademik Derece Türü, öğrencinin hangi tip lisans alacağını gösterir.
+1.5.4 Mezuiyet Ortalaması, öğrencinin o tarihe kadar ki not ortalamasını gösterir.
+1.5.5 Hazırlık Sınıfı; bölümün hazırlığı varsa gözükür, hangi dil olduğu ve muaf olup olmadığı gözükür.
+1.5.6 Kayıt Tarihi, öğrencinin üniversiteye kayıt tarihi gözükür.
+1.5.7 Giriş Türü, öğrencinin üniversiteye giriş türünü gösterir.
+1.5.8 Sınıfı/Dönemi, öğrencinin o tarihteki sınıfını ve dönemini gösterir.
+1.5.9 Genel Not Ortalaması, öğrencinin o yılki not ortalamasını gösterir.
+1.5.10 Başarılan AKTS, o tarihe kadar ki başarılı bitirdiği derslerin toplam AKTS'sini gösterir.
+1.6- 9 sütundan ve bütün yıllar boyunca aldığı derslerin sayısı kadar satırdan oluşan bir tablo gösterir.
+1.6.1 İlk sütun dersin kısaltma adını içerir.
+1.6.2 İkinci sütun, derslerin ismini içerir,
+1.6.3 Dersin Statüsü sütunu, dersin seçmeli gruplardan biri veya zorunlu olduğu bilgisini içerir.
+1.6.4 Öğretim Dili sütunu, dersin hangi dilde öğretildiğini içerir.
+1.6.5 Başarı Notu sütunu, öğrencinin o derste harf sistemine göre aldığı notu içerir.
+1.6.6 Başarı Katsayısı sütunu, dersin nota etki eden katsayısını içerir. 
+1.6.7 Başarı Durumu sütunu, öğrencinin o dersi başardığıyla ilgili durumu içerir.
+1.6.8 Açıklama sütunu, dersle ilgili varsa eğer bir açıklamayı içerir.
+1.7 AKTS Toplam Bilgileri; 4 sütun 2 satırdan oluşan bir tablodur.
+1.7.1 İlk sütun ilk satır "Öğrencinin Başardığı AKTS Toplamı" metnini içerir.
+1.7.2 İlk sütun ikinci satır "Alması Gereken AKTS Toplamı (2022/2023 Ders Listesi)" metinini içerir. 
+1.7.3 Zorunlu Ders sütunu, ilk sütundaki bilginin zorunlu derslere göre verisini içerir. 
+1.7.4 Seçmeli Ders sütunu, seçmeli ders gruplarını içerip ilk sütundaki bilgilerin bu gruplara göre verisini içerir. 
+1.7.5 Üniversite Seçmeli Ders sütunu, ilk sütundaki bilginin üniversite seçmeli derslere göre verisini içerir.
+1.7.6 Bu tablonun altında bu tablo ile ilgili alt bilgiler yer almaktadır.
+1.7.6.1 Başarılı olunan uzaktan öğretim derslerinin toplam AKTS değeri kısmı, öğrencinin o tarihe kadar aldığı uzaktan derslerin toplam AKTS sayısını gösterir. 
+1.7.6.2 Ders dili İngilizce olan başarılı derslerin toplam AKTS değeri kısmı, öğrencinin o tarihe kadar aldığı ingilizce öğretilen derslerin toplam AKTS sayısını gösterir.
+1.7.6.3 Bilgilendirme metni içerir.
+1.8 Not Aralıkları, 4 sütundan 15 satırdan oluşan bir tablodur.
+1.8.1. Puanlar sütunu, belli aralıklarla 0'dan 100'e kadar olan puanları içerir.
+1.8.2 Notlar sütunu, ilk 9 satırda bu puanlara karşılık gelen harf notlarını içerir. Geri kalan 6 satır 1.6.5'de kullanılan not kısaltmalarını içerir.
+1.8.3 Kat Sayılar sütunu, notların kat sayılarını içerir.
+1.8.4 Açıklamalar sütunu, ilk 9 satırda notun başarı durumunu gösterir, kalan 6 satırda kısaltmarın açıklamasını içerir.
+1.9 Öğrencinin disiplin cezası alıp almadığı gösterilir. 
+1.10 Üniversite iletişim bilgilerini gösterir.
+1.10.1 Üniversitenin adresini gösterir.
+1.10.2 Üniversitenin telefon numarasını gösterir.
+1.10.3 Üniversitenin Fax numarasını gösterir.
+1.10.4 Üniversitenin web sitesini gösterir.
+1.10.5 Üniversitenin e-postasını gösterir.
+
+  

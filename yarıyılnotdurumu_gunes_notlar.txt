@@ -1,0 +1,33 @@
+1 - Yarıyıl Not durumu başlıklı kutuda bir menü ve tablo bulunur. 
+3 - nolur artık ders tablosunda yazma.
+3.2 - ders kodu yerine ders kısaltması 
+3.3 - DERS ADI sütununda ders adı gösterilir. DERS ADI sütununda bulunan ders adina tiklandığında ek pencere açılır.
+3.3.1 - Pencerenin başlığı dersin kısaltmasını ve tam adını içerir.
+3.3.2 - Dersin Öğretim Elemanı kısmı bu dersi veren öğretim elemanının ismini içerir.
+3.3.3 - Ders Değerlendirme Ölçütleri kısmı 2 başlıktan oluşan 2 ayrı tablo gösterir.
+
+3.3.3.1 - Yarıyıl İçi Etkinlikler; 5 sütun, etkinlik sayısı + 1 satırdan oluşan bir tablo gösterir.
+3.3.3.1.1 - Etkinlik Türü sütunu ilgili etkinliğin türünü gösterir.
+3.3.3.1.2 - Puan sütunu ilgili etkinliğin puanını gösterir.
+3.3.3.1.3 - % sütunu puanın yüzde kaç etki ettiğini gösterir.
+3.3.3.1.4 - Ortalama sütunu satırda bulunan tüm puanların ortalamasını gösterir.
+3.3.3.1.5 - Etkisi sütunu ortalamanın yüzdeyle çarpımını gösterir. 
+3.3.3.1.6 - Her satır bir etkinlik türü içerir. 
+3.3.3.1.7 - Her satır sadece o etkinliğin bilgilerini içerir.
+3.3.3.1.8 - Yarıyıl içi ortalaması satırı etkisi sütunundaki tüm değerlerin toplamını gösterir.
+
+3.3.3.2 - Yarıyıl Sonu Başarı Durumu; 4 sütun, 4 satırdan oluşur.
+3.3.3.2.1 - Puan Türü sütunu puanın hangi türde olduğunu gösterir.
+3.3.3.2.2 - Puan sütunu puanını gösterir. 
+3.3.3.2.3 - % sütunu yüzde kaç etki ettiğini gösterir. 
+3.3.3.2.4 - Etkisi sütunu puan ve yüzdenin çarmını gösterir.
+3.3.3.2.5 - Her satır bir puan türü içerir.
+3.3.3.2.6 - Her satır sadece o türün bilgilerini içerir.
+3.3.3.2.7 - Dönem Sonu Başarı Notu satırı, etkisi sütunundaki değerlerin toplamını gösterir. 
+3.3.3.2.8 - Harf Notu satırı, dönem sonu başarı notunu harf notu olarak gösterir. 
+
+3.3.3.3 - Değerlendirme Sistemi, notun nasıl hesaplandığını gösterir. 
+3.3.3.3.1 - Öğrenci DSN (Dönem Sonu Notu), 3.3.3.2.7'deki notu gösterir.
+3.3.3.3.2 - Sınıf DSN Ortalaması, sınıftaki tüm öğrencilerin 3.3.3.2.7'deki not ortalamalarını gösterir.
+3.3.3.3.3 - Sınıf DSN Standart Sapması, 
+

@@ -1,0 +1,30 @@
+Yusuf tarafından düzenlenmiştir.
+
+Açılan Dersler
+
+1 - Bölümün Açtığı Dersler başlıklı bir tablo bulunur.
+	1.1 - Tablo 5 sütundan oluşur.
+		1.1.1 - Gün sütununda, dersin haftanın hangi gününde işlendiği bulunur.
+		1.1.2 - Ders Saat sütununda, dersin işlendiği saat bulunur.
+		1.1.3 - Ders Adı sütununda, dersin adı bulunur.
+		1.1.4 - Öğretim Elemanı sütununda, dersi veren öğretim görevlisinin adı bulunur.
+		1.1.5 - Yarıyıl sütununda, dersin ait olduğu yarıyıl bulunur.
+	1.2 - Bir satırda yalnız bir dersin bilgileri bulunur.
+		1.2.1 - Dersle ilgili yalnızca sütunların belirttiği bilgiler bulunur.
+	1.3 - Bir dersin bir hafta içinde işlendiği her saat ayrı birer satırda bulunur.
+
+2 - Üniversite Seçmeli Dersler başlıklı bir tablo bulunur.
+	2.1 - Tablo 6 sütundan oluşur.
+		2.1.1 - Gün sütununda, dersin haftanın hangi gününde işlendiği bulunur.
+		2.1.2 - Ders Saat sütununda, dersin işlendiği saat bulunur.
+		2.1.3 - Ders Adı sütununda, dersin adı bulunur.
+		2.1.4 - Öğretim Elemanı sütununda, dersi veren öğretim görevlisinin adı bulunur.
+		2.1.5 - AKTS sütununda dersin Avrupa Kredi Transfer Sistemi uyumlu not ağırlığı bulunur.
+		2.1.6 - Akademik Birim sütununda dersin ait olduğu bölümün adı bulunur.
+	2.2 - Bir satırda yalnız bir dersin bilgileri bulunur.
+		2.2.1 - Dersle ilgili yalnızca sütunların belirttiği bilgiler bulunur.
+	2.3 - Bir dersin bir hafta içinde işlendiği her saat ayrı birer satırda bulunur.
+
+1.4 - Sayfanın başında tabloların ne içerdiğini belirten bir açıklama yazısı bulunur.
+1.5 - Öğrencinin tabloları bilgisayarına kaydedebilmesi için kılavuz yazısı bulunur.
+1.6 - Öğrencinin tabloların baskısını alabilmesi için düğme bulunur.
