@@ -1,0 +1,4 @@
+1 - İade talebi yoksa
+    1.1 - İade talebinin olmadığını söyleyen bilgilendirme metni 
+2 - İade talebi varsa 
+    2.1 - Ne yapıyor bilmiyorum aga yeter ya
