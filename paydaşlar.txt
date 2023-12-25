@@ -1,9 +1,9 @@
-- Öğrenciler
-- Akademik Personel = Öğretim görevlileri
-- İdari Personel = Bölüm sekreteri, bölüm başkanı, dekan, rektör, öğrenci işleri, bilgi işlem memuru
-- Devlet Kurumları = MEB, YÖK, ÖSYM, KYK, GSB, VGM, TÜBİTAK, İçişleri B., Dışişleri B., Sanayi ve Teknoloji B.
-- Vakıflar = Burs dağıtan özel şirketler vs.
-- Esnaf = Kırtasiye, market, kantin işletmecileri
-- Şehir = Valilik, kaymakamlık, belediye, kooperatifler
-- Hissedarlar = Üniversiteye bütçe veren devlet, bağışçılar
-- Bakım personeli = Yazılım mühendisleri
+Kocaeli Üniversitesi
+Kocaeli Üniversitesi öğrencileri
+Kocaeli Üniversitesi öğretim görevlileri
+Kocaeli Üniversitesi idari görevlileri
+Türkiye Cumhuriyeti Devleti
+Yükseköğretim Kurulu
+Sunucu sahibi
+Sunucu yöneticisi
+Sistemin geliştiricileri
