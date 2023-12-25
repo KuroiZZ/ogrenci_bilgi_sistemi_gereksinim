@@ -1,0 +1,20 @@
+1 - Ekranda Formasyon Başvurusu başlıklı bir kutucuk gösterilir.
+    1.1 - Maddeler halinde bilgilendirme metni gösterilir.
+          1.1.1 - Formasyon başvurusuna ait duyuru metni isminde tıklanabilir bir link vardır.
+                  1.1.1.1 - Üzerine tıklanırsa bulunduğu sayfaya gönderir.
+          1.1.2 - Formasyon başvurusu yapılabilecek alanların listesi isminde tıklanabilir bir link vardır.
+                  1.1.2.1 - Üzerine tıklanırsa bulunduğu sayfaya gönderir.
+          1.1.3 - Formasyon başvurusu formuna erişmek isminde tıklanabilir bir link vardır.
+                  1.1.3.1 - Üzerine tıklanırsa bulunduğu sayfaya gönderir.
+    1.2 - Formasyon başvurusu için belirlenen tarih aralığında değilse, uyarı mesajı gösterir.
+    1.3 - Formasyon başvurusu için belirlenen tarih aralında ve koşulları sağlıyorsak.
+          1.3.1 - Belge yükleme bölümü gösterilir.
+                  1.3.1.1 - Belge .jpg, .jpeg, .png veya .pdf formatında olmalı ve 5 mb'ı geçmemelidir!
+          1.3.2 - Başvuru butonu gösterilir, tıklanarak başvuru yapılır.
+          1.3.3 - Başvuru incelenmek üzere sekretere iletilir.
+                  1.3.3.1 - Başvuru onaylanırsa tik simgesi gösterilir.
+                  1.3.3.1 - Başvuru reddelirse carpi simgesi gösterilir.
+                            1.3.3.1.1 - Başvuru ekranı tekrar görülebilir hale getirilir.
+                  1.3.3.1 - Başvuru beklemedeyse kum saati simgesi gösterilir.
+          
+ 
