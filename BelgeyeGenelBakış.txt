@@ -1,0 +1,1 @@
+Gereksinimler 4 temel başlığa bölünmüştür. Fonksiyonel ve fonksiyonel olmayan gereksinimler belgede yer almaktadır. Sistem kısıtları ve tasarım kısıtları farklı başlıklar altındadır.
