@@ -1,0 +1,9 @@
+1 - Ekranda Ek Sınavı Talepleri başlıklı bir kutucuk gösterilir.
+    1.1 - Uygulama Esasları kanunu'nun isminde tıklanabilir bir liknk vardır.
+          1.1.1 - Üzerine tıklanırsa maddenin içeriğine gönderir.
+    1.2 - Maddeler halinde bilgilendirme metni gösterilir.
+    1.3 - Ek sınav başvuru tarihleri arasında değilsek, uyarı metni gösterilir.
+    1.4 - Ek sınav başvurusu yapabilme koşulları mezuniyet için 5'den fazla derste başarısız ve damsız olmaktır. 
+    1.5 - Ek sınav başvuru tarihleri arasındaysak ve 1.4 maddesinde belirtilen koşulları sağlıyorsak başarısız veya devamsız olduğumuz dersler gösterilir.
+          1.5.1 - Öğrenci 1.4'de gösterilen derslerden istediklerini seçerek başvuru yapılır.
+    1.6 - Başvuru incelenmek üzere sekretere iletilir.
