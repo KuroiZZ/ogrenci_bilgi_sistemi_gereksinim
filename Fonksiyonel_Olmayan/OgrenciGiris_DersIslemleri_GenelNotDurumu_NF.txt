@@ -1,0 +1,18 @@
+1 - Ekranda GENEL NOT DURUMU başlığına sahip bir tablo gösterilir.
+   1.1 - Başlığın yazıldığı yerin arkaplan rengi mavi olmalıdır.
+         1.1.1 - Başlık beyaz renk ile yazılır
+   1.2 - Tablo'nun başlık satırı'nın arkaplan rengi mavi olmalıdır.
+         1.2.1 - Başlık satırının içeriklerinin rengi kalın beyaz olmalıdır.
+   1.3 - Satırlar Arasında çizgiler bulunur.
+   1.4 - Dönem'in yazdığı satırın arkaplan rengi açık mavi olmalıdır.
+   1.5 - Ortalama'nın yazdığı satırın arkaplan rengi sarı olmalıdır.
+
+2 - Ekranda TEZ/SEMİNER KONU BİLGİLERİ başlığına sahip bir kutucuk gösterilir.
+   2.1 - Başlığın yazıldığı yerin arkaplan rengi mavi olmalıdır.
+         2.1.1 - Başlık beyaz renk ile yazılır
+
+3 - Ekranda Açıklamalar başlığına sahip bir kutucuk gösterilir.
+    3.1 - Başlığın yazıldığı yerin arkaplan rengi yeşil olmalıdır.
+          3.1 - Başlık arkaplandan daha koyu bir yeşil ile gösterilir.
+    3.2 - Satırlar şeklinde bilgiler gösterilir.
+          3.2.1 - Her satırın başına satır numarası kadar '*' konur.

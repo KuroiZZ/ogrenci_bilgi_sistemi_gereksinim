@@ -1,0 +1,30 @@
+1 - Ek pencere açılır.
+    1.1 - YÖKSİS ve EDEVLET ile ilgili bilgelindirme metni içerir.
+    1.2 - YÖKSİS ÖĞRENİM BİLGİLERİ adinda bir tablo gösterilir, 7 sütun 1 satirdan olusur.
+          1.2.1 - Detay sütununda, öğrencinin bilgileri daha detaylı gösterilir.
+                  1.2.1.1 - T.C Kimlik No'su gösterilir.
+                  1.2.1.1 - Adı soyadı gösterilir.
+                  1.2.1.1 - Birimi gösterilir.
+                  1.2.1.1 - Eğitim türü gösterilir.
+                  1.2.1.1 - Giriş türü gösterilir.
+                  1.2.1.1 - Kayıt tarihi gösterilir.
+                  1.2.1.1 - Ayrılma nedeni gösterilir.
+                  1.2.1.1 - Öğrenim hakkı durumu gösterilir.
+                  1.2.1.1 - Diploma not sistemi gösterilir.
+                  1.2.1.1 - AKTS gösterilir.
+                  1.2.1.1 - Öğrenci Nosu gösterilir gösterilir.
+                  1.2.1.1 - Uyruğu gösterilir.
+                  1.2.1.1 - Birim türü gösterilir.
+                  1.2.1.1 - Öğrenim süresi gösterilir.
+                  1.2.1.1 - Giriş Puanı gösterilir.
+                  1.2.1.1 - Sınıfı gösterilir.
+                  1.2.1.1 - Öğrencilik statüsü gösterilir.
+                  1.2.1.1 - Ayrılma tarihi gösterilir.
+                  1.2.1.1 - Diploma notu gösterilir.
+ 	  1.2.2 - Üniversite sütununda, öğrencinin okuduğu üniversitenin ismi gösterilir.
+          1.2.3 - Enstitü/Fakülte/YO/MYO sütununda, öğrencinin okuduğu fakültenin ismi gösterilir.
+          1.2.4 - Bölüm/Program sütununda, öğrencinin okuduğu bölüm ismi gösterilir.
+          1.2.5 - YÖKSİS Birim No sütununda, öğrencinin yöksis numarası gösterilir(bilmiyorum nedir o)
+          1.2.6 - Durum sütununda, öğrencinin şu anki durumu gösterilir.
+          1.2.7 - Güncelle sütununda, bir buton bulunur.
+                  1.2.7.1 - Butona tıklandığında öğrencinin bilgilerinin güncellendiği ile ilgili bildirim mesajı gösterilir ve bilgiler güncellenir.

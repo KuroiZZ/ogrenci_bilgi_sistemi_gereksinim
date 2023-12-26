@@ -1,0 +1,9 @@
+1- Ekranda DERS PROGRAMI başlığına sahip bir kutucuk gösterilir.
+   1.1 - Başlığın yazıldığı yerin arkaplan rengi mavi olmalıdır.
+         1.1.1 - Başlık beyaz renk ile yazılır
+   1.3 - Başlığın altında sayfanın ortasında seçilen dönemin yazılı olduğu seçme butonu olur.
+   1.4 - Seçme butonun altında öğrenim yılı ve dönemi gösterilir.
+   1.5 - Öğrenim yılı ve döneminin altında tablo gösterilir.
+         1.5.1 - Başlık satırındaki yazılar koyu siyah ile gösterilir..
+         1.5.2 - Tablonun başlık satırı arkplanı mavi renkle gösterilir.
+         1.5.3 - Basliktan hemen sonraki satirlar Beyaz-Gri şeklinde sırayla arkaplan renkleri ile gösterilir.

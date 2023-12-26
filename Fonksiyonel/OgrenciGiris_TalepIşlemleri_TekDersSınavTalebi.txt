@@ -1,0 +1,7 @@
+1 - Ekranda TEK DERS SINAVI TALEBI başlıklı bir kutucuk gösterilir.
+    1.1 - Maddeler halinde bilgilendirme metni gösterilir.
+    1.2 - Tek ders sınav talebi yapılabilecek tarih aralığında değilsek, tarihleri gösteren bir uyarı metni bulunur.
+    1.3 - Tek ders sınav talebi yapılabilecek tarih aralığındaysak, ve öğrenci 9. döneminde sadece 1 derse sahipse başvurma butonu gösterilir.
+    1.4 - Başvurulduğunda, başvuru incelenmek üzere sekretere iletilir.
+          1.4.1 - Başvuru kabul edilirse tik işareti gösterilir.
+          1.4.2 - Başvuru reddedilirse carpi işareti gösterilir.
