@@ -6,31 +6,32 @@ Kontrol notları ayrı birer dosyada bulunmaktadır.
 Genel Not Durumu
 
 1- Genel Not Durumu başlıklı bir tablo bulunur.
+    1.1 - Tablonun 7 sütunu vardır.
+        1.1.1 - Ders Kodu sütununda dersin kısaltma adı bulunur.
+        1.1.2 - Ders Adı sütununda dersin tam adı bulunur.
+            1.1.2.1 - Uzaktan eğitim verilen derslerin adında "(UE)" ibaresi bulunur.
+        1.1.3 - Dili sütununda ders işlenirken kullanılan dil bulunur.
+        1.1.4 - AKTS sütununda dersin Avrupa Kredi Transfer Sistemi
+                uyumlu not ağırlığı bulunur.
+        1.1.5 - Başarı Notu sütununda öğrencinin o dersteki yarıyıl
+                sonu not ortalamasına göre belirlenen harf notu bulunur.
+        1.1.6-  Başarı Katsayısı sütununda öğrencinin o dersteki yarıyıl
+                sonu not ortalamasına göre 0 ila 4 arasında belirlenen
+                notu bulunur.
+        1.1.7-  Durum sütununda öğrencinin dersi geçme durumu bulunur.
 
-1.1- Tablonun 7 sütunu vardır.
-1.1.1-  Ders Kodu sütununda dersin kısaltma adı bulunur.
-1.1.2-  Ders Adı sütununda dersin tam adı bulunur.
-1.1.3-  Dili sütununda ders işlenirken kullanılan dil bulunur.
-1.1.4-  AKTS sütununda dersin Avrupa Kredi Transfer Sistemi
-        uyumlu not ağırlığı bulunur.
-1.1.5-  Başarı Notu sütununda öğrencinin o dersteki yarıyıl
-        sonu not ortalamasına göre belirlenen harf notu bulunur.
-1.1.6-  Başarı Katsayısı sütununda öğrencinin o dersteki yarıyıl
-        sonu not ortalamasına göre 0 ila 4 arasında belirlenen
-        notu bulunur.
-1.1.7-  Durum sütununda öğrencinin dersi geçme durumu bulunur.
-
-1.2- Tamamlanmış dönemlerin bilgileri eskiden yeniye doğru sıralanır.
-1.2.1-  Bir satırda en fazla 1(bir) dersin bilgileri bulunur.
-1.2.2-  Bir ders satırında yalnızca sütünlarda belirtilen
-        bilgiler bulunur.
-1.2.3-  Hazırlık haricindeki her dönemin ilk satırı o dönemin
-        yılı ve mevsimi bilgisinden ibarettir.
-1.2.4-  Dönemlerin dersleri alfabetik olarak sıralanır.
-1.2.5-  Hazırlık haricindeki her dönemin son satırında
-        o dönemin ağırlıklı not ortalaması bulunur.
-1.2.5.1-        Ağırlıklı not ortalaması her dersin başarı katsayısı
-                ile AKTS değerinin çarpımlarının ortalamasıdır.
+1.2 - Hazırlık dönemi haricindeki tamamlanmış dönemlerin bilgileri yeniden eskiye doğru sıralanır.
+    1.2.1 - Hazırlık döneminin bilgileri ilk sırada görüntülenir.
+    1.2.2 - Bir satırda en fazla 1(bir) dersin bilgileri bulunur.
+    1.2.3 - Bir ders satırında yalnızca sütünlarda belirtilen
+            bilgiler bulunur.
+    1.2.4 - Hazırlık haricindeki her dönemin ilk satırı o dönemin
+            yılı ve mevsimi bilgisinden ibarettir.
+    1.2.5 - Dönemlerin dersleri alfabetik olarak sıralanır.
+    1.2.6 - Hazırlık haricindeki her dönemin son satırında
+            o dönemin ağırlıklı not ortalaması bulunur.
+        1.2.6.1 - Ağırlıklı not ortalaması her dersin başarı katsayısı
+                  ile AKTS değerinin çarpımlarının ortalamasıdır.
 
 1.3- Tablonun en altında ağırlıklı genel not ortalaması bulunur.
 
