@@ -1,0 +1,57 @@
+Öğrenci Öğrenci İşleri Fonksiyonel Olmayan
+
+1 - Harç Bilgileri sayfası bulunur.
+    1.1- Ekranda HARÇ BİLGİLERİ başlığına sahip bir kutucuk gösterilir.
+         1.1.1 - Başlığın yazıldığı yerin arkaplan rengi mavi olmalıdır.
+                 1.1.1.1 - Başlık beyaz renk ile yazılır
+         1.1.2 - Tablo Gösterilir.
+                 1.1.2.1 - Tablo'nun başlık satırının arka planı açık mavi olmalıdır.
+                 1.1.2.2 - Başlık satırındaki içerikler koyu siyah ile gösterilir.
+         1.1.3 - Tablo'nun altında uyarı metni bulunur.
+                 1.1.3.1 - Arkaplan rengi kırmızı olmalıdır.
+                 1.1.3.2 - İçerik arkaplandan daha koyu bir kırmızı ile gösterilir.
+         1.1.4 - Açıklamalar başlığına sahip bilgilendirme kutucuğu gösterilir.
+                 1.1.4.1 - Başlık rengi koyu mavi olmalıdır.
+                 1.1.4.2 - Arkaplan rengi açık mavi olmalıdır.
+                 1.1.4.3 - İçeriğin rengi başlık ile arkaplan arasında bir tonda mavi olmalıdır.
+
+2 - Harç İade sayfası bulunur.
+    2.1 - İade talebi yoksa
+          2.1.1 - Mavi renk arkaplanlı bilgilendirme metni gösterilir.
+                  2.1.1.1 - Yazi rengi arkaplandan daha koyu mavi olarak gösterilir.
+    2.2 - İade talebi varsa 
+          2.2.1 - Ne gösteriyor bilmiyorum aga yeter ya
+
+3 - YÖKSİS/E-Devlet sayfası bulunur.
+    3.1 - Ekrana yeni bir pencere açılır.
+    3.2 - Üst tarafta bilgilendirme kutucuğu gösterilir.
+          3.2.1 - Kutucuğun arkaplan rengi açık mavi olmalıdır.
+          3.2.2 - Kutucuğun içeriğinin rengi koyu mavi olmalıdır.
+    3.3 - "YÖKSİS ÖĞRENİM BİLGİLERİ" başlığına sahip bir tablo gösterilir.
+          3.3.1 - Başlık satırındaki içerikler koyu siyah ile yazılır
+          3.3.2 - Satırlar arasında çizgi vardır.
+    3.4 - Detay bölümü açılabilir bir ok tuşu olmalıdır.
+          3.4.1 - Açıldığında detaylı bilgileri içeren bir kutucuk gösterilir.
+                 3.4.1.1 - Bilgiler alt alta sıralanır.
+                 3.4.1.2 - Alt satır kalmazsa kutucuk bölünerek diğer bölümüne de alt alta yazılır.
+                 3.4.1.3 - Kutucuğun üzerine gelindiğinde koyulaşır.
+    3.5 - Güncelle sütünundaki buton üzerine gelindiğinde koyulaşır.
+    3.6 - Pencerinin sağ üst köşesinde KAPAT yazısı şeklinde kapatma butonu gösterilir.
+
+4 - Açılan Dersler sayfası bulunur.
+    4.1- Ekranda AÇILAN DERSELR başlığına sahip bir kutucuk gösterilir.
+         4.1.1 - Başlığın yazıldığı yerin arkaplan rengi mavi olmalıdır.
+                 4.1.1.1 - Başlık beyaz renk ile yazılır
+         4.1.2 - "BÖLÜMÜN AÇTIĞI DERSLER" şeklinde koyu siyahla yazılmış başlık gösterilir.
+         4.1.3 - Başlığın altında maddeler ile bilgiler gösterilir.
+         4.1.4 - Maddelerin altında kırmızı arkaplana sahip uyarı metni bulunur
+                 4.1.4.1 - Yazı arkaplandan daha koyu bir kırmızı ile yazılır
+         4.1.5 - Uyarı metninin altında tablo gösteilir.
+                 4.1.5.1 - Başlıktaki yazılar koyu siyah ile gösterilir.
+                 4.1.5.2 - Tablonun başlık satırı arkplanı mavi renkle gösterilir.
+                 4.1.5.3 - Basliktan hemen sonraki satirlar Beyaz-Gri şeklinde sırayla arkaplan renkleri ile gösterilir.
+         4.1.6 - "ÜNİVERSİTE SEÇMELİ DERSLER" şeklinde koyu siyahla yazılmış başlık gösterilir.
+         4.1.7 - Başlığın altında tablo gösterilir.
+                 4.1.7.1 - Başlık satırındaki yazılar koyu siyah ile gösterilir.
+                 4.1.7.2 - Tablonun başlık satırı arkplanı mavi renkle gösterilir.
+                 4.1.7.3 - Basliktan hemen sonraki satirlar Beyaz-Gri şeklinde sırayla arkaplan renkleri ile gösterilir.
