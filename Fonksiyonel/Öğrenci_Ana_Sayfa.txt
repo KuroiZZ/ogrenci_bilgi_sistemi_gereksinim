@@ -1,0 +1,32 @@
+1 - Ana Sayfa
+
+    1.1 - Bilgilendirme bölümü bulunur.
+        1.1.1 - Bölümde Üniversite'nin yayınladığı bilgilendirici içerikler görüntülenir.
+
+    1.2 - Duyurular bölümü bulunur.
+        1.2.1 - Bölümde Üniversite'nin yayınladığı duyurular yeniden eskiye doğru sıralanır.
+        1.2.2 - Her duyuru başlık, içerik ve duyuran kısımlarından oluşur.
+            1.2.2.1 - Duyuran kısmında duyuruyu yayınlayan kişi veya makam belirtilir.
+
+    1.3 - Mesajlar bölümü bulunur.
+        1.3.1 - Madde 2'de belirtilen mesaj gönderme sayfasına yönlendiren bir düğme bulunur.
+        1.3.2 - Madde 3'te belirtilen mesajlar sayfasına yönlendiren bir düğme bulunur.
+        1.3.3 - Okunmamış mesaj sayısı görüntülenir.
+            1.3.3.1 - Öğrencinin danışmanından gönderilen okunmamış mesajların sayısı ayrıca görüntülenir.
+
+    1.4 - Anketler bölümü bulunur.
+        1.4.1 - Öğrencinin katılabileceği anketlerin adları görüntülenir.
+            1.4.1.1 - Bir anketin adına tıklandığında ilgili anketin madde 4'te belirtilen usuldeki sayfasına yönlendirilir.
+
+    1.5 - Sosyal Medya bölümü bulunur.
+        1.5.1 - Üniversitenin sosyal medya hesaplarına yönlendiren düğmeler bulunur.
+
+    1.6 - Diğer Bilgiler bölümü bulunur.
+        1.6.1 - Üniversite'nin yönetimeliklerine bağlantı bulunur.
+        1.6.2 - Üniversite'nin akademik takvimine bağlantı bulunur.
+        1.6.3 - Tıklandığında öğrencinin okuduğu bölümün amaç, misyon ve vizyonunu görüntüleyen bir düğme bulunur.
+        1.6.4 - Tıklandığında öğrencinin okuduğu bölümün kabul ve mezuniyet koşulları ile verdiği dereceyi görüntüleyen bir düğme bulunur.
+
+2 - Mesaj Gönderme Sayfası
+3 - Mesajlar Sayfası
+4 - Anket Sayfası
