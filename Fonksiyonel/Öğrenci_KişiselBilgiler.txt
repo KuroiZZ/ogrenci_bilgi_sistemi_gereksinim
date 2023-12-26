@@ -1,0 +1,33 @@
+Kişisel Bilgiler Sekmesi
+
+1 - Bilgi Görüntüleme sayfası bulunur.
+    1.1 - Öğrenci Bilgileri bölümü bulunur.
+        1.1.1 - Öğrencinin sisteme ilk girişinde doldurması zorunlu olan metin kutuları görüntülenir.
+            1.1.1.1 - Öğrenci, bu kutular doldurulup kaydedilmeden başka sayfaları görüntüleyemez.
+            1.1.1.2 - Lise okul adı kutusuna öğrencinin bitirdiği lisenin ismi girilmelidir.
+            1.1.1.3 - İkamet adres kutusuna öğrencinin ikamet ettiği konutun adresini girilmelidir.
+            1.1.1.4 - İkamet il kutusuna öğrencinin ikamet ettiği il girilmelidir.
+            1.1.1.5 - İkamet ilçe kutusuna öğrencinin ikamet ettiği ilçe girilmelidir.
+            1.1.1.6 - Aile ikamet adres kutusuna öğrencinin ailesinin ikamet ettiği adres girilmelidir.
+            1.1.1.7 - Aile ikamet il kutusuna öğrencinin ailesinin ikamet ettiği il girilmelidir.
+            1.1.1.8 - Aile ikamet ilçe kutusuna öğrencinin ailesinin ikamet ettiği ilçe girilmelidir.
+            1.1.1.9 - Ev telefonu kutusuna öğrencinin kendi ev telefonu numarası girilmelidir.
+            1.1.1.10 - Cep telefonu kutusuna öğrencinin kendi cep telefonu numarası girilmelidir.
+            1.1.1.11 - E-posta kutusuna öğrencinin kendi e-postası girilmelidir.
+            1.1.1.12 - Dosya seçme ve fotoğraf yükleme düğmeleri bulunur.
+                1.1.1.12.1 - Dosya seçme düğmesine tıklandığında öğrencinin kendine ait bir fotoğrafın
+                             dosyasının seçileceği bir dosya seçim penceresi açılır.
+                1.1.1.12.2 - Fotoğraf yükleme düğmesine tıklandığında 1.1.1.12.1'de belirtilen yöntemle
+                             seçilmiş olan fotoğraf dosyası sisteme yüklenir.
+
+        1.1.2 - Kişisel Bilgiler kısmı bulunur.
+            1.1.2.1 - Öğrenciye Üniversite tarafından verilen öğrenci numarası görüntülenir.
+            1.1.2.2 - Öğrencinin Türkiye Cumhuriyeti kimlik numarası veya Yabancı Uyruk numarası görüntülenir.
+
+
+1.2-Kişisel Bilgiler Bölümü, öğrencinin kişisel bilgileri hakkındaki şu bilgileri gösterir:
+>1.2.1 Öğrenci No kısmı, Öğrencinin okuduğu üniversite tarafından verilen öğrenci numarasını gösterir.
+>1.2.2 T.C. Kimlik/YU No kısmı, Öğrencinin t.c. kimlik numarasını gösterir.
+>1.2.3 Ad Soyad kısmı, Öğrencinin ismini ve soyismini gösterir.
+>1.2.4 Doğum yeri kısmı, Öğrencinin doğum yerini gösterir.
+>1.2.5 Doğum tarihi kısmı, Öğrencinin doğum tarihini gösterir.
