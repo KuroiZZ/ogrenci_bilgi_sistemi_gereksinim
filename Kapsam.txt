@@ -1,0 +1,4 @@
+Öğrenci Bilgi Sistemi, kullanıcıların  üniversitede yapabildikleri işlemleri ve sorumlusu/kendine karşı sorumlu olduğu kullanıcılar
+arasındaki iletişim yollarını bir arada toplayan, fiziksel olarak diğer kullanıcılarla yan yana bulunulmasına gerek bırakmayan, bir yazılımdır.  
+Kullanıcının yapacağı bir çok işlemin bu yazılım üzerinden yapılması hem sistem sahibi okulun hem de kullanıcının zamanından tasarruf etmesini sağlar. 
+Sonuç olarak, kullanıcın bilgi güvenliğini de gözeterek daha çok işlemi daha hızlı yapabilmesi sağlanır. 
