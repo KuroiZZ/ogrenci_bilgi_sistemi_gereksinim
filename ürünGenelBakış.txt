@@ -1,0 +1,8 @@
+2.1 Ürüne Bakış 
+Yazılım, devlete bağlı YÖKSİS gibi sistemlerden bilgi çeker.
+2.1.1 - Kullanıcı arayüzünde giriş veya bilgilendirme sayfalarına erişebilmek için 8 buton bulunur.
+2.1.1.1 -  Giriş türlerinden biri seçildiğinde sayfanın merkezinde kimlik doğrulama bölümü bulunur. 
+2.1.1.1.1 - Öğrenci girişi başarıyla yapıldığında,, sayfanın üst bölmesinde sistemin ismi, öğrencinin ismi ve numarası ve navigasyon menüsü yer alır. Sayfanın kalanında seçili sayfanın içeriği yer alır.
+2.1.1.1.2 - Akademik Personel girişi başarıyla yapıldığında, sayfanın üst bölmesinde sistemin ismi, personelin ismi ve navigasyon menüsü yer alır. Sayfanın kalanında seçili sayfanın içeriği yer alır.
+2.1.1.1.3 - İdari Personel girişi başarıyla yapıldığında, sayfanın üst bölmesinde sistemin ismi, personelin ismi ve navigasyon menüsü yer alır. Sayfanın kalanında seçili sayfanın içeriği yer alır.
+
