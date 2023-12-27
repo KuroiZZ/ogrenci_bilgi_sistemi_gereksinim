@@ -1,4 +1,4 @@
-1 - Sayfada lisans sahibi bilgileri yer alır. 
+1 - Sayfada Telif hakkı sahibi bilgileri yer alır. 
 (Kocaeli Üniversitesi için “2001-2023 
 Kocaeli Üniversitesi Öğrenci İşleri Daire Başkanlığı)
 
