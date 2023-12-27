@@ -1,0 +1,80 @@
+Kişisel Bilgiler Sekmesi
+
+1 - Bilgi Görüntüleme sayfası bulunur.
+    1.1 - Öğrenci Bilgileri bölümü bulunur.
+        1.1.1 - Öğrencinin sisteme ilk girişinde doldurması zorunlu olan metin kutuları görüntülenir.
+            1.1.1.1 - Öğrenci, bu kutular doldurulup kaydedilmeden başka sayfaları görüntüleyemez.
+            1.1.1.2 - Lise okul adı kutusuna öğrencinin bitirdiği lisenin ismi girilmelidir.
+            1.1.1.3 - İkamet adres kutusuna öğrencinin ikamet ettiği konutun adresini girilmelidir.
+            1.1.1.4 - İkamet il kutusuna öğrencinin ikamet ettiği il girilmelidir.
+            1.1.1.5 - İkamet ilçe kutusuna öğrencinin ikamet ettiği ilçe girilmelidir.
+            1.1.1.6 - Aile ikamet adres kutusuna öğrencinin ailesinin ikamet ettiği adres girilmelidir.
+            1.1.1.7 - Aile ikamet il kutusuna öğrencinin ailesinin ikamet ettiği il girilmelidir.
+            1.1.1.8 - Aile ikamet ilçe kutusuna öğrencinin ailesinin ikamet ettiği ilçe girilmelidir.
+            1.1.1.9 - Ev telefonu kutusuna öğrencinin kendi ev telefonu numarası girilmelidir.
+            1.1.1.10 - Cep telefonu kutusuna öğrencinin kendi cep telefonu numarası girilmelidir.
+            1.1.1.11 - E-posta kutusuna öğrencinin kendi e-postası girilmelidir.
+            1.1.1.12 - Dosya seçme ve fotoğraf yükleme düğmeleri bulunur.
+                1.1.1.12.1 - Dosya seçme düğmesine tıklandığında öğrencinin kendine ait bir fotoğrafın dosyasının seçileceği bir dosya seçim penceresi açılır.
+                1.1.1.12.2 - Fotoğraf yükleme düğmesine tıklandığında 1.1.1.12.1'de belirtilen yöntemle seçilmiş olan fotoğraf dosyası sisteme yüklenir.
+        
+        1.1.2 - Kişisel Bilgiler kısmı bulunur.
+            1.1.2.1 - Öğrenciye Üniversite tarafından verilen öğrenci numarası görüntülenir.
+            1.1.2.2 - Öğrencinin Türkiye Cumhuriyeti kimlik numarası veya Yabancı Uyruk numarası görüntülenir.
+            1.1.2.3 - Öğrencinin adı ve soyadı götüntülenir.
+            1.1.2.4 - Öğrencinin doğum yeri görüntülenir.
+            1.1.2.5 - Öğrencinin doğum tarihi görüntülenir.
+        
+        1.1.3 - Eğitim Bilgileri kısmı bulunur.
+            1.1.3.1 - Öğrencinin Üniversite'de okuduğu fakülte görüntülenir.
+            1.1.3.2 - Öğrencinin Üniversite'de okuduğu bölüm görüntülenir.
+            1.1.3.3 - Öğrencinin kaçıncı sınıfta olduğu görüntülenir.
+                1.1.3.3.1 - Öğrenci hazırlık sınıfındaysa "hazırlık" yazar.
+            1.1.3.4 - Öğrencinin öğrenciliğinin devam edip etmediği görüntülenir.
+            1.1.3.5 - Öğrencinin Üniversite'ye kaydolduğu tarih görüntülenir.
+            1.1.3.6 - Öğrencinin Üniversite'ye kayıt türü görüntülenir.
+            1.1.3.7 - Öğrencinin ÖSYM puan türü görüntülenir.
+            1.1.3.8 - Öğrencinin Üniversite'de eğitime başladığı öğretim yılı görüntülenir.
+        
+        1.1.4 - Lise Okul Bilgileri bölümü bulunur.
+            1.1.4.1 - Madde 1.1.1.2'de belirtilen metin kutusu görüntülenir.
+                1.1.4.1.1 - Kutunun içeriğinde öğrencinin mezun olduğu lisenin adı görüntülenir.
+        
+        1.1.5 - Danışman Bilgileri bölümü bulunur.
+            1.1.5.1 - Öğrencinin danışmanının adı ve soyadı görüntülenir.
+            1.1.5.2 - Öğrencinin danışmanının e-posta adresi görüntülenir.
+            1.1.5.3 - Öğrencinin danışmanının telefon numarası görüntülenir.
+        
+        1.1.6 - Adres Bilgileri bölümü bulunur.
+            1.1.6.1 - Öğrencinin MERNİS (Merkezi Nüfus İdaresi Sistemi) üzerinde kayıtlı adresi görüntülenir.
+            1.1.6.2 - Adres bilgilerinin MERNİS'ten güncellenmesini sağlayan bir düğme bulunur.
+                1.1.6.2.1 - Düğmeye tıklandığında öğrencinin adres bilgileri MERNİS'teki kayıtlara göre güncellenir ve sayfa yenilenir.
+            1.1.6.3 - 1.1.1.3 ila 1.1.1.8 maddelerinde belirtilen kutular görüntülenir.
+                1.1.6.3.1 - Kutuların içeriğinde öğrencinin ilgili adres bilgileri görüntülenir.
+        
+        1.1.7 - İletişim Bilgileri bölümü bulunur.
+            1.1.7.1 - 1.1.1.9 ila 1.1.1.11 maddelerinde belirtilen kutular görüntülenir.
+                1.1.7.1.1 - Kutuların içeriğinde öğrencinin ilgili iletişim bilgileri görüntülenir.
+
+2 - Şifre İşlemleri sayfası bulunur.
+    2.1 - Şifre Değiştirme başlıklı bir bölüm bulunur.
+        2.1.1 - Öğrencinin mevcut parolasını gireceği bir metin kutusu bulunur.
+        2.1.2 - Öğrencinin yeni parolasını gireceği bir metin kutusu bulunur.
+        2.1.3 - Öğrencinin 2.1.2'de belirtilen kutuya girdiği yeni parolasını yeniden gireceği bir metin kutusu bulunur.
+        2.1.4 - Parola değiştirme düğmesi bulunur.
+            2.1.4.1 - Düğmeye tıklandığında 2.1.1'de belirtilen metin kutusu boşsa mevcut parolanın girilmesi gerektiğini belirten bir uyarı verilir.
+            2.1.4.2 - Düğmeye tıklandığında 2.1.2 ile 2.1.3'te belirtilen metin kutuları boşsa yeni parolanın girilmesi gerektiğini belirten bir uyarı verilir.
+            2.1.4.3 - Düğmeye tıklandığında 2.1.1'de belirtilen metin kutusuna girilmiş bilgi hatalıysa mevcut parolanın hatalı girildiğini belirten bir uyarı verilir.
+            2.1.4.4 - Düğmeye tıklandığında 2.1.2 ile 2.1.3'te belirtilen metin kutularının içeriği farklıysa bu iki bilginin aynı girilmesi gerektiğini belirten bir uyarı verilir.
+            2.1.4.5 - Düğmeye tıklandığında 2.1.2'de belirtilen metin kutusuna girilmiş bilgi 2.2'de belirtilen kurallara uymuyorsa hangi kurallara uyulmadığını belirten bir uyarı verilir.
+            2.1.4.6 - Düğmeye tıklandığında 2.1.4.1 ila 2.1.4.5 maddelerinde belirtilen durumlarla karşılaşılmazsa 2.1.2'de belirtilen kutuya girilmiş metin öğrencinin parolası olarak atanır.
+
+    2.2 - Madde 2.1.2'de belirtilen kutuya girilecek parolanın uyması gereken kuralların belirtildiği bir bölüm bulunur.
+        2.2.1 - Parolanın en az 9 karakterden oluşması gerektiği belirtilir.
+        2.2.2 - Parolanın en fazla 15 karakterden oluşması gerektiği belirtilir.
+        2.2.3 - Parolanın en az 1 adet rakam içermesi gerektiği belirtilir.
+        2.2.4 - Parolanın en az 1 adet büyük harf içermesi gerektiği belirtilir.
+        2.2.5 - Parolanın en az 1 adet küçük harf içermesi gerektiği belirtilir.
+        2.2.6 - Parolanın "@", "!", "$", "^", "*", ".", "," karakterlerinden en az birini içermesi gerektiği belirtilir.
+        2.2.7 - Parolanın "@" karakteri ile başlamaması gerektiği belirtilir. 
+        2.2.8 - 2.2.1 ila 2.2.7'de belirtilen kurallara uygun parola örneği gösterilir.

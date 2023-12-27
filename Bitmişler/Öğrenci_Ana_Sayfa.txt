@@ -1,0 +1,103 @@
+1 - Ana Sayfa
+
+    1.1 - Bilgilendirme bölümü bulunur.
+        1.1.1 - Bölümde Üniversite'nin yayınladığı bilgilendirici içerikler görüntülenir.
+
+    1.2 - Duyurular bölümü bulunur.
+        1.2.1 - Bölümde Üniversite'nin yayınladığı duyurular yeniden eskiye doğru sıralanır.
+        1.2.2 - Her duyuru başlık, içerik ve duyuran kısımlarından oluşur.
+            1.2.2.1 - Duyuran kısmında duyuruyu yayınlayan kişi veya makam belirtilir.
+
+    1.3 - Mesajlar bölümü bulunur.
+        1.3.1 - Madde 2'de belirtilen mesaj gönderme sayfasına yönlendiren bir düğme bulunur.
+        1.3.2 - Madde 3'te belirtilen mesajlar sayfasına yönlendiren bir düğme bulunur.
+        1.3.3 - Okunmamış mesaj sayısı görüntülenir.
+            1.3.3.1 - Öğrencinin danışmanından gönderilen okunmamış mesajların sayısı ayrıca görüntülenir.
+
+    1.4 - Anketler bölümü bulunur.
+        1.4.1 - Öğrencinin katılabileceği anketlerin başlıkları görüntülenir.
+            1.4.1.1 - Bir anketin başlığına tıklandığında ilgili anketin madde 4'te belirtilen usuldeki sayfasına yönlendirilir.
+
+    1.5 - Sosyal Medya bölümü bulunur.
+        1.5.1 - Üniversitenin sosyal medya hesaplarına yönlendiren düğmeler bulunur.
+
+    1.6 - Diğer Bilgiler bölümü bulunur.
+        1.6.1 - Üniversite'nin yönetimeliklerine bağlantı bulunur.
+        1.6.2 - Üniversite'nin akademik takvimine bağlantı bulunur.
+        1.6.3 - Tıklandığında öğrencinin okuduğu bölümün amaç, misyon ve vizyonunu görüntüleyen bir düğme bulunur.
+        1.6.4 - Tıklandığında öğrencinin okuduğu bölümün kabul ve mezuniyet koşulları ile verdiği dereceyi görüntüleyen bir düğme bulunur.
+
+2 - Mesaj Gönderme Sayfası
+
+    2.1 - Kime mesaj gönderileceğini seçme kısmı bulunur.
+        2.1.1 - Danışman ve öğretim üyesi olarak iki seçenek bulunur.
+            2.1.1.1 - Danışman seçilirse, mesaj öğrencinin danışmanına gönderilecek şekilde ayarlanır.
+            2.1.1.2 - Öğretim üyesi seçilirse, öğrencinin mevcut dönemde aldığı derslerin öğretim görevlileri görüntülenir.
+                2.1.1.2.1 - Mesaj, görüntülenen öğretim üyelerinden seçilmiş olan kişiye gönderilecek şekilde ayarlanır.
+        2.1.2 - Mesajı göndermek için en fazla bir kişi seçilebilir.
+    
+    2.2 - Mesajın konusunun girileceği bir metin kutusu bulunur.
+    2.3 - Mesajın içeriğinin girileceği bir metin kutusu bulunur.
+        2.3.1 - Kutuya en fazla 2000(ikibin) karakter girilebilir.
+
+    2.4 - Mesajı gönderme düğmesi bulunur.
+        2.4.1 - Düğmeye tıklandığında mesajın gönderileceği kişi seçilmemişse 2.1.1.2 maddesi uygulanır.
+        2.4.2 - Düğmeye tıklandığında 2.2'de belirtilen kutunun içeriği boşsa uyarı verilir.
+        2.4.3 - Düğmeye tıklandığında 2.3'te belirtilen kutunun içeriği boşsa uyarı verilir.
+        2.4.4 - Düğmeye tıklandığında 2.4.1 ila 2.4.3 maddelerinde belirtilen durumlarla karşılaşılmazsa mesaj gönderilir.
+            2.4.4.1 - İşlemin başarılı olduğunu belirten bir uyarı verilir.
+            2.4.4.2 - Sayfa yenilenir.
+
+    2.5 - Temizleme düğmesi bulunur.
+        2.5.1 - Düğmeye tıklandığında 2.1'de belirtilen seçim iptal edilir.
+        2.5.2 - Düğmeye tıklandığında 2.2 ile 2.3'te belirtilen kutulara girilmiş olan bilgiler silinir.
+
+3 - Mesajlar Sayfası
+
+    3.1 - Gelen Mesajlar sekmesi bulunur.
+        3.1.1 - Öğrenciye gönderilmiş mesajlar yeniden eskiye, sayfalar hâlinde sıralanır.
+            3.1.1.1 - Bir sayfada en fazla yirmi mesaj görüntülenir.
+            3.1.1.2 - Hangi sayfanın görüntülendiği bilgisi görüntülenir.
+            3.1.1.3 - Sayfalar arasında gezinmeyi sağlayan düğmeler bulunur.
+        3.1.2 - Her mesajda mesajı silme ve yanıtlama düğmeleri bulunur.
+            3.1.2.1 - Silme düğmesine tıklandığında mesaj silinir.
+            3.1.2.2 - Yanıtlama düğmesine tıklandığında yanıtlama kısmı açılır.
+                3.1.2.2.1 - Yanıt mesajının girileceği bir metin kutusu bulunur.
+                3.1.2.2.2 - Gönderme düğmesi bulunur.
+                    3.1.2.2.2.1 - Düğmeye tıklandığında 3.1.2.2.1'de belirtilen kutunun içeriği boşsa uyarı verilir.
+                    3.1.2.2.2.2 - Düğmeye tıklandığında 3.1.2.2.2.2'de belirtilen durumla karşılaşılmazsa yanıt mesajı gönderilir.
+        3.1.3 - Her mesajda mesajı seçme düğmesi bulunur.
+            3.1.3.1 - Sayfada, bütün mesajları aynı anda seçen bir düğme bulunur.
+            3.1.3.2 - Sayfada, seçili mesajları topluca silen bir düğme bulunur.
+        3.1.4 - Her mesajda ilgili mesajın yanıtları da görüntülenir.
+        3.1.5 - Her mesaj için ilgili mesajın okunup okunmadığı bilgisi görüntülenir.
+        3.1.6 - Sekmede bulunan mesajları tarayan bir arama kutusu bulunur.
+            3.1.6.1 - Arama kutusu mesajları gönderilen kişi, mesaj konusu ve mesaj içeriği bilgilerine göre arayabilir.
+
+    3.2 - Gönderilen Mesajlar sekmesi bulunur.
+        3.2.1 - Öğrencinin gönderdiği mesajlar yeniden eskiye, sayfalar hâlinde sıralanır.
+            3.2.1.1 - Bir sayfada en fazla yirmi mesaj görüntülenir.
+            3.2.1.2 - Hangi sayfanın görüntülendiği bilgisi görüntülenir.
+            3.2.1.3 - Sayfalar arasında gezinmeyi sağlayan düğmeler bulunur.
+        3.2.2 - Her mesajda mesajı silme düğmesi bulunur.
+            3.2.2.1 - Düğmeye tıklandığında mesaj silinir.
+        3.2.3 - Her mesajda mesajı seçme düğmesi bulunur.
+            3.2.3.1 - Sayfada, bütün mesajları aynı anda seçen bir düğme bulunur.
+            3.2.3.2 - Sayfada, seçili mesajları topluca silen bir düğme bulunur.
+        3.2.4 - Her mesajda ilgili mesajın yanıtları da görüntülenir.
+        3.2.5 - Her mesaj için ilgili mesajın okunup okunmadığı bilgisi görüntülenir.
+        3.2.6 - Sekmede bulunan mesajları tarayan bir arama kutusu bulunur.
+            3.2.6.1 - Arama kutusu mesajları gönderilen kişi, mesaj konusu ve mesaj içeriği bilgilerine göre arayabilir.
+        3.2.7 - Madde 2'de belirtilen mesaj gönderme sayfasına yönlendiren bir düğme bulunur.
+
+    3.3 - Sayfadaki simgelerin anlamlarını açıklayan bir dipnot bulunur.
+
+4 - Anket Sayfası
+
+    4.1 - Anketin başlığı görüntülenir.
+    4.2 - Anketin açıklaması görüntülenir.
+    4.3 - Anketin soruları görüntülenir.
+        4.3.1 - Bir soru, soru metni ve yanıt düğmelerinden oluşur.
+        4.3.2 - Anketin soruları kategoriler hâlinde sıralanır.
+        4.3.3 - Her kategorinin başında ilgili kategorinin başlığı ve açıklaması görüntülenir.
+    4.4 - Tıklandığında öğrencinin yanıtlarını kaydeden bir düğme bulunur.        

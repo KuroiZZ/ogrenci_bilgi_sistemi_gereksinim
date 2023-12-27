@@ -1,0 +1,161 @@
+Öğrenci Ders İşlemleri Fonksiyonel Olmayan
+
+1 - Yarıyıl Not Durumu sayfası bulunur.
+    1.1 - Ekranda YARIYIL NOT DURUMU başlığına sahip bir kutucuk gösterilir.
+          1.1.1 - Başlığın yazıldığı yerin arkaplan rengi mavi olmalıdır.
+                  1.1.1.1 - Başlık beyaz renk ile yazılır
+          1.1.3 - Başlığın altında sayfanın ortasında seçilen dönemin yazılı olduğu seçme butonu olur.
+          1.1.4 - Butonun altında kutucuk boyutunda başlıktan daha açık bir mavi arkaplana sahip bilgilendirme metni bulunur.
+                  1.1.4.1 - Bilgilendirme metni koyu bir mavi renkte yazılır.
+          1.1.5 - Tablo gösterilir.
+                  1.1.5.1 - Tablonun sütün başlıkları kalin bir siyahla yazılır.
+                  1.1.5.2 - Tablonun sütünları arasındaki çizgiler kalin çizgi olmalıdır.
+                  1.1.5.3 - Tablonun satırları arasındaki çizgiler ince çizgi olmalıdır.
+                  1.1.5.4 - Tablonun içindeki link içeren isimler mavi renkle gösterilmelidir.
+          1.1.6 - Açıklamar baslığına sahip bir kutucuk gösterilir.
+                  1.1.6.1 - Başlığın yazıldığı yerin arkaplan rengi yeşil olmalıdır.
+                  1.1.6.2 - Başlık koyu bir yeşil renge sahip olmalıdır.
+                  1.1.6.3 - Kutucuklar halinde dipnotlar belirtilir.
+                            1.1.6.3.1 - kutucukların köşe çizgileri ince çizgi olmalıdır.
+    1.2 - Ders Adına tıklandığında bir pencere açılır.
+          1.2.1 - Ders elemanının yazıldığı yerin arkaplanı mavi olmadılır
+                  1.2.1.1 - İçindeki yazi daha koyu bir mavi ile yazılmalıdır.
+          1.2.2 - "Ders Değerlendirme Ölçütleri" başlığında altında bir kutucuk açar.
+                  1.2.2.1 - Başlık mavi ile yazılır.
+                  1.2.2.2 - kutucuk arkaplanı açık bir gri renkte olur.
+                  1.2.2.3 - Kutucuk 2 başlığa bölünür
+                            1.2.2.3.1 - Başlıklar siyah ile yazılır.
+                            1.2.2.3.2 - Başlıkların altında çizgi vardır.
+                            1.2.2.3.3 - Yarıyıl İçi Etkinlikler başlığı altında tablo gösterilir.
+                                        1.2.2.3.3.1 - Tablonun ilk satiri mavi renkte gösterilir.
+                                        1.2.2.3.3.2 - Tablonun içerik içerdiği satırlar sarı renkte gösterilir.
+                                        1.2.2.3.3.3 - Tablonun yarıyıl içi ortalamasını gösterdiği satır açık mavi renkte gösterilir.
+                            1.2.2.3.4 - Yarıyıl Sonu Başarı Durumu başlığı altında tablo gösterilir.
+                                        1.2.2.3.4.1 - Tablonun ilk satiri mavi renkte gösterilir.
+                                        1.2.2.3.4.2 - Tablonun içerik içerdiği satırlar arkaplan renginde gösterilir.
+                                        1.2.2.3.4.3 - Dönem sonu başarı notunun gösterildiği satır açık mavi renkte gösterilir.
+                                        1.2.2.3.4.4 - Harf notunun gösterildiği satır açık mavi renkte gösterilir.
+          1.2.3 - Ders İzlencesi başlığı mavi renkte gösterilir. 
+                  1.2.3.1 - Başlığın altında haftanın içerikleri yazar.
+                            1.2.3.1.1 - Hafta numaraları ve hafta yazısı koyu siyahla yazılıyor.
+          1.2.4 - Ders Kaynakları başlığı mavi renkte gösterilir.
+                  1.2.4.1 - Başığın altında kaynakların içerikleri yazar
+                  1.2.4.2 - Satırların başında numaraları koyu siyahla yazar
+                  1.2.4.3 - Numaradan sonra '#' işareti bulunur.
+          1.2.5 - Sonuçlanmış bir ders ise Değerkendirme Sistemi başlığı gösterilir 
+                  1.2.5.1 - Başlık rengi mavidir.
+                  1.2.5.2 - Başlık altında açık gri renkte bir kutucuk açılır. 
+                            1.2.5.2.1 - Çan ile ölçülen bir ders ise.
+                                        1.2.5.2.1.1 - Hesaplanmış notların başlıkları koyu siyag ile gösterilir.
+                                        1.2.5.2.1.2 - T-Standart Notu hesabı matematiksel olarak gösterilir.
+                                        1.2.5.2.1.3 - T-Standart Notu sonucu Koyu bir mavi ile gösteilir.
+                                                      1.2.5.2.1.3.1 - Notun yazdığı yerin arkaplanı açık mavi bir renk ile gösterilir.
+                                        1.2.5.2.1.4 - T-Standart hesabından sonra açık mavi renkli Açıklamalar başlıklı bir kutucuk gösterilir.
+                                                      1.2.5.2.1.4.1 - Kutucuğun içindeki yazılar arkaplandan daha açık bir mavi ile gösterilir.
+                                        1.2.5.2.1.5 - Açıklamalardan sonra "T-standart Notunun Harfli Notu Dönüşümü" başlığında bir tablo gösterilir.
+                                                      1.2.5.2.1.5.1 - Başlığın altı çizili şekilde gösterilir.
+                                                      1.2.5.2.1.5.2 - Tablonun başlık satırı koyu mavi renk arkaplanda gösterilir.
+                                                      1.2.5.2.1.5.3 - Tabloda Sınıf dns ortalamasını bulunduğu satır açık mavi ile gösterilir.
+                                                      1.2.5.2.1.5.4 - Tabloda öğrencinin T-Standart Notunun bulunduğu sütün açık mavi ile gösterilir.
+
+2 - Genel Not Durumu sayfası bulunur.
+    2.1 - Ekranda GENEL NOT DURUMU başlığına sahip bir tablo gösterilir.
+          2.1.1 - Başlığın yazıldığı yerin arkaplan rengi mavi olmalıdır.
+                  2.1.1.1 - Başlık beyaz renk ile yazılır
+          2.1.2 - Tablo'nun başlık satırı'nın arkaplan rengi mavi olmalıdır.
+                  2.1.2.1 - Başlık satırının içeriklerinin rengi kalın beyaz olmalıdır.
+          2.1.3 - Satırlar Arasında çizgiler bulunur.
+          2.1.4 - Dönem'in yazdığı satırın arkaplan rengi açık mavi olmalıdır.
+          2.1.5 - Ortalama'nın yazdığı satırın arkaplan rengi sarı olmalıdır.
+
+    2.2 - Ekranda TEZ/SEMİNER KONU BİLGİLERİ başlığına sahip bir kutucuk gösterilir.
+          2.2.1 - Başlığın yazıldığı yerin arkaplan rengi mavi olmalıdır.
+                  2.2.1.1 - Başlık beyaz renk ile yazılır
+
+    2.3 - Ekranda Açıklamalar başlığına sahip bir kutucuk gösterilir.
+          2.3.1 - Başlığın yazıldığı yerin arkaplan rengi yeşil olmalıdır.
+                  2.3.1.1 - Başlık arkaplandan daha koyu bir yeşil ile gösterilir.
+          2.3.2 - Satırlar şeklinde bilgiler gösterilir.
+                  2.3.2.1 - Her satırın başına satır numarası kadar '*' konur.
+
+3 - Başarı Durum Belgesi sayfası bulunur.
+    3.1 - Üniversitenin logosunu gösterilir.
+    3.2 - Üniversitenin ismini ve belgenin ismini gösterilir. 
+    3.3 - Belgeyi çıkartmak için çıktı butonunu gösterilir.
+    3.4 - Öğrenci ile ilgili bazı bilgileri gösterilir.
+          3.4.1 - Öğrenci No, öğrencinin üniversite numarasını gösterilir.
+          3.4.2 - Adı, öğrencinin adını gösterilir.
+          3.4.3 - Soyadı, öğrencinin soyadını gösterilir.
+          3.4.4 - T.C. Kimlik No, öğrencinin tc kimlik numarasını gösterilir.
+          3.4.5 - Doğum Tarihi, öğrencinin doğum tarihini gösterilir.
+          3.4.6 - Belge Tarihi, başarı durum belgesinin oluşturulma tarihi gösterilir.
+    3.5 - Öğrencinin okul ile ilgili bazı bilgileri gösterilir.
+          3.5.1 - Eğitim Birimi, öğrencinin fakültesini gösterilir.
+          3.5.2 - Programı/ABD/ASD, öğrencinin okuduğu bölümü gösterilir.
+          3.5.3 - Akademik Derece Türü, öğrencinin hangi tip lisans alacağını gösterilir.
+          3.5.4 - Mezuiyet Ortalaması, öğrencinin o tarihe kadar ki not ortalamasını gösterilir.
+          3.5.5 - Hazırlık Sınıfı; bölümün hazırlığı varsa gösterilir, hangi dil olduğu ve muaf olup olmadığı gösterilir.
+          3.5.6 - Kayıt Tarihi, öğrencinin üniversiteye kayıt tarihi gösterilir.
+          3.5.7 - Giriş Türü, öğrencinin üniversiteye giriş türünü gösterilir.
+          3.5.8 - Sınıfı/Dönemi, öğrencinin o tarihteki sınıfını ve dönemini gösterilir.
+          3.5.9 - Genel Not Ortalaması, öğrencinin o yılki not ortalamasını gösterilir.
+          3.5.10 - Başarılan AKTS, o tarihe kadar ki başarılı bitirdiği derslerin toplam AKTS'sini gösterilir.
+    3.6 - 9 sütundan ve bütün yıllar boyunca aldığı derslerin sayısı kadar satırdan oluşan bir tablo gösterilir.
+          3.6.1 - İlk sütun dersin kısaltma adını gösterilir.
+          3.6.2 - İkinci sütun, derslerin ismini gösterilir.
+          3.6.3 - Dersin Statüsü sütunu, dersin seçmeli gruplardan biri veya zorunlu olduğu bilgisini gösterilir.
+          3.6.4 - Öğretim Dili sütunu, dersin hangi dilde öğretildiğini gösterilir.
+          3.6.5 - Başarı Notu sütunu, öğrencinin o derste harf sistemine göre aldığı notu gösterilir.
+          3.6.6 - Başarı Katsayısı sütunu, dersin nota etki eden katsayısını gösterilir. 
+          3.6.7 - Başarı Durumu sütunu, öğrencinin o dersi başardığıyla ilgili durumu gösterilir.
+          3.6.8 - Açıklama sütunu, dersle ilgili varsa eğer bir açıklamayı gösterilir.
+    3.7 - AKTS Toplam Bilgileri; 4 sütun 2 satırdan oluşan bir tablodur.
+          3.7.1 - İlk sütun ilk satır "Öğrencinin Başardığı AKTS Toplamı" metnini gösterilir.
+          3.7.2 - İlk sütun ikinci satır "Alması Gereken AKTS Toplamı (2022/2023 Ders Listesi)" metinini gösterilir. 
+          3.7.3 - Zorunlu Ders sütunu, ilk sütundaki bilginin zorunlu derslere göre verisini gösterilir. 
+          3.7.4 - Seçmeli Ders sütunu, seçmeli ders gruplarını içerip ilk sütundaki bilgilerin bu gruplara göre verisini gösterilir. 
+          3.7.5 - Üniversite Seçmeli Ders sütunu, ilk sütundaki bilginin üniversite seçmeli derslere göre verisini gösterilir.
+          3.7.6 - Bu tablonun altında bu tablo ile ilgili alt bilgiler yer almaktadır.
+                  3.7.6.1 - Başarılı olunan uzaktan öğretim derslerinin toplam AKTS değeri kısmı, öğrencinin o tarihe kadar aldığı uzaktan derslerin toplam AKTS sayısını gösterilir. 
+                  3.7.6.2 - Ders dili İngilizce olan başarılı derslerin toplam AKTS değeri kısmı, öğrencinin o tarihe kadar aldığı ingilizce öğretilen derslerin toplam AKTS sayısını gösterilir.
+                  3.7.6.3 - Bilgilendirme metni gösterilir.
+    3.8 - Not Aralıkları, 4 sütundan 15 satırdan oluşan bir tablodur.
+          3.8.1. - Puanlar sütunu, belli aralıklarla 0'dan 100'e kadar olan puanları gösterilir.
+          3.8.2 - Notlar sütunu, ilk 9 satırda bu puanlara karşılık gelen harf notlarını gösterilir. Geri kalan 6 satır 1.6.5'de kullanılan not kısaltmalarını gösterilir.
+          3.8.3 - Kat Sayılar sütunu, notların kat sayılarını gösterilir.
+          3.8.4 - Açıklamalar sütunu, ilk 9 satırda notun başarı durumunu gösterilir, kalan 6 satırda kısaltmarın açıklamasını gösterilir.
+    3.9 - Öğrencinin disiplin cezası alıp almadığı gösterilir. 
+    3.10 - Üniversite iletişim bilgilerini gösterilir.
+          3.10.1 - Üniversitenin adresini gösterilir.
+          3.10.2 - Üniversitenin telefon numarasını gösterilir.
+          3.10.3 - Üniversitenin Fax numarasını gösterilir.
+          3.10.4 - Üniversitenin web sitesini gösterilir.
+          3.10.5 - Üniversitenin e-postasını gösterilir.
+
+4 - Ders Programı sayfası bulunur.
+    4.1- Ekranda DERS PROGRAMI başlığına sahip bir kutucuk gösterilir.
+         4.1.1 - Başlığın yazıldığı yerin arkaplan rengi mavi olmalıdır.
+                 4.1.1.1 - Başlık beyaz renk ile yazılır
+         4.1.2 - Başlığın altında sayfanın ortasında öğrencinin istediği dönemi seçmesini sağlayan açılır bir menü butonu gösterilir.
+         4.1.3 - Seçme butonun altında öğrenci adı ve öğrenci no'su gösterilir.
+         4.1.4 - Öğrenci adı ve numarasının altında tablo gösterilir.
+                 4.1.4.1 - Başlık satırındaki yazılar koyu siyah ile gösterilir.
+                 4.1.4.2 - ilk sutundaki yazılar koyu siyah ile gösterilir.
+                 4.1.4.3 - Tablonun başlık satırının arka planı koyu gri ile gösterilir.
+                 4.1.4.4 - Tablonun ilk sutunun arka planı koyu gri ile gösterilir.
+                 4.1.4.5 - Tablonun içeriğinin gösterildği yerde ders ismi koyu siyah ile yazılır.
+
+
+5 - Sinav Programı sayfası bulunur.
+    5.1- Ekranda SINAV PROGRAMI başlığına sahip bir kutucuk gösterilir.
+         5.1.1 - Başlığın yazıldığı yerin arkaplan rengi mavi olmalıdır.
+                 5.1.1.1 - Başlık beyaz renk ile yazılır
+         5.1.2 - Başlığın altında sayfanın ortasında öğrencinin istediği dönemi seçmesini sağlayan açılır bir menü butonu gösterilir.
+         5.1.3 - Seçme butonun altında öğrenim yılı ve dönemi gösterilir.
+         5.1.4 - Öğrenim yılı ve döneminin altında tablo gösterilir.
+                 5.1.4.1 - Başlık satırındaki yazılar koyu siyah ile gösterilir..
+                 5.1.4.2 - Tablonun başlık satırı arkplanı mavi renkle gösterilir.
+                 5.1.4.3 - Basliktan hemen sonraki satirlar Beyaz-Gri şeklinde sırayla arkaplan renkleri ile gösterilir.
+
+   
+        

@@ -1,0 +1,62 @@
+Öğrenci Kişisel Bilgiler Fonksiyonel Olmayan
+
+1 - Bilgi Görüntüleme sayfası bulunur.
+    1.1 - Sayfanın başlığı, sayfanın geri kalanının aksine arkaplanı koyudur, yazı açık renklidir.
+	  1.1.1 - Arkaplan mavi renkli gösterilir. 
+	  1.1.2 - Yazı beyaz renkli gösterilir. 
+    1.2 - Bilgiler kategorilere ayrılır.
+	  1.2.1 - Kategoriler önemliden önemsize sıralı gösterilir.
+    1.3 - Kategori başlıkları diğer yazılardan farklı renkli gösterilir.
+	  1.3.1 - Renk mavidir.
+	  1.3.2 - Her kategori başlığının altında bölümü ayıran açık gri ince bir çizgi bulunur. 
+    1.4 - Bilgilerin başlıkları kalın ve siyah yazılır.
+    1.5 - Öğrenci fotoğrafının yanındaki dosya seç ve fotoğraf yükle butonunun arka plan 1.1'deki renkle aynıdır.
+	  1.5.1 - Dosyanın seçilip seçilmediğini belirten metin kalındır. 
+	  1.5.2 - Dosya seç'in etrafında ince bir çerçeve vardır. 
+    1.6 - Değiştirilebilen bilgilerin çerçeveleri vardır.
+	  1.6.1 - Çerçevelerin default rengi siyahtır.
+	  1.6.2 - Çerçevenin sağ alt köşesinden çerçevenin boyu değiştirilebilir.
+	  1.6.3 - Çerçevelerin üzerine fare ile gelindiğinde çerçevelerin rengi maviye döner.
+	  1.6.4 - Seçili çerçevenin rengi koyu siyah olur.
+    1.7 - Adres Bilgilerini MERNIS'ten Güncelle butonu MERNIS Adresin olduğu bölgede, bilginin sağındadır.
+	  1.7.1 - Butonun arkaplanı mavi renklidir.
+	  1.7.2 - Yazı beyazdır.
+    1.8 - Telefon yazılan kutuların yazı formu vardır.
+	  1.8.1 - Telefon (5xx) xxx-xxxx şeklinde yazılır.
+    1.9 - Zorunlu doldurulması gereken alanların başlıklarının yanında kırmızı yıldız bulunur. 
+    1.10 - Kaydet butonu en alt ortada yer alır. 
+	  1.10.1 - Arkaplan rengi 1.1'in rengiyle aynıdır. 
+	  1.10.2 - Yazının rengi 1.2'nin rengiyle aynıdır. 
+
+2 - Şifre Değiştirme sayfası bulunur.
+    2.1 - Ekranda ŞİFRE DEĞİŞTİRME başlığına sahip bir kutucuk gösterilir.
+          2.1.1 - Başlığın yazıldığı yerin arkaplan rengi mavi olmalıdır.
+                  2.1.1.1 - Başlık beyaz renk ile yazılır
+          2.1.2 - Eski Şifre adına sahip içi doldurulabilir bir kutucuk gösterilir.
+                  2.1.2.1 - Yazılan bilgiler '.' şeklinde gösterilir
+           	  2.1.2.2 - İçine herhangi bir şey yazıldığında yazıları görebilmemiz için kutunun en sağında göz işareti şeklinde buton çıkar.
+                 	    2.1.2.2.1 - Butona basıldığında simgenin üstünde '\' gösterilir
+         	  2.1.2.3 - Kutucuğun boyutundan daha büyük veri girildikçe kutucuğun gösterdiği yer sağa doğru kayar.
+   	  2.1.3 - Yeni Şifre adına sahip içi doldurulabilir bir kutucuk gösterilir.
+         	  2.1.3.1 - Yazılan bilgiler '.' şeklinde gösterilir
+         	  2.1.3.2 - İçine herhangi bir şey yazıldığında yazıları görebilmemiz için kutunun en sağında göz işareti şeklinde buton çıkar.
+                 	    2.1.3.2.1 - Butona basıldığında simgenin üstünde '\' gösterilir
+         	  2.1.3.3 - Kutucuğun boyutundan daha büyük veri girildikçe kutucuğun gösterdiği yer sağa doğru kayar.
+   	 2.1.4 - Yeni Şifre Tekrar adına sahip içi doldurulabilir bir kutucuk gösterilir.
+         	  2.1.4.1 - Yazılan bilgiler '.' şeklinde gösterilir
+         	  2.1.4.2 - İçine herhangi bir şey yazıldığında yazıları görebilmemiz için kutunun en sağında göz işareti şeklinde buton çıkar.
+                 	    2.1.3.2.1 - Butona basıldığında simgenin üstünde '\' gösterilir
+         	  2.1.4.3 - Kutucuğun boyutundan daha büyük veri girildikçe kutucuğun gösterdiği yer sağa doğru kayar.
+   	 2.1.5 - "DEĞİŞTİR" yazılı bir buton gösterilir.
+         	  2.1.5.1 - Butonun arkaplan rengi mavi olmalıdır.
+         	  2.1.5.2 - Butondaki yazı rengi beyaz olmalıdır.
+         	  2.1.5.3 - Butonun üzerine gelindiğinde buton arkaplan rengi koyulaşır.
+
+    2.2 - Ekranda YENİ ŞİFRE OLUŞTURURKEN başlığına sahip bir kutucuk gösterilir.
+   	  2.2.1 - Başlığın yazıldığı yerin arkaplan rengi mavi olmalıdır.
+         	  2.2.1.1 - Başlık beyaz renk ile yazılır
+   	  2.2.2 - Maddeler şeklinde kurallar gösterilir.
+   	  2.2.3 - Maddeler '.' ile başlar.
+   	  2.2.4 - Özel Karekterler mavi renk ile gösterilir.
+   	  2.2.5 - Örnek kırmızı renk ile gösterilir.
+ 

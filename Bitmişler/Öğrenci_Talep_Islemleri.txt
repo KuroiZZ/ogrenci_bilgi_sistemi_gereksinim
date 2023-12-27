@@ -1,0 +1,108 @@
+Öğrenci Talep Islemleri
+
+1 - Tek Ders Sınavı Talebi sayfası bulunur.
+    1.1 - Ekranda TEK DERS SINAVI TALEBI başlıklı bir kutucuk gösterilir.
+          1.1.1 - Maddeler halinde bilgilendirme metni gösterilir.
+          1.1.2 - Tek ders sınav talebi yapılabilecek tarih aralığında değilsek, tarihleri gösteren bir uyarı metni bulunur.
+          1.1.3 - Tek ders sınav talebi yapılabilecek tarih aralığındaysak, ve öğrenci 9. döneminde sadece 1 derse sahipse başvurma butonu gösterilir.
+          1.1.4 - Başvurulduğunda, başvuru incelenmek üzere sekretere iletilir.
+                  1.1.4.1 - Başvuru kabul edilirse tik işareti gösterilir.
+                  1.1.4.2 - Başvuru reddedilirse carpi işareti gösterilir.
+
+
+2 - ÇAP Başvuru sayfası bulunur.
+    2.1 - Ekranda Çift Anadal Programı Başvuru Sayfası başlıklı bir kutucuk gösterilir.
+          2.1.1 - Maddeler halinde bilgilendirme metni gösterilir.
+          2.1.2 - ÇAP TAKVİMİ başlıklı bir tablo gösterilir, 2 sütuna 7 satira sahiptir
+                  2.1.2.1 - 1. sütunda tarih aralığı gösterilir.
+                  2.1.2.2 - 2. sütunda 1. sütundaki tarih aralıklarında gerçekleşecek olaylar gösterilir.
+          2.1.3 - Çift Anadal Programı Yönetmeliği sayfasına gitmemizi sağlayan "Çift Anadal Programı (ÇAP) Yönetmeliği için tıklayınız..." yazısı halinde tıklanabilir link gösterilir.
+          
+
+3 - Mazeret Sınavı Talebi sayfası bulunur.
+    3.1 - Ekranda Mazeret Sınavı Talepleri başlıklı bir kutucuk gösterilir.
+          3.1.1 - Maddeler halinde bilgilendirme metni gösterilir.
+          3.1.2 - 3 sütun 1 satira sahip bir sütun gösterilir.
+                  3.1.2.1 - Sınav Türü adına sahip sütun, sınavın türünü gösterir.
+                  3.1.2.2 - Başvuru Tarihi adına sahip sütun, başvuru tarihi aralığı gösterilir.
+                  3.1.2.3 - Sınav Tarihi adına sahip sütun, sınav tarihi aralığı gösterirlir.
+          3.1.3 - Öğrencinin istediği etkinlik türünü seçmesini sağlayan açılır bir menü gösterilir.
+                  3.1.3.1 - Ara Sınav Seçilirse
+                            3.1.3.1.1 - Başvuru tarih aralığında değilsek, başvuru tarih aralığında olmadığımız ile ilgili bilgilendirme metni gösterilir.
+                            3.1.3.1.2 - Başvuru tarihi aralığındaysak, mazeret edeceğimiz dersi seçerek başvururuz.
+                            3.1.3.1.3 - Başvuru, incelenmek üzere sekretere iletilir.
+
+4 - Koşullu Durum Güncelleme Talebi sayfası bulunur.
+    4.1 - Ekranda Mazeret Sınavı Talepleri başlıklı bir kutucuk gösterilir.
+          4.1.1 - Maddeler halinde bilgilendirme metni gösterilir.
+          4.1.2 - 4.1.3 maddesindeki gereklilikler sağlanmadıysa başvuru yapılamaz ve uyarı metni gösterilir.
+          4.1.3 - Öğrenci lisans düzeyine göre aktslerini tamamlamış, ortalaması 2'den fazla ve DC notu varsa başvuru yapabilir.
+          4.1.4 - Başvuru, butonuna basılarak başvuru yapılır.
+          4.1.5 - Başvuru, incelenmek üzere sekretere iletilir.
+
+5 - Ek Sınav Talebi sayfası bulunur.
+    5.1 - Ekranda Ek Sınavı Talepleri başlıklı bir kutucuk gösterilir.
+          5.1.1 - Uygulama Esasları kanunu'nun isminde tıklanabilir bir link gösterilir.
+                  5.1.1.1 - Üzerine tıklanırsa maddenin içeriğine gönderir.
+          5.1.2 - Maddeler halinde bilgilendirme metni gösterilir.
+          5.1.3 - Ek sınav başvuru tarihleri arasında değilsek, uyarı metni gösterilir.
+          5.1.4 - Ek sınav başvurusu yapabilme koşulları mezuniyet için 5'den fazla derste başarısız veya devamsız olmaktır. 
+          5.1.5 - Ek sınav başvuru tarihleri arasındaysak ve 5.1.4 maddesinde belirtilen koşulları sağlıyorsak başarısız veya devamsız olduğumuz dersler gösterilir.
+                  5.1.5.1 - Öğrenci 1.4'de gösterilen derslerden istediklerini seçerek başvuru yapar.
+          5.1.6 - Başvuru incelenmek üzere sekretere iletilir.
+
+6 - Formasyon Başvurusu sayfası bulunur.
+    6.1 - Ekranda Formasyon Başvurusu başlıklı bir kutucuk gösterilir.
+          6.1.1 - Maddeler halinde bilgilendirme metni gösterilir.
+                  6.1.1.1 - Formasyon başvurusuna ait duyuru metni isminde tıklanabilir bir link gösterilir.
+                            6.1.1.1.1 - Üzerine tıklanırsa bulunduğu sayfaya gönderir.
+                  6.1.1.2 - Formasyon başvurusu yapılabilecek alanların listesi isminde tıklanabilir bir link gösterilir.
+                            6.1.1.2.1 - Üzerine tıklanırsa bulunduğu sayfaya gönderir.
+                  6.1.1.3 - Formasyon başvurusu formuna erişmek isminde tıklanabilir bir link gösterilir.
+                            6.1.1.3.1 - Üzerine tıklanırsa bulunduğu sayfaya gönderir.
+          6.1.2 - Formasyon başvurusu için belirlenen tarih aralığında değilse, uyarı mesajı gösterilir.
+          6.1.3 - Formasyon başvurusu için belirlenen tarih aralında ve koşulları sağlıyorsak.
+                  6.1.3.1 - Belge yükleme bölümü gösterilir.
+                            6.1.3.1.1 - Belge .jpg, .jpeg, .png veya .pdf formatında olmalı ve 5 mb'ı geçmemelidir.
+                  6.1.3.2 - Başvuru butonu gösterilir, tıklanarak başvuru yapılır.
+                  6.1.3.3 - Başvuru incelenmek üzere sekretere iletilir.
+                            6.1.3.3.1 - Başvuru onaylanırsa tik simgesi gösterilir.
+                            6.1.3.3.1 - Başvuru reddelirse carpi simgesi gösterilir.
+                                        6.1.3.3.1.1 - Başvuru ekranı tekrar görülebilir hale getirilir.
+                            6.1.3.3.1 - Başvuru beklemedeyse kum saati simgesi gösterilir.
+
+7 - Ders Erişim Sorunları sayfası bulunur.
+    7.1 - Ekranda Ders Erişim Sorunları başlıklı bir kutucuk gösterilir.
+          7.1.1 - Maddeler halinde bilgilendirme metni gösterilir.
+          7.1.2 - Üç farklı seçilebilir seçenek sunulur.
+                  7.1.2.1 - Aralarından sadece 1 tanesi seçilebilir.
+                  7.1.2.2 - Teams Canlı Derselere Katılamıyorum adında bir seçenek gösterilir.
+                  7.1.2.3 - E-Destek' ten Ders İçeriklerine Erişemiyorum adında bir seçenek gösterilir.
+                  7.1.2.4 - Ders Video Kayıtlarına Erişemiyorum adında bir seçenek gösterilir.
+                  7.1.2.5 - Herhangi bir seçenek seçilirse
+                            7.1.2.5.1 - Ders Erişim Sorunu Bildireceğiniz Dersi Seçiniz! yazılı bir açılır menü gösterilir, açılır menü öğrencinin bulunduğu dönemdeki dersleri gösterilir.
+                            7.1.2.5.2 - Ders seçilirse.
+                                        7.1.2.5.2.1 - Dersin adı gösterilir.
+                                        7.1.2.5.2.2 - Dersin katalog numarası gösterilir.
+                                        7.1.2.5.2.3 - Dersin kodu gösterilir.
+                                        7.1.2.5.2.4 - Dersin öğretim elemanı gösterilir.
+                                        7.1.2.5.2.5 - Açıklama kutusu gösterilir, kutunun içine yazı yazılabilir.
+                  7.1.2.6 - Onayla butonu gösterilir, tıklanırsa açıklama içeriği seçilen dersin öğretim görevlisine gönderilir.
+
+8 - Kampüs Kart Talebi sayfası bulunur.
+    8.1 - Kampüs Kart Talepleri başlığında bir kutu gösterilir.
+          8.1.1 - Maddeler halinde belirtilen bir açıklama metni gösterilir.
+          8.1.2 - Öğrenci ile ilgili bilgi bölümü gösterilir. 
+                  8.1.2.1 - Öğrenci No, öğrencinin numarasını gösterir.
+                  8.1.2.2 - Adı Soyadı, öğrencinin adını ve soyadını gösterir.
+          8.1.3 - Kampüs Kart Talep Et butonuna basıldığında yeni bir pencere açılır.
+                  8.1.3.1 - Öğrenci Kampüs Kart Talep Nedeni Seçiniz isimli açılır menü gösterilir. 
+                  8.1.3.2 - Öğrenci Kampüs Kartı Talep Ettiğimi Kabul Ediyor ve Onaylıyorum kutucuğu gösterilir. Kutucuk işaretlendikten sonra pencere büyür ve daha önce gösterilmeyen içerik gösterilir.
+                            8.1.3.2.1 - Kutucuğa tekrar basıldığında işlemin iptal edilmek istendiğine dair uyarı mesajı gösterilir.
+                                        8.1.3.2.1.1 - Uyarı mesajındaki tamam tuşuna basılırsa İşlemin iptal edildiğini belirten bir uyarı mesajı gözükür ve 8.1.3'deki açılan pencere tekrar gösterilir.
+                                        8.1.3.2.1.2 - Uyarı mesajındaki iptal tuşuna basılırsa kutucuktaki tik kalkar ancak sayfa aynı kalır.
+                            8.1.3.2.2 - Öğrencinin uyması gereken kuralların yazdığı metin kutusu gösterilir.
+                            8.1.3.2.3 - Dosya Seç tuşu, tıklandığında dosya seçtirir. Tuşun yanında dosyanın seçilip seçilmediği gösterilir. 
+                            8.1.3.2.4 - Fotoğraf Yükle tuşuna basıldığında seçilen dosyayı sisteme yükler. 
+                  8.1.3.3 - KAPAT tuşuna basıldığında bu açılan pencereyi kapatır.
+          8.1.4 - Kampüs Kartın talep durumu gösterilir. 
