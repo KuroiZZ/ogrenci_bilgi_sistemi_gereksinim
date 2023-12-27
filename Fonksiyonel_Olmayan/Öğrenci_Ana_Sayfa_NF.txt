@@ -110,6 +110,98 @@
         3.4.2 - Bölüm ile sekme içeriğini ayıran gri bir çizgi bulunur.
             3.4.2.1 - Görüntülenmekte olan sekmenin düğmesinin sol, üst ve sağ kenarları gri renkte görüntülenir.
             3.4.2.2 - Çizginin 3.4.2.1'de belirtilen düğmenin alt kenarına denk gelen kısmı görüntülenmez.
+      
+    3.5 - Ön tanımlı olarak ilk seçme seçilidir.
+
+    3.6 - 3.4'te tanımlanan sekmelerin sol altında sekmenin ismi sayfa başlığı olarak bulunur.
+        3.6.1 - Başlıklar siyah renklidir.
+        3.6.2 - Başlıklar büyüktür. 
+	
+    3.7 - İkinci sekme seçili ise 3.6 bölümünün sağında bir düğme bulunur.
+        3.7.1. - Düğmenin rengi yeşildir.
+            3.7.1.1 - Fare Düğmenin üstüne geldiğinde renk koyulaşır.
+        3.7.2 - Düğmenin üstünde "Yeni Mesaj Gönder" yazısı bulunur.
+            3.7.2.1 - Yazının rengi beyazdır.
+    
+    3.8 - 3.6 bölümünün altında sayfa değiştirme düğmeleri bulunur.
+        3.8.1 - Düğmelerin rengi beyazdır.
+            3.8.1.1 - Fare düğmenin üstüne geldiğinde renk gri olur.
+            3.8.1.2 - Seçili düğmenin rengi koyu gridir.
+        3.8.2 - Düğmenin üstündeli sayı ve simgeler mavi renklidir.
+
+    3.9 - 3.8 bölümünün sol altında işaretlenebilir kutu bulunur.
+        3.9.1 - Fare bu kutunun üstündeyken "Tümünü Seç" yazılı bir açıklama kutusu çıkar.
+        3.9.2 - Bu kutunun yanında bir düğme bulunur.
+            3.9.2.1 - Bu düğme beyaz renklidir.
+            3.9.2.2 - Fare bu düğmenin üstüne geldiğinde "Seçilenleri Sil" yazılı bir açıklama kutusu çıkar.
+            3.9.2.3 - Bu düğmenin içinde bir kutu bulunur.
+                3.9.2.3.1 - Bu kutunun rengi gridir.
+                3.9.2.3.2 - İçinde "Sil" yazar.
+                3.9.2.3.3 - İçindeki yazının rengi beyazdır.
+
+    3.10 - 3.9 bölümünün sağında arama kutusu bulunur.
+        3.10.1 - Kutunun rengi beyazdır.
+        3.10.2 - Çerçevesinin rengi gridir.
+            3.10.2.1 - Bu kutu seçiliyken çerçeve mavi parlar.
+        3.10.3 - İçinde yer tutucu yazı bulunur.
+            3.10.3.1 - Yazı gri renklidir.
+        3.10.4 - Kutunun sağında kutuya ait açılır menü düğmesi bulunur. 
+            3.10.4.1 - Düğme beyaz renklidir.
+                3.10.4.1.1 - Fare üstüne geldiğinde renk açık gri olur.
+                3.10.4.1.2 - Seçiliyken renk koyu gri olur.
+            3.10.4.2 - İçinde "Tümü" yazısını bulundurur.
+                3.10.4.2.1 - Yazı siyah renklidir.
+            3.10.4.3 - Tıklandığında düğmenin içinde bir çerçeve görünüp gider.
+	3.10.4.3.1 - Çerçeve siyah renklidir.
+	3.10.4.3.2 - Çerçeve kalındır.
+            3.10.4.4 - Açılır menü 4 seçenek bulundurur.
+	3.10.4.4.1 - Menünün art alanı beyazdır.
+	    3.10.4.4.1.1 - Seçili seçeneğin art alanı gri olur.
+	3.10.4.4.2 - Seçeneklerin rengi siyahtır.
+	3.10.4.4.3 - İlk seçenek ön tanımlı olarak seçilidir.
+
+    3.11 - 3.9 bölümünün altında, alt alta kutular bulunur.
+        3.11.1 - Kutuların art alanı beyazdır.
+        3.11.2 - Çerçeveleri gridir.
+        3.11.3 - Kutuların  içinde sol tarafında işaretlenebilir kutu bulunur. 
+        3.11.4 - 3.11.3 bölümünün sağında düğme bulunur.
+            3.11.4.1 - Düğme beyaz renklidir.
+	3.11.4.1.1 - Fare üstüne geldiğinde renk gri olur.
+            3.11.4.2 - Üstündeki simge siyah renklidir.
+	3.11.4.2.1 - Fare üstüne geldiğinde renk kırmızı olur.
+            3.11.4.3 - Fare üstüne geldiğinde dosyanın okunma durumuna göre açıklama kutusu çıkar.
+        3.11.5 - 3.11.4 bölümünün sağında bir simge bulunur.
+            3.11.5.1 - Simge siyah renklidir.
+        3.11.6 - 3.11.5 bölümünün sağında bir düğme bulunur.
+            3.11.6.1 - Düğme beyaz renklidir.
+	3.11.6.1.1 - Fare üstüne geldiğinde renk gri olur.
+            3.11.6.2 - Üstündeki simge siyah renklidir.
+	3.11.6.2.1 - Fare üstüne geldiğinde renk kırmızı olur.
+            3.11.6.3 - Fare üstüne geldiğinde "Yanıtla" yazılı açıklama kutusu çıkar.
+        3.11.7 - 3.11.6 bölümünün sağında başlık metni yer alır.
+            3.11.7.1 - Metin siyah renklidir.
+            3.11.7.2 - Metin kalındır.
+        3.11.8 - 3.11.7 bölümünün altında mesajın ilgili olduğu ders adı ve dersin öğretim üyesinin ismi bulunur.
+            3.11.8.1 - Yazı gri renklidir.
+            3.11.8.2 - Yazı italiktir.
+        3.11.9 - 3.11.7 bölümünün sağında mesajı gönderenin ismi bulunur.
+            3.11.9.1 - Yazı gri renklidir. 
+        3.11.10 - 3.11.9 bölümünün sağında tarih ve saat yer alır.
+            3.11.10.1 - Yazı gri renklidir.
+            3.11.10.2 - Yazı küçüktür.
+            3.11.10.3 - Tarih xx/xx/xxxx formatındadır.
+            3.11.10.4 - Saat xx:xx formatındadır.
+        3.11.11 - Kutulara tıklandığında kutu alta doğru genişler.
+            3.11.11.1 - Eski kutu ve genişleyen kısım noktalı çizgi ile ayrılır.
+	3.11.11.1.1 - Çizgi gri renklidir.
+            3.11.11.2 - Çizginin altında öğretim üyesi tarafından yazılan yazı bulunur.
+                3.11.11.2.1 - Yazı siyah renklidir. 
+
+    3.12 - En altta mesaj yanlarındaki sembollerin açıklamaları yer alacaktır.
+
+
+
+
 
 
 Erkut'un mesajlar sayfası:
