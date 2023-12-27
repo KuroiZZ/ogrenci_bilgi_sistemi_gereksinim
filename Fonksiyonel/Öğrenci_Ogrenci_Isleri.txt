@@ -1,0 +1,81 @@
+Öğrenci Öğrenci İşleri
+
+1 - Harç Bilgileri sayfası bulunur.
+    1.1 - Harç Bilgileri başlıklı kutuda bir tablo gösterilir
+    1.1 - Bir tane tablo gösterilir. 6 tane sütuna ve öğrencinin eğitim gördüğü dönem sayısı kadar satira sahiptir.
+          1.1.1 - DÖNEM sütununda, eğitim dönemi gösterilir.
+          1.1.2 - DÖNEM BORCU sütununda, eğitim gördüğü dönem için borç gösterilir.
+          1.1.3 - ESKİ BORÇ sütununda, şu an bulunduğu dönemden önceki dönemlerden kalma borcun toplamı gösterilir.
+          1.1.4 - ÖDEDİĞİ TUTAR sütununda, öğrencinin eğitim gördüğü dönemdeki ödediği tutar gösterilir.
+          1.1.5 - ÖDEDİĞİ TARİH sütununda, harç borcunu ödediği tarih gösterilir.
+          1.1.6 - Durum sütununda, (Ne Gösteriliyor Bilmiyorum).
+          1.1.7 - Bir satir en fazla bir dönem bilgisi içerebilir.
+          1.1.8 - Bir dönem bilgisi en fazla bir satırda gösterilir.
+    2.1 - Yatay ve Dikey geçiş ile ilgili bir bilgilendirme metni gösterilir.
+    3.1 - Harç ile igili açıklamaların içerdiği bir bilgilendirme metni gösterilir.
+
+2 - Harç İade sayfası bulunur.
+    2.1 - İade talebi yoksa
+          2.1.1 - İade talebinin olmadığını söyleyen bilgilendirme metni gösterilir.
+    2.2 - İade talebi varsa 
+          2.2.1 - Ne yapıyor bilmiyorum aga yeter ya
+
+3 - YÖKSİS/E-Devlet sayfası bulunur.
+    3.1 - Ek pencere açılır.
+          3.1.1 - YÖKSİS ve EDEVLET ile ilgili bilgelindirme metni gösterilir.
+          3.1.2 - YÖKSİS ÖĞRENİM BİLGİLERİ adinda bir tablo gösterilir, 7 sütunü ve 1 satiri vardir.
+                  3.1.2.1 - Detay sütununda, açılabilir bir buton gösterilir, tiklanırsa bilgiler daha detaylı gösterilir.
+                            3.1.2.1.1 - T.C Kimlik No'su gösterilir.
+                            3.1.2.1.2 - Adı soyadı gösterilir.
+                            3.1.2.1.3 - Birimi gösterilir.
+                            3.1.2.1.4 - Eğitim türü gösterilir.
+                            3.1.2.1.5 - Giriş türü gösterilir.
+                            3.1.2.1.6 - Kayıt tarihi gösterilir.
+                            3.1.2.1.7 - Ayrılma nedeni gösterilir.
+                            3.1.2.1.8 - Öğrenim hakkı durumu gösterilir.
+                            3.1.2.1.9 - Diploma not sistemi gösterilir.
+                            3.1.2.1.10 - AKTS gösterilir.
+                            3.1.2.1.11 - Öğrenci Nosu gösterilir gösterilir.
+                            3.1.2.1.12 - Uyruğu gösterilir.
+                            3.1.2.1.13 - Birim türü gösterilir.
+                            3.1.2.1.14 - Öğrenim süresi gösterilir.
+                            3.1.2.1.15 - Giriş Puanı gösterilir.
+                            3.1.2.1.16 - Sınıfı gösterilir.
+                            3.1.2.1.17 - Öğrencilik statüsü gösterilir.
+                            3.1.2.1.18 - Ayrılma tarihi gösterilir.
+                            3.1.2.1.19 - Diploma notu gösterilir.
+ 	          3.1.2.2 - Üniversite sütununda, öğrencinin okuduğu üniversitenin ismi gösterilir.
+                  3.1.2.3 - Enstitü/Fakülte/YO/MYO sütununda, öğrencinin okuduğu fakültenin ismi gösterilir.
+                  3.1.2.4 - Bölüm/Program sütununda, öğrencinin okuduğu bölüm ismi gösterilir.
+                  3.1.2.5 - YÖKSİS Birim No sütununda, öğrencinin yöksis numarası gösterilir.
+                  3.1.2.6 - Durum sütununda, öğrencinin şu anki öğrenim durumu gösterilir.
+                  3.1.2.7 - Güncelle sütununda, bir buton bulunur.
+                            3.1.2.7.1 - Butona tıklandığında öğrencinin bilgilerinin güncellendiği ile ilgili bildirim mesajı gösterilir ve bilgiler güncellenir.
+
+4 - Açılan Dersler sayfası bulunur.
+    4.1 - Bölümün Açtığı Dersler başlıklı bir tablo gösterilir.
+	  4.1.1 - Tablo 5 sütundan oluşur.
+		  4.1.1.1 - Gün sütununda, dersin haftanın hangi gününde işlendiği gösterilir.
+		  4.1.1.2 - Ders Saat sütununda, dersin işlendiği saat gösterilir.
+		  4.1.1.3 - Ders Adı sütununda, dersin adı gösterilir.
+       		  4.1.1.4 - Öğretim Elemanı sütununda, dersi veren öğretim görevlisinin adı gösterilir.
+		  4.1.1.5 - Yarıyıl sütununda, dersin ait olduğu yarıyıl gösterilir.
+	  4.1.2 - Bir satırda yalnız bir dersin bilgileri gösterilir.
+		  4.1.2.1 - Dersle ilgili yalnızca sütunların belirttiği bilgiler gösterilir.
+	  4.1.3 - Bir dersin bir hafta içinde işlendiği her saat ayrı birer satırda gösterilir.
+
+   4.2 - Üniversite Seçmeli Dersler başlıklı bir tablo gösterilir.
+	 4.2.1 - Tablo 6 sütundan oluşur.
+		 4.2.1.1 - Gün sütununda, dersin haftanın hangi gününde işlendiği gösterilir.
+		 4.2.1.2 - Ders Saat sütununda, dersin işlendiği saat gösterilir.
+		 4.2.1.3 - Ders Adı sütununda, dersin adı gösterilir.
+		 4.2.1.4 - Öğretim Elemanı sütununda, dersi veren öğretim görevlisinin adı gösterilir.
+		 4.2.1.5 - AKTS sütununda dersin Avrupa Kredi Transfer Sistemi uyumlu not ağırlığı gösterilir.
+		 4.2.1.6 - Akademik Birim sütununda dersin ait olduğu bölümün adı gösterilir.
+	 4.2.2 - Bir satırda yalnız bir dersin bilgileri gösterilir.
+	 	 4.2.2.1 - Dersle ilgili yalnızca sütunların belirttiği bilgiler gösterilir.
+	 4.2.3 - Bir dersin bir hafta içinde işlendiği her saat ayrı birer satırda gösterilir.
+
+   4.3 - Sayfanın başında tabloların ne içerdiğini belirten bir açıklama yazısı gösterilir.
+   4.4 - Öğrencinin tabloları bilgisayarına kaydedebilmesi için kılavuz yazısı gösterilir.
+   4.5 - Öğrencinin tabloların baskısını alabilmesi için düğme gösterilir.
