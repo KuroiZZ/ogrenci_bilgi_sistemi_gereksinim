@@ -1,9 +1,9 @@
-1 - Lisans sahibi bilgilerinin yazı tipinin Arial olması
-2 - Lisans sahibi bilgilerinin yazı rengi.
+1 - Telif hakkı sahibi bilgilerinin yazı tipinin Arial olması
+2 - Telif hakkı sahibi bilgilerinin yazı rengi.
   2.1 - Öğrenci girişi sayfalarında yazının beyaz renk olması.
   2.2 - Akademik ve idari giriş sayfalarında yazının siyah renk olması.
 
-3 - Lisans sahibi bilgilerinin arka planı.
+3 - Telif hakkı sahibi bilgilerinin arka planı.
   3.1 - Öğrenci girişi sayfalarında mavi renk olması.
     3.1.1 - Yazı etrafında, kenarları yuvarlatılmış bir kutucuk şeklini oluşturması.
     
