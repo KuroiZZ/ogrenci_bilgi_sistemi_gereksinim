@@ -86,3 +86,130 @@
 
     2.13 - Sayfadaki olumlu uyarılar yeşil renklidir.
         2.13.1 - Yazı rengi uyarı renginin koyulaştırılmış hâlidir.
+
+3 - Mesajlar Sayfası
+
+    3.1 - Sayfanın art alan rengi beyazdır.
+    3.2 - Tüm ögeleri içine alan mavi renkli bir çerçeve vardır.
+        3.2.1 - Bölümün köşeleri yuvarlatılmıştır.
+
+    3.3 - Sayfanın adını belirten bir başlık satırı vardır.
+        3.3.1 - Başlık satırında bölümün adı yazar.
+        3.3.2 - Başlıktaki yazı satır başına hizalanır.
+        3.3.3 - Başlığın art alan rengi mavidir.
+        3.3.4 - Başlığın yazı rengi beyazdır.
+
+    3.4 - Başlık satırının altında sekmeler bölümü bulunur.
+        3.4.1 - Bölümde her sekme için birer düğme bulunur.
+            3.4.1.1 - Düğmelerin üzerinde ilgili sekmenin adı yazar.
+            3.4.1.2 - Görüntülenmekte olan sekmenin düğmesi etkin değildir.
+            3.4.1.3 - Düğmelerin yazı rengi etkinlik durumuna göre değişir.
+                3.4.1.3.1 - Etkin olması durumunda yazı rengi mavidir.
+                3.4.1.3.2 - Edilgin olması durumunda yazı rengi gridir.
+            3.4.1.4 - Etkin düğmelerin ön tanımlı çerçevesi yoktur.
+        3.4.2 - Bölüm ile sekme içeriğini ayıran gri bir çizgi bulunur.
+            3.4.2.1 - Görüntülenmekte olan sekmenin düğmesinin sol, üst ve sağ kenarları gri renkte görüntülenir.
+            3.4.2.2 - Çizginin 3.4.2.1'de belirtilen düğmenin alt kenarına denk gelen kısmı görüntülenmez.
+
+
+Erkut'un mesajlar sayfası:
+
+
+1 - Ekranda mesajlar bloğu yer alacak
+  1.1 - Blok çerçevesi mavi olacak.
+  1.2 - Bloğun en üstünde "MESAJLAR" yazacak
+    1.2.1 - Arka planı mavi olacak
+    1.2.2 - Arka plan, yazı üstünde ve altında birer satır ve blok genişliği boyunca olacak
+
+2 - "Gelen Mesajlar" ve "Gönderilen Mesajlar" başlıkları mavi renkli yazılı olacak
+    2.1 - Fare ile tıklanmamış olanın üstüne gelindiğinde arka planı gri olacak
+    2.2 - Tıklanmış olanın yazı rengi siyah olacak
+    2.3 - Tıklanmış olanın etrafında 3 kenarlı çerçeve oluşacak
+      2.3.1 - Tıklanan kısımdaki yazının solunda,üstünde ve sağında kenar olacak
+        2.3.1.1 - Gelen mesajlar tıklanmışsa sağdaki kenarın alt noktasından, gönderilen mesajlar altından, blok sağ kenarına yatay çizgi uzanacak
+          2.3.1.1.1 - Sol kenar, blok sol kenarına paralel olacak ve sola doğru yatay çizgi olmayacak
+        2.3.1.2 - Gönderilen mesajlar tıklanmışsa soldaki kenarın ve sağdaki kenarın alt noktalarından, gelen mesajların altından, sırasıyla blok sol ve sağ kenarına yatay çizgi uzanacak
+
+    2.4 - İlk açılışta Gelen Mesajlar açık olacak
+    2.5 - Gelen Mesajlar açıksa sayfa 2'deki başlığın altında büyük boyutta "Gelen Mesajlar" başlığı yer alacak
+    2.6 - Gönderilen Mesajlar açıksa sayfa 2'deki başlığın altında büyük boyutta "Gönderilen Mesajlar" başlığı yer alacak
+      2.6.1 - En sağda Yeni Mesaj Gönder butonu yer alacak
+        2.6.1.1 - Buton rengi açık yeşil olacak
+        2.6.1.2 - İçinde beyaz renkte kalem simgesi ve "Yeni Mesaj Gönder" yazısı yer alacak
+        2.6.1.3 - Fareyle buton üstüne gelinince rengi koyulaşacak
+
+3 - Büyük başlık altında sayfalar arası gezinme butonları yer alacak
+  3.1 - Butonlar beyaz, içindeki sayı ve simgeler mavi olacak
+  3.2 - Üstüne gelinen butonun rengi gri olacak
+  3.3 - Açık olan sayfa numarası arka planı koyu gri olacak
+
+4 - Gezinme butonları altında yan yana sırayla toplu seçim butonu, arama kutusu ve arama filtresi butonu yer alacak
+  4.1 - Arama kutusu beyaz olacaktır
+    4.1.1 - Bir şey yazılmadığı sürece arka planda "Search for..." yazısı bulunacaktır.
+    4.1.2 - Tıklandığında çerçevesi mavi olup parlayacaktır
+  4.2 - Arama filtresi açılır menü butonu şeklinde olacaktır.
+    4.2.1 - Buton beyaz, yazılar siyah ve kalın olacaktır.
+    4.2.2 - Üstüne gelindiğinde arka plan gri olacaktır.
+      4.2.2.1 - Tıklama anında dış çerçeve içinde siyah bir çerçeve daha görünecektir
+      4.2.2.2 - Menü açıldığında buton arka planı gri kalacaktır
+    4.2.3 - Tıklandığında altında filtre seçenekleri açılacaktır.
+      4.2.3.1 - Üstüne gelinenin arka planı gri olacaktır
+      4.2.3.2 - Sayfa ilk açıldığında varsayılan olarak "Tümü" seçili olacaktır
+    4.2.4 - Buton üstünde yazının yanında açılır menü işareti olarak aşağı yönlü üçgen yer alacaktır.
+     
+5 - Mesajlar beyaz bloklar halinde alt alta yer alacaktır
+  5.1 - Mesaj başlıkları kalın yazılı olacaktır
+  5.2 - Başlık altında ders adı ve sorumlusu italik şekilde yazılı olacaktır
+  5.3 - Başlık yanında (sağda) öğretim görevlisi adı standart tipte yer alacaktır
+  5.4 - En sağda küçük boyutta mesaj tarihi ve saati yer alacaktır
+    5.4.1 - Tarih Gün/Ay/Yıl ve XX/XX/XXXX formatında olacaktır
+    5.4.2 - Saat 24 saat ve XX:XX formatında olacaktır
+  5.5 - Her blok başındaki (yani solda) ikonların formatı,
+    5.5.1 - Renk düzeni arka plan beyaz, ikon siyah olacak şekildedir
+    5.5.2 - Seçim butonu en üsttedir
+    5.5.3 - Seçim altında kare dikdörtgen kutu içinde çöp sepeti ikonu yer alır
+    5.5.4 - Çöp ikonu altında klasör simgesi yer alır
+      5.5.4.1 - Mesaj henüz okunmamışsa siyah kapalı bir klasör ikonu vardır
+      5.5.4.2 - Mesaj okunmuşsa beyaz açık bir klasör ikonu vardır
+    5.5.5 - Klasör ikonu altında dikdörtgen kutu içinde ok işareti bulunur
+      5.5.5.1 - Ok işareti saat yönünün tersi yönde yer alır
+      5.5.5.2 - Simge siyahtır
+    5.5.6 - Çöp sepeti ve Ok işareti ikonları üzerine gelince görünümleri değişir
+      5.5.6.1 - Arka planları gri olur
+      5.5.6.2 - Simge renkleri turuncu olur
+    5.5.7 - Tıklanabilir olanlar Çöp sepeti ve Ok işareti ikonlarıdır
+      5.5.7.1 - Çöp sepetine tıklanınca mesaj silinir
+        5.5.7.1.1 - Ekranın üstünde işlem başarıyla gerçekleştirildi uyarısı çıkar.
+          5.5.7.1.1.1 - Formatı mesaj gönderme kısmındaki aynı uyarıyla aynıdır.
+      5.5.7.2 - Ok işaretine tıklanınca mesajı yanıtlama kısmı açılır
+        5.5.7.3 - 5.2 maddesindeki yazıların altında metin kutusu çıkar
+          5.5.7.3.1 - Beyaz arka planlıdır.
+          5.5.7.3.2 - Yazı yazılmadığı sürece arka planda "Yanıt mesajınızı yazınız" yazısı bulunur.
+          5.5.7.3.3 - Tıklandığında çerçevesi mavi olup parlayacaktır
+          5.5.7.3.4 - Yazı yazılmadığı sürece üstüne gelindiğinde "Lütfen bu alanı doldurun" html title yazısı belirir
+        5.5.7.4 - Metin kutusu altında gönder butonu bulunur
+          5.5.7.4.1 - Buton mavidir
+            5.5.7.4.1.1 - Üstüne gelindiğinde rengi koyulaşır
+            5.5.7.4.1.2 - Tıklandığında dış çerçevenin içinde siyah bir çerçeve daha belirir
+          5.5.7.4.2 - İçinde beyaz renkte "GÖNDER" yazılıdır
+  5.6 - Mesaj üstüne tıklandığında açılacak ve içerik görünecektir
+    5.6.1 - Seçili/açılan mesaj bloğu gri renk olacaktır.
+    5.6.2 - En üstte en son gelen mesaj yer alacaktır
+      5.6.2.1 - Gelen mesajlar en üstte yeniden eskiye sıralanacaktır
+      5.6.2.2 - Gelen mesajlardan sonra varsa yanıtlamalar yeniden eskiye sıralanacaktır
+      5.6.2.3 - Açılan mesaj bloğunun en altında (varsa) öğrencinin ilk yazdığı mesaj yer alacaktır.
+      5.6.2.3 - Eğer gönderilen mesajlar sekmesi açıksa en üstte en yeni tarihli mesaj yer alacaktır.
+        5.6.2.3.1 - Gelen/giden fark etmeksizin mesajlar yukarıdan aşağı yeniden eskiye sıralanacaktır.
+    5.6.3 - O bloğun son mesajına kadar her mesajın altında sınır belli eden gri yatay çizgi yer alacaktır
+    5.6.4 - Mesaj başlığı ve mesaj içeriği arasında da ince gri çizgi olacaktır
+    5.6.5 - Açılı mesaj bloğu içindeki öğrencinin gönderdiği mesajların yanında "Sağa Ok" simgesi yer alacaktır
+      5.6.5.1 - Ok işareti turuncu olacaktır
+    5.6.6 - Gönderilen Mesajlar sekmesi açıksa, bir mesaj bloğu açıldığında gelen gönderilen mesajlarda mavi "Sağa Ok" yer alacaktır
+      5.6.6.1 - Gelen mesajlarda turuncu "Sola Ok" yer alacaktır.
+    5.6.7 - Her mesajın tarihi ve saati mesaj sonunda satır başı yapılıp yazılacaktır
+      5.6.7.1 - En üstteki mesajın saati ve tarihi sadece mesaj bloğu başlığında yer alacaktır.
+
+6 - En altta mesaj yanlarındaki sembollerin açıklamaları yer alacaktır
+  6.1 - "Semboller; Çöp Kutusu: Silme, Klasör: Okunma durumu, Ok İşareti: Yanıtlama".
+    (Bu sembolleri ss alır docx yazarken ekleriz)
+  6.2 - Gönderilen Mesajlar kısmına girildiğinde, mesaj yanlarında sadece "Silme" ve "Okunma durumu" ikonları yer alacaktır.
