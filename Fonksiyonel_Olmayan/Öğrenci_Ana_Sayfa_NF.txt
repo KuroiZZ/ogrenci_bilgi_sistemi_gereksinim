@@ -1,0 +1,59 @@
+1 - Ana Sayfa
+
+    1.1 - Sayfanın art alan rengi beyazdır.
+
+    1.2 - Sayfadaki her bölümün başlık satırı vardır.
+        1.2.1 - Başlık satırında bölümün adı yazar.
+        1.2.2 - Başlıktaki yazı satır başına hizalanır.
+        1.2.3 - Başlığın art alan rengi mavidir.
+        1.2.4 - Başlığın yazı rengi beyazdır.
+
+    1.3 - Sayfadaki her bölümün kenarları mavi renklidir.
+    1.4 - Sayfadaki her bölümün köşeleri yuvarlatılmıştır.
+    1.5 - Sayfadaki her bölümün art alanı 1.1'de belirtilen sayfa art alanıyla aynı renktir.
+
+    1.6 - Bilgilendirme bölümü 1.2 ila 1.5 maddelerine uyar.
+    1.7 - Duyurular bölümü 1.2 ila 1.5 maddelerine uyar.
+        1.7.1 - Her duyuru kendi kısmında görüntülenir.
+            1.7.1 - Yönlendirme amaçlı duyurular sarı renktir.
+            1.7.2 - Bilgilendirme amaçlı duyurular kırmızı renktir.
+
+    1.8 - Mesajlar bölümü 1.2 ila 1.5 maddelerine uyar.
+        1.8.1 - Mesaj gönderme düğmesinde "Mesaj Gönder" yazar.
+            1.8.1.1 - Düğmenin art alan rengi yeşildir.
+            1.8.1.2 - Düğmenin yazı rengi beyazdır.
+            1.8.1.3 - Düğmede kalem-kağıt simgesi bulunur.
+        1.8.2 - Mesajlar sayfasına yönlendiren düğmede "Mesajlar" yazar.
+            1.8.2.1 - Düğmenin art alan rengi mavidir.
+            1.8.2.2 - Düğmenin yazı rengi beyazdır.
+        1.8.3 - Okunmamış mesaj sayısı bilgilendirmesi renkli bir kutudur.
+            1.8.3.1 - Okunmamış mesaj bulunmaması durumunda kutu yeşil renklidir.
+            1.8.3.2 - Okunmamış mesaj bulunması durumunda kutu kırmızı renklidir.
+            1.8.3.3 - Kutunun içeriğindeki yazıların rengi kutu renginin koyulaştırılmış hâlidir.
+    
+    1.9 - Anketler bölümü 1.2 ila 1.5 maddelerine uyar.
+        1.9.1 - Anket başlıklarının yazı rengi mavidir.
+        1.9.2 - Anket başlıklarının etrafında gri rengi çerçeve vardır.
+
+    1.10 - 
+
+
+
+6 - Diğer bilgiler bloğu formatı
+  6.1 - Blok çerçevesi mavi olacak.
+  6.2 - Bloğun en üstünde "BİLGİLENDİRME" yazacak
+    6.2.1 - Arka planı mavi olacak
+    6.2.2 - Arka plan, yazı üstünde ve altında birer satır ve blok genişliği boyunca olacak
+  6.3 - Anketler beyaz bloklar halinde alt alta yer alacak
+    6.3.1 - Fare ile üstüne gelinen anket arka planı gri olacak.
+  6.4 - Anket isimleri siyah yazılmış olacak
+  6.5 - Anket başlıkları daha büyük puntoda yazılacak
+  6.6 - Her anket bloğu tıklanabilir olacak
+
+7 - Sosyal medya bloğu formatı
+  7.1 - Blok çerçevesi mavi olacak.
+  7.2 - Bloğun en üstünde "BİLGİLENDİRME" yazacak
+    7.2.1 - Arka planı mavi olacak
+    7.2.2 - Arka plan, yazı üstünde ve altında birer satır ve blok genişliği boyunca olacak
+  7.3 - Sosyal medya ikonları mavi renkte yer alacak
+  7.4 - Sadece ilgili sosyal medyanın png ikonu yer alacak (facebook için f harfi, twitter için kuş simgesi gibi)
