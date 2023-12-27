@@ -35,25 +35,12 @@
         1.9.1 - Anket başlıklarının yazı rengi mavidir.
         1.9.2 - Anket başlıklarının etrafında gri rengi çerçeve vardır.
 
-    1.10 - 
+    1.10 - Sosyal medya bölümü 1.2 ila 1.5 maddelerine uyar.
+        1.10.1 - Düğmelerde ilgili sosyal medya platformunun logosu bulunur.
+        1.10.2 - Logolar tek renkli ve mavidir.
 
-
-
-6 - Diğer bilgiler bloğu formatı
-  6.1 - Blok çerçevesi mavi olacak.
-  6.2 - Bloğun en üstünde "BİLGİLENDİRME" yazacak
-    6.2.1 - Arka planı mavi olacak
-    6.2.2 - Arka plan, yazı üstünde ve altında birer satır ve blok genişliği boyunca olacak
-  6.3 - Anketler beyaz bloklar halinde alt alta yer alacak
-    6.3.1 - Fare ile üstüne gelinen anket arka planı gri olacak.
-  6.4 - Anket isimleri siyah yazılmış olacak
-  6.5 - Anket başlıkları daha büyük puntoda yazılacak
-  6.6 - Her anket bloğu tıklanabilir olacak
-
-7 - Sosyal medya bloğu formatı
-  7.1 - Blok çerçevesi mavi olacak.
-  7.2 - Bloğun en üstünde "BİLGİLENDİRME" yazacak
-    7.2.1 - Arka planı mavi olacak
-    7.2.2 - Arka plan, yazı üstünde ve altında birer satır ve blok genişliği boyunca olacak
-  7.3 - Sosyal medya ikonları mavi renkte yer alacak
-  7.4 - Sadece ilgili sosyal medyanın png ikonu yer alacak (facebook için f harfi, twitter için kuş simgesi gibi)
+    1.11 - Diğer bilgiler bölümü 1.2 ila 1.5 maddelerine uyar.
+        1.11.1 - Düğmeler ve bağlantılar aynı biçimde görüntülenir.
+            1.11.1.1 - Her birinin etrafında gri renkli çerçeve vardır.
+            1.11.1.2 - Yazı rengi koyu gridir.
+            1.11.1.3 - Her birinde nereye yönlendirdiğini beliten yazı bulunur.
